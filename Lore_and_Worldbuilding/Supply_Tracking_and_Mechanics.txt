@@ -1,0 +1,15 @@
+Supply Tracking & Mechanics
+
+Resource management is critical to survival and success in the Kyngesreach Archipelago:
+
+Tracked Resources:
+- **Food:** Essential for morale; shortages lead to illness and discontent.
+- **Drinking Water:** Crucial; running out forces risky decisions like landing on dangerous islands.
+- **Grog:** A morale booster; its absence can cause unrest among the crew.
+- **Ammunition:** Limited; players must balance combat with conservation.
+
+Special Considerations:
+- **Nyxie, the Ship's Cat:** Vital for rodent control and crew morale. Her health directly impacts ship conditions. Neglecting Nyxie leads to infestations and lowered morale.
+- **Crew Morale:** Influenced by rations, leadership decisions, and Nyxie’s well-being. Low morale can cause conflicts, desertion, or mutiny.
+
+Resource scarcity creates natural adventure hooks, forcing players into tough choices.
