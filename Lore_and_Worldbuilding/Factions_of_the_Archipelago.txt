@@ -1,0 +1,12 @@
+Factions of the Archipelago
+
+Various factions vie for influence within the Kyngesreach Archipelago:
+
+- **Merchant Consortium:** Present only at the starting mainland port, this powerful economic force drives exploration for new trade routes. They may fund expeditions or offer lucrative contracts.
+- **Iron Tide:** A formidable pirate fleet introduced later in the campaign. Operating in a specific region of the archipelago, they become a recurring threat to trade and exploration.
+- **Stormcallers' Cult:** Mystics who wield weather magic and claim to speak for the sea. Their intentions are often unclear—ranging from protective to destructive.
+- **Port Authority Alliances:** Loose coalitions of merchants, privateers, and mercenaries maintain order on rare port islands.
+- **Isolationist Tribes:** Independent island communities often hostile to outsiders, defending their autonomy fiercely.
+- **Treasure Seekers & Scholars:** Adventurers and academics race to uncover the archipelago’s lost secrets, sometimes helping, sometimes hindering the party.
+
+Factions may become allies, enemies, or both over the course of the campaign.

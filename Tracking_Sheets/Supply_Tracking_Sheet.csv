@@ -1,0 +1,5 @@
+Resource,Total Stock,Daily Consumption (Per Person),Remaining Stock,Days Until Depletion
+Food (meals),100,2.0,100,
+Drinking Water (liters),200,3.0,200,
+Grog (liters),50,1.0,50,
+Ammunition (rounds),300,0.5,300,

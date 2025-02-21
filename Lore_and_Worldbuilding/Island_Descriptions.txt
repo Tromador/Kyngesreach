@@ -1,0 +1,11 @@
+Island Descriptions
+
+The Kyngesreach Archipelago hosts a wide variety of islands, each with unique characteristics and potential dangers:
+
+- **Rare Port Islands:** Few islands offer safe harbors, trade, and repair services. Finding one is an invaluable opportunity to rest, resupply, and gather information.
+- **Mystical Isles:** Many islands possess magical anomalies—shifting geography, time distortions, or climates that differ drastically from the archipelago’s temperate-tropical norm.
+- **Ruins of the Lost Kingdom:** Scattered remnants of the ancient civilization that once ruled the archipelago provide both treasure and peril.
+- **Isolated Communities:** Tribes or isolated settlements with unique cultures, often wary or hostile to outsiders.
+- **Beast-Inhabited Islands:** Some islands are home to dangerous creatures or intelligent animal societies.
+
+Maps and local knowledge about nearby islands are extremely valuable, and the party may find that even common knowledge is conflicting or purposefully misleading.

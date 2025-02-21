@@ -1,0 +1,41 @@
+Attributes:
+Attribute,Value
+ST (Strength),3.0
+DX (Dexterity),13.0
+IQ (Intelligence),5.0
+HT (Health),10.0
+HP (Hit Points),3.0
+Will,5.0
+Per,10.0
+FP (Fatigue Points),10.0
+Basic Speed,5.75
+Basic Move,7.0
+
+Traits:
+Traits
+Acute Hearing 3
+Catfall
+Clinging
+Flexibility
+Perfect Balance
+Silence 2
+Striker (Claws)
+Teeth (Sharp)
+Night Vision 6
+Enhanced Dodge 2
+Sharp Claws (1d-3 cutting)
+Sharp Teeth (1d-4 cutting)
+
+Skills:
+Skill,Level
+Stealth,16
+Climbing,15
+Jumping,14
+Perception (Hunting),12
+Tracking,11
+
+Notes:
+Notes
+"Nyxie is highly intelligent for a cat, exceptionally loyal to the crew, and vital to ship morale."
+Her hunting skills prevent rodent infestations aboard the ship.
+"Crew morale decreases if Nyxie is unhappy, injured, or neglected."
