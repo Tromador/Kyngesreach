@@ -1,0 +1,79 @@
+NPC Profile: Captain Elias Godfrey
+
+"Tell me where you want to go, and I’ll see us there. Don’t bother with how—I’ve officers for that."
+
+---
+
+Basic Information:
+- Name: Captain Elias Godfrey
+- Age: 53
+- Race: Human
+- Gender: Male
+- Role: Captain of the expedition ship
+- Rank: Post-Captain (Royal Navy equivalent)
+
+---
+
+Appearance:
+- Weathered face with lines etched from years at sea.
+- Salt-and-pepper hair, neatly kept but thinning at the temples.
+- Deep-set gray eyes that reflect a lifetime of hard choices.
+- Always in a well-maintained but practical naval coat, avoiding unnecessary flair.
+
+---
+
+Personality:
+- Businesslike: Focused on efficiency and results; speaks plainly without unnecessary embellishments.
+- Pragmatic: Makes decisions based on logic and experience rather than emotion or sentiment.
+- Reserved Leadership: Commands respect through action rather than grand speeches.
+- Subtly Wry: Has a dry sense of humor that surfaces occasionally but never at the expense of professionalism.
+
+---
+
+Motivations:
+- Primary: Maintain his dignity and command after falling out of favor with an admiral.
+- Secondary: Seize any opportunity to regain some measure of professional respect and accomplishment.
+- Underlying Conflict: Balances the desire for a successful expedition with the bitterness of being sidelined.
+
+---
+
+Strengths:
+- Experienced Leader: Decades of naval experience provide him with sound judgment under pressure.
+- Tactician: Skilled in ship combat maneuvers and capable of swift decisions in battle.
+- Calm Under Fire: Keeps his head even in the direst situations.
+- Fair but Firm: Treats his crew justly, earning loyalty without being overly lenient.
+
+---
+
+Weaknesses:
+- Cynical Edge: His recent demotion has left him with a touch of bitterness, sometimes making him dismissive of overly idealistic views.
+- Political Blind Spot: Strong focus on shipboard life leaves him less adept at navigating court politics.
+- Reluctance to Trust Outsiders: Wary of the players' involvement at first, especially if they seem to meddle in ship operations.
+- Resentment of “Wasted Potential”: Occasionally questions if his skills are being squandered on what he sees as a political exile.
+
+---
+
+Relationships:
+- With the Crew:
+  - Respected for his competence, though the crew senses the political undertone of his assignment.
+  - Maintains a professional distance but ensures his crew’s needs are met.
+
+- With the Players:
+  - Views them as clients or mission principals—he’ll take instructions but expects them to defer to his authority on ship matters.
+  - Can be swayed by professionalism and competence; appreciates those who understand naval protocol.
+  - Will bristle at being micromanaged but welcomes clear, concise objectives.
+
+---
+
+Quotes:
+- "Tell me where you want to go, and I’ll see us there. Don’t bother with how—I’ve officers for that."
+- "The sea doesn’t care about pride or politics. Keep that in mind."
+- "I didn’t spend thirty years at sea to be sent chasing ghosts... but orders are orders."
+
+---
+
+Potential Plot Hooks & Interactions:
+- Personal Redemption: Players may discover details about the admiralty incident that sidelined him. Helping him regain favor could open political connections.
+- Loyalty Test: If his loyalty to the mission wavers, players may need to convince him of the expedition’s value.
+- Hidden Depths: Despite his outward resignation, Godfrey may have secret ambitions tied to discoveries in the archipelago.
+- Leadership Challenge: Should players’ actions threaten shipboard harmony, he will firmly reassert his authority.

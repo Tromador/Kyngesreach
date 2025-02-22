@@ -1,0 +1,22 @@
+Skills:
+- Diagnosis (14) [4 points]
+- First Aid (16) [4 points]
+- Surgery (14) [8 points]
+- Herbalism (12) [2 points]
+- Public Speaking (11) [2 points]
+- Streetwise (10) [2 points]
+- Leadership (10) [4 points]
+- Intimidation (12) [2 points]
+
+---
+
+Relationships:
+- With the Crew: Catesby is not trusted by many of the crew due to his past and his ongoing battle with addiction. However, some sailors may respect his medical abilities when he’s sober. Others might fear his incompetence during critical times.
+- With the Players: Initially, the players may see him as a necessary evil—perhaps the only option available for medical care. How the players interact with him will determine how much they trust him, but he is often resentful of anyone questioning his medical authority.
+
+---
+
+Quotes:
+- "You’ll thank me for this when you’re alive, that’s all I’ll say."
+- "Another day, another drunken sailor with a broken leg. But what else is new?"
+- "I’ll do the surgery, but don’t ask me to hold your hand through it."
