@@ -71,3 +71,10 @@ Date: 2025-02-21
 Type of Change: Added
 Affected Files: Entire repository
 Description: Created a new repository package with all updated documents, version control, and instructions for GitHub upload.
+
+
+Version: v3.0
+Date: 2025-02-22
+Type of Change: Updated
+Affected Files: Player_Information/Nyxie_Player_Description.txt, NPCs/NPC_Captain_Elias_Godfrey.txt
+Description: Added Nyxie description and Captain Elias Godfrey NPC profile, updated project structure.
