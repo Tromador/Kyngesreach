@@ -78,3 +78,10 @@ Date: 2025-02-22
 Type of Change: Updated
 Affected Files: Player_Information/Nyxie_Player_Description.txt, NPCs/NPC_Captain_Elias_Godfrey.txt
 Description: Added Nyxie description and Captain Elias Godfrey NPC profile, updated project structure.
+
+
+Version: v3.2
+Date: 2025-02-22
+Type of Change: Updated
+Affected Files: Adventure_Hooks, Characters/NPCs
+Description: Removed invalid files from Adventure Hooks folder, updated NPC profiles for Captain Elias Godfrey and Dr. Archibald Catesby.

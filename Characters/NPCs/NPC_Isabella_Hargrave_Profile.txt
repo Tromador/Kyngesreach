@@ -1,0 +1,30 @@
+NPC Profile: First Lieutenant Isabella Hargrave
+
+First Lieutenant Isabella Hargrave stands tall, with a confident yet composed posture that speaks to her years of naval experience. Her hair is usually pulled back in a neat, practical style, and her uniform is always pristine, reflecting both her professionalism and her desire to maintain order amidst the chaos of the sea. She carries herself with a quiet authority, often engaging in the work at hand without unnecessary fanfare. While she is intellectual and driven, there is a softness in her eyes when she speaks about the scientific discoveries that excite her.
+
+Her face often betrays the weight of her family’s expectations, a life of privilege and duty left behind for the freedom and intellectual pursuit the sea offers. She’s neither stoic nor overly emotional; her leadership is one of calm, reasoned decisions and a genuine interest in those under her command. Yet, there are moments when the pressure of family obligations creeps into her demeanor—those brief flashes of doubt that remind her of the life she’s left behind.
+
+With her mind always working on the next discovery, whether it’s mapping unknown lands or examining new flora, she’s equally at home with a compass in hand as she is leading her crew through difficult times. She inspires respect and admiration from her crew, not because she’s demanding or fierce, but because she leads by example.
+
+---
+
+Basic Information:
+- Name: Isabella Hargrave
+- Age: (To be decided)
+- Race: Human
+- Gender: Female
+- Role: First Lieutenant of the expedition ship
+
+---
+
+Backstory:
+The First Lieutenant comes from a family of landed gentry, with expectations of inheriting land, a title, and wealth. Her family envisioned a future where she would marry well, manage the estate, and continue the family legacy. However, from a young age, she was drawn to exploration and scientific discovery.
+
+Rejecting the path laid out for her, she joined the navy to pursue knowledge and intellectual growth. Her decision to join the service caused a permanent rift with her family, who now see her as wasting her inheritance and living recklessly. Yet, the First Lieutenant feels an overwhelming drive to explore, to chart new lands, and to experience the world through discovery.
+
+This expedition to the Kyngesreach Archipelago represents her escape from the suffocating expectations of her family. Here, she can live freely, pursuing her curiosity and intellectual goals, while leading a crew through uncharted waters.
+
+---
+
+Motivations:
+Her primary motivation is to prove that she can define her own path, separate from her family’s expectations. She wants to discover the unknown, learn more about the world, and contribute to the scientific understanding of the unexplored territories. She’s determined to make this expedition a personal success, as well as a professional one.
