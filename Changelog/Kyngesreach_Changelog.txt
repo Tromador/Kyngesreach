@@ -1,0 +1,73 @@
+Kyngesreach Project Changelog
+=============================
+
+Version: v1.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Adventure_Hooks/AdventureHook_IsleOfGunslingingMages_v1.txt
+Description: Added new adventure hook involving gunslinging mages and magical duels.
+
+---
+
+Version: v2.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Lore_and_Worldbuilding/Archipelago_World_Structure.txt
+Description: Created document outlining the general structure and history of the Kyngesreach Archipelago.
+
+---
+
+Version: v3.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Player_Information/Players_Guide.txt
+Description: Added Players' Guide providing essential campaign setting information.
+
+---
+
+Version: v4.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Player_Information/Player_Character_Concepts.txt
+Description: Added list of player character concepts with brief descriptions.
+
+---
+
+Version: v5.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Player_Information/Arcane_Gunner_Long_Form_Description.txt
+Description: Created long form description for the Arcane Gunner character concept.
+
+---
+
+Version: v6.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Lore_and_Worldbuilding/Island_Descriptions.txt, Lore_and_Worldbuilding/Cultural_Elements.txt, Lore_and_Worldbuilding/Factions_of_the_Archipelago.txt, Lore_and_Worldbuilding/Supernatural_Phenomena.txt
+Description: Created expanded sections for island descriptions, cultural elements, factions, and supernatural phenomena.
+
+---
+
+Version: v7.0
+Date: 2025-02-21
+Type of Change: Updated
+Affected Files: Changelog/Kyngesreach_Changelog.txt
+Description: Updated changelog to include version numbers for proper versioning and rollback capabilities.
+
+---
+
+
+Version: v8.0
+Date: 2025-02-21
+Type of Change: Updated
+Affected Files: Lore_and_Worldbuilding/Archipelago_World_Structure.txt, Lore_and_Worldbuilding/Island_Descriptions.txt, Lore_and_Worldbuilding/Cultural_Elements.txt, Lore_and_Worldbuilding/Factions_of_the_Archipelago.txt, Lore_and_Worldbuilding/Supernatural_Phenomena.txt, Lore_and_Worldbuilding/Inspirational_Sources.txt, Lore_and_Worldbuilding/Supply_Tracking_and_Mechanics.txt
+Description: Comprehensive updates to all major documents, ensuring complete campaign information coverage and addressing previous data loss concerns.
+
+---
+
+Version: v9.0
+Date: 2025-02-21
+Type of Change: Added
+Affected Files: Entire repository
+Description: Created a new repository package with all updated documents, version control, and instructions for GitHub upload.

@@ -1,0 +1,39 @@
+Supply Tracking Rules & Mechanics
+
+In the Kyngesreach campaign, tracking supplies is crucial for survival, morale, and decision-making. Players must monitor key resources to avoid dire consequences like starvation, dehydration, or mutiny.
+
+Tracked Resources:
+- **Food:** Essential for daily rations. Lack of food leads to fatigue, lowered morale, and potential health penalties.
+- **Drinking Water:** More critical than food. Dehydration effects start after 1 day without water, leading to severe penalties.
+- **Grog:** Used to maintain crew morale. Without it, morale decreases, potentially leading to disobedience.
+- **Ammunition:** Vital for defense and combat encounters. Running out limits offensive capabilities.
+
+Resource Consumption:
+- Each crew member consumes:
+  - **Food:** 2 meals per day
+  - **Water:** 3 liters per day
+  - **Grog:** 1 liter per day (optional but morale-boosting)
+- Ammunition is consumed as used in combat, based on the weapons deployed.
+
+Morale Impact:
+- **Full Rations:** Crew morale remains stable.
+- **Half Rations:** -1 to morale daily after two consecutive days.
+- **No Rations:** -2 to morale daily; potential for rebellion after 3 days.
+- **Nyxie’s Influence:** If Nyxie is unhappy or sick, an additional -1 morale penalty applies.
+
+Vermin Control:
+- Nyxie prevents rodent infestations when healthy and happy.
+- If Nyxie is neglected, rats begin consuming food supplies at a rate of 1d6 meals per day.
+
+Replenishment:
+- Supplies can be replenished at rare ports or through island exploration.
+- Fresh water may be found on certain islands, but risks and dangers vary.
+
+Events Triggered by Shortages:
+- Random encounters may occur when supplies run low (mutiny threats, sickness outbreaks, forced landings on dangerous islands).
+
+Tracking Tools:
+- Use the provided **Supply Tracking Sheet** and **Crew Morale Sheet** to monitor resources.
+- Update supplies daily and after significant events like battles or resupply stops.
+
+These rules ensure resource management remains a key strategic element of the campaign.

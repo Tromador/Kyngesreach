@@ -1,0 +1,98 @@
+Kyngesreach Campaign - Sample Crew Types (Ratings)
+
+This document provides a selection of typical crew types (ratings) aboard the adventurer's ship in the Kyngesreach campaign. These NPCs represent the average enlisted sailors responsible for the day-to-day operation of the vessel. Officers and specialist roles will be detailed separately.
+
+Each crew type includes a brief description, common motivations, typical behaviors, and potential complications to add depth and variety to shipboard interactions.
+
+1. **The Grizzled Veteran**  
+   - **Name Example:** Harlan "Old Salt" Greaves  
+   - **Age:** 54  
+   - **Role:** Boatswain's Mate  
+   - **Motivation:** Loyalty to the sea and pride in seamanship; no other life suits him.  
+   - **Personality:** Gruff, foul-mouthed, and experienced. Quick to criticize but dependable.  
+   - **Potential Complications:** Resists changes and clashes with younger sailors.  
+   - **Interaction Notes:** Offers practical advice (often profane); respected or feared by the crew.  
+
+2. **The Press-Ganged Youth**  
+   - **Name Example:** Tam Whitlock  
+   - **Age:** 16  
+   - **Role:** Powder Monkey / Deckhand  
+   - **Motivation:** Forced aboard to avoid jail; wants to survive and return home.  
+   - **Personality:** Timid, eager to please, easily panicked.  
+   - **Potential Complications:** May freeze during crises or attempt to desert.  
+   - **Interaction Notes:** Kindness builds trust; harshness risks betrayal.  
+
+3. **The Greedy Opportunist**  
+   - **Name Example:** Davan Pike  
+   - **Age:** 31  
+   - **Role:** Sailor  
+   - **Motivation:** Driven by personal gain and dreams of treasure.  
+   - **Personality:** Slick, opportunistic, always scheming.  
+   - **Potential Complications:** May stir conflict over loot; potential mutineer.  
+   - **Interaction Notes:** Can be manipulated with incentives; dangerous if crossed.  
+
+4. **The Superstitious Deckhand**  
+   - **Name Example:** Merek Lowen  
+   - **Age:** 39  
+   - **Role:** Topman  
+   - **Motivation:** Belief in fate and sea gods guides his actions.  
+   - **Personality:** Nervous, mutters superstitions, carries charms.  
+   - **Potential Complications:** Spreads panic during strange events.  
+   - **Interaction Notes:** Respecting or mocking his beliefs affects morale.  
+
+5. **The Draft-Dodger**  
+   - **Name Example:** Elias Vane  
+   - **Age:** 42  
+   - **Role:** Carpenter’s Mate  
+   - **Motivation:** Escaping conscription; sees ship service as a lesser evil.  
+   - **Personality:** Practical but resentful.  
+   - **Potential Complications:** Reluctant in dangerous situations; may resist orders.  
+   - **Interaction Notes:** Fair treatment fosters cooperation; coercion breeds resentment.  
+
+6. **The Reformed Criminal**  
+   - **Name Example:** Corvin "Blackjack" Reeve  
+   - **Age:** 35  
+   - **Role:** Sailor  
+   - **Motivation:** Seeks redemption after a pardon for service.  
+   - **Personality:** Wry, reserved, quick-tempered if judged.  
+   - **Potential Complications:** Old habits may surface; past enemies could appear.  
+   - **Interaction Notes:** Gains loyalty through respect; mistrust drives rebellion.  
+
+7. **The Adventure-Seeker**  
+   - **Name Example:** Jory Pennant  
+   - **Age:** 27  
+   - **Role:** Able Seaman  
+   - **Motivation:** Thrill-seeker chasing glory and excitement.  
+   - **Personality:** Bold, jovial, sometimes reckless.  
+   - **Potential Complications:** Takes unnecessary risks; challenges authority.  
+   - **Interaction Notes:** Bonds with risk-takers; boredom breeds frustration.  
+
+8. **The Sickly Seaman**  
+   - **Name Example:** Lute Marrow  
+   - **Age:** 29  
+   - **Role:** Sailor  
+   - **Motivation:** Desperate for pay despite poor health.  
+   - **Personality:** Quiet, persistent despite coughing fits.  
+   - **Potential Complications:** Health may fail at critical moments.  
+   - **Interaction Notes:** Compassion boosts morale; neglect causes crew resentment.  
+
+9. **The Loyal Retainer**  
+   - **Name Example:** Brann Farran  
+   - **Age:** 45  
+   - **Role:** Sailor  
+   - **Motivation:** Follows a favored officer out of personal loyalty.  
+   - **Personality:** Stern, dutiful, unwavering in devotion.  
+   - **Potential Complications:** Defends his officer over reason or crew welfare.  
+   - **Interaction Notes:** Respecting his officer earns an ally; disrespect earns an enemy.  
+
+10. **The Drunken Rigger**  
+    - **Name Example:** Orlin Maddox  
+    - **Age:** 38  
+    - **Role:** Rigger  
+    - **Motivation:** Loves drink and occasional work.  
+    - **Personality:** Jolly sober; unpredictable when drunk.  
+    - **Potential Complications:** Failures during drunkenness; bar brawls and port trouble.  
+    - **Interaction Notes:** Managing his alcohol use affects performance and morale.  
+
+**Final Notes:**  
+These crew types add personality, tension, and realism to shipboard life, enhancing roleplay opportunities and immersing players in the Kyngesreach Archipelago’s dangers and camaraderie.
