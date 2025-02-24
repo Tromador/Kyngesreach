@@ -62,3 +62,14 @@ Combat Skills:
 ---
 
 Total Points: 200
+
+Relationships:
+- **First Lieutenant Isabella Hargrave:** A strong officer with an adventurous streak—keeps him on his toes.
+- **Second Lieutenant Alaric Drake:** Bold but reckless; respects his courage but watches him closely.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Relies on her experience to maintain order.
+- **Marine Captain Edward Pembroke:** A disappointment, barely tolerates his presence.
+- **Marine Sergeant Bridget Mallory:** A hardened warrior; recognizes her as the true leader of the marines.
+- **Surgeon Archibald Catesby:** Accepts his vices but expects him to do his job.
+- **Nyxie (Ship’s Cat):** Views her as an amusing fixture of the ship.
+- **Crew:** Maintains distance but ensures their well-being.
+- **Marines:** Sees them as a necessity for the voyage's survival.

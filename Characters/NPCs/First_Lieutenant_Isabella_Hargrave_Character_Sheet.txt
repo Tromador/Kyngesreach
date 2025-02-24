@@ -61,3 +61,14 @@ Combat Skills:
 ---
 
 Total Points: 200
+
+Relationships:
+- **Captain Elias Godfrey:** A pragmatic leader; respects his experience.
+- **Second Lieutenant Alaric Drake:** A friendly rivalry, different leadership styles but mutual respect.
+- **Boatswain Margaret "Iron Meg" Kincaid:** A force of discipline and stability.
+- **Marine Captain Edward Pembroke:** Finds him unimpressive and lacking command presence.
+- **Marine Sergeant Bridget Mallory:** Tough and intimidating; wary of her methods.
+- **Surgeon Archibald Catesby:** Professional tolerance; dislikes his drinking habits.
+- **Nyxie (Ship’s Cat):** Enjoys her company during study sessions.
+- **Crew:** Generally well-liked, seen as approachable.
+- **Marines:** Recognizes their importance but keeps distance.

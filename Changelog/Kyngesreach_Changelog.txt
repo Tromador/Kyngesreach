@@ -122,3 +122,15 @@ Affected Files: Characters/NPCs (Marine sample character sheets renamed for clar
 Description: Renamed sample marine character sheets to reflect their specializations:
 - Marine_Private_Sample_Cutlass_Specialist_Character_Sheet.txt
 - Marine_Private_Sample_Musket_Specialist_Character_Sheet.txt
+
+
+Version: v4.0
+Date: 2025-02-24
+Type of Change: Added & Updated
+Affected Files: 
+- Characters/NPCs (Profile and Character Sheet for Second Lieutenant Alaric Drake)
+- All existing character sheets updated with comprehensive Relationship sections.
+
+Description: 
+- Added profile and 185-point character sheet for Second Lieutenant Alaric Drake.
+- Updated Relationships sections across all character sheets to include fully profiled officers, crew, and marine squad interactions.

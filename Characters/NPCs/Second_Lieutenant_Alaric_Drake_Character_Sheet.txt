@@ -1,0 +1,63 @@
+Character Sheet: Second Lieutenant Alaric Drake
+
+---
+
+Basic Information:
+- Name: Alaric Drake
+- Rank: Second Lieutenant
+- Role: Second Lieutenant of the marine detachment.
+
+---
+
+Attributes:
+- ST: 11 [10 points]
+- DX: 13 [60 points]
+- IQ: 12 [40 points]
+- HT: 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP: 11
+- FP: 12
+- Will: 12
+- Perception (Per): 12
+- Basic Speed: 6.25
+- Basic Move: 6
+
+---
+
+Advantages:
+- Combat Reflexes (15 points)
+- Charisma (1) (5 points)
+- Fearlessness (2) (4 points)
+- Reputation: 'Daring and Unpredictable' (5 points)
+
+---
+
+Disadvantages:
+- Overconfidence (5 points)
+- Impulsiveness (10 points)
+- Rivalry (Unstated - could be developed in-game) (5 points)
+
+---
+
+Skills:
+- Leadership (13) [6 points] – Commands respect despite being unorthodox.
+- Tactics (13) [8 points] – Particularly in boarding actions.
+- Pistol (16) [16 points] – Fast and deadly accurate.
+- Cutlass (14) [8 points] – Skilled in close combat.
+- Gambling (13) [4 points] – Knows how to take risks.
+- Climbing (13) [4 points] – Useful for shipboard maneuvering.
+- Strategy (Naval) (11) [4 points] – Studied but prefers improvisation.
+
+---
+
+Combat Skills:
+- Pistol (16) [16 points]
+- Cutlass (14) [8 points]
+- Brawling (13) [4 points]
+
+---
+
+Total Points: 185

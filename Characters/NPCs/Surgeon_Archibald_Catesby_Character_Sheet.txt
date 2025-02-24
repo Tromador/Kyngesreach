@@ -62,3 +62,14 @@ Combat Skills:
 ---
 
 Total Points: 200
+
+Relationships:
+- **Captain Elias Godfrey:** Barely tolerates his complaints about hygiene.
+- **First Lieutenant Isabella Hargrave:** Too curious for her own good.
+- **Second Lieutenant Alaric Drake:** Too reckless; expects him to get injured eventually.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Avoids her when possible, doesn’t want a lecture.
+- **Marine Captain Edward Pembroke:** Another officer who doesn’t deserve his rank.
+- **Marine Sergeant Bridget Mallory:** Wouldn't be surprised if she ends up on his table.
+- **Nyxie (Ship’s Cat):** Frequently steals from his medical supplies.
+- **Crew:** Views them as accident-prone fools.
+- **Marines:** At least they know how to take a hit.

@@ -66,3 +66,14 @@ Combat Skills:
 ---
 
 Total Points: 210
+
+Relationships:
+- **Captain Elias Godfrey:** Runs a proper ship; respects his authority.
+- **First Lieutenant Isabella Hargrave:** A fine officer, though sometimes too academic.
+- **Second Lieutenant Alaric Drake:** Young, eager, and a risk-taker—both admirable and frustrating.
+- **Marine Captain Edward Pembroke:** Useless.
+- **Marine Sergeant Bridget Mallory:** One of the few officers she respects.
+- **Surgeon Archibald Catesby:** Respects his skills, ignores his vices.
+- **Nyxie (Ship’s Cat):** Indifferent but appreciates her rat-catching skills.
+- **Crew:** Rules with an iron hand; they know better than to cross her.
+- **Marines:** Appreciates their discipline but keeps her distance.

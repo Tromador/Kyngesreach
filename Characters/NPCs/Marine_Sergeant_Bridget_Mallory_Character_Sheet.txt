@@ -66,3 +66,14 @@ Combat Skills:
 ---
 
 Total Points: 200
+
+Relationships:
+- **Captain Elias Godfrey:** Respects him but doesn’t expect much interaction.
+- **First Lieutenant Isabella Hargrave:** Sees her as too soft for real combat.
+- **Second Lieutenant Alaric Drake:** A reckless bastard, but at least he fights.
+- **Boatswain Margaret "Iron Meg" Kincaid:** The only enlisted she truly respects.
+- **Marine Captain Edward Pembroke:** Would shoot him if she thought she could get away with it.
+- **Surgeon Archibald Catesby:** Keeps him busy patching up marines.
+- **Nyxie (Ship’s Cat):** A rat-chaser, not her concern.
+- **Crew:** Tolerates them, but sees them as weaker than her marines.
+- **Marines:** Her people, her responsibility.
