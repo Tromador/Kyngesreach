@@ -148,3 +148,12 @@ Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (All profiles)
 Description: Consolidated all Relationships sections into single, comprehensive sections in each NPC profile to ensure clarity and remove duplicates. Updated character dynamics to fully reflect alliances, rivalries, and connections with crew, marines, officers, and players.
+
+
+Version: v4.3
+Date: 2025-02-24
+Type of Change: Added & Updated
+Affected Files: Characters/NPCs/Images (Captain Elias Godfrey portrait added and renamed)
+Description: 
+- Added a portrait for Captain Elias Godfrey to the Characters/NPCs/Images folder.
+- Simplified image filenames to use only character names for clarity and consistency.
