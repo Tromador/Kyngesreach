@@ -134,3 +134,10 @@ Affected Files:
 Description: 
 - Added profile and 185-point character sheet for Second Lieutenant Alaric Drake.
 - Updated Relationships sections across all character sheets to include fully profiled officers, crew, and marine squad interactions.
+
+
+Version: v4.1
+Date: 2025-02-24
+Type of Change: Updated
+Affected Files: Characters/NPCs (All profiles)
+Description: Expanded Relationships sections across all NPC profiles to include detailed and nuanced connections with officers, crew, marine squad, and players.
