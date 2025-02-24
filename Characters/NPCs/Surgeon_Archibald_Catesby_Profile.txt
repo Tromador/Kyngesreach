@@ -46,13 +46,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Captain Elias Godfrey:** Respects his authority but often complains about shipboard conditions.
-- **Isabella Hargrave:** Finds her optimism tiring but admires her resolve.
-- **Nyxie:** Occasionally shares scraps with her but grumbles when she steals herbs.
-- **Crew:** Feared and respected; his temper discourages unnecessary visits.
-
----
 
 Quotes:
 - "I patch you up; you try not to die again. Deal?"
@@ -73,14 +66,15 @@ Additional Information & Notes:
 - Keeps surgical tools meticulously clean despite his personal mess.
 - Occasionally hums old sea shanties while working.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Quietly grateful for his fairness; grumbles about his discipline demands.
-- **First Lieutenant Isabella Hargrave:** Too nosy, but useful in medical emergencies.
-- **Second Lieutenant Alaric Drake:** Amusing risk-taker; bets on how often he’ll need stitches.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her but avoids being dragged into crew drama.
-- **Marine Captain Edward Pembroke:** Drinks with him when bored; little respect otherwise.
-- **Marine Sergeant Bridget Mallory:** Regards her as a necessary evil; too intense for his taste.
-- **Nyxie (Ship’s Cat):** Keeps her away from medicinal herbs; grudgingly fond of her.
-- **Crew:** Fixes them up; expects gratitude, rarely gets it.
-- **Marines:** Frequent patients; sighs at their recklessness.
-- **Players:** Cares about their survival if only to avoid extra work.
+- **Captain Elias Godfrey:** Quietly respects his leadership; appreciates that he doesn’t micromanage his work.
+- **First Lieutenant Isabella Hargrave:** Finds her inquisitiveness both helpful and annoying.
+- **Second Lieutenant Alaric Drake:** Bets on how often he’ll treat him; finds his recklessness amusing.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her ability to keep the crew in line.
+- **Marine Captain Edward Pembroke:** Drinks with him; considers him more tolerable when quiet.
+- **Marine Sergeant Bridget Mallory:** Wary of her intensity; grateful she keeps the marines alive.
+- **Nyxie (Ship’s Cat):** Shoos her away from medical supplies; secretly enjoys her company.
+- **Crew:** Regards them as accident-prone; treats them with gruff efficiency.
+- **Marines:** Frequent patients; scolds them while patching them up.
+- **Players:** Helps them as long as they don’t waste his time.

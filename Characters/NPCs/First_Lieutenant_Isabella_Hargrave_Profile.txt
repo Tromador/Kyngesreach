@@ -46,13 +46,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Captain Elias Godfrey:** Respects his leadership but sometimes finds his pragmatism stifling.
-- **Surgeon Archibald Catesby:** Sympathetic but keeps a professional boundary.
-- **Nyxie:** Enjoys the cat's presence during quiet study times.
-- **Crew:** Generally well-liked, though some see her curiosity as reckless.
-
----
 
 Quotes:
 - "Discovery is not just about maps—it’s about understanding what lies beyond."
@@ -73,14 +66,15 @@ Additional Information & Notes:
 - Occasionally found on deck at night, stargazing.
 - Prefers tea to grog and often shares with the crew as a morale booster.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Sees him as a mentor figure; admires his calm authority, though occasionally frustrated by his caution.
-- **Second Lieutenant Alaric Drake:** Engages in friendly debates; enjoys challenging his bolder ideas with calculated alternatives.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her no-nonsense approach; defers to her judgment on crew discipline matters.
-- **Marine Captain Edward Pembroke:** Disappointed by his lack of leadership; tries to support him professionally despite personal misgivings.
-- **Marine Sergeant Bridget Mallory:** Finds her intimidating but appreciates her effectiveness; uneasy about her aggressive methods.
-- **Surgeon Archibald Catesby:** Recognizes his skill but disapproves of his vices; offers medical support but keeps personal distance.
-- **Nyxie (Ship’s Cat):** Quietly enjoys Nyxie’s company; the cat’s presence is a calming influence during long nights of research.
-- **Crew:** Believes in leading by example; offers guidance and is generally well-liked.
-- **Marines:** Appreciates their discipline; avoids unnecessary entanglement with their internal dynamics.
-- **Players:** Values input that aligns with exploration goals; wary of reckless decisions that could jeopardize the ship.
+- **Captain Elias Godfrey:** Sees him as a mentor; admires his steady leadership, though sometimes frustrated by his cautious nature.
+- **Second Lieutenant Alaric Drake:** Shares a friendly rivalry; enjoys debating strategies and contrasting their approaches.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her practical discipline; defers to her expertise regarding crew matters.
+- **Marine Captain Edward Pembroke:** Disappointed by his ineffectiveness; remains polite but distant.
+- **Marine Sergeant Bridget Mallory:** Finds her intimidating yet reliable; acknowledges her battlefield competence.
+- **Surgeon Archibald Catesby:** Appreciates his medical skill but disapproves of his drinking; works with him when necessary.
+- **Nyxie (Ship’s Cat):** Finds her company relaxing during long nights of study.
+- **Crew:** Generally well-liked; provides guidance and support where needed.
+- **Marines:** Acknowledges their role in ship defense; maintains a professional distance.
+- **Players:** Open to collaboration; values practical solutions over reckless choices.

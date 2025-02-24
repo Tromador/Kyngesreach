@@ -47,13 +47,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Captain Elias Godfrey:** Often naps near him; he tolerates her presence.
-- **Isabella Hargrave:** Sits on her maps despite protests.
-- **Archibald Catesby:** Steals scraps from his supplies.
-- **Cookie:** Constantly steals ingredients, leading to comedic chases.
-
----
 
 Quotes:
 - *"Meow." (Feed me.)*
@@ -74,14 +67,15 @@ Additional Information & Notes:
 - Refuses to eat Cookie’s cooking, preferring fresh catches.
 - Known to 'escort' injured crew to the surgeon’s door.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Approves of his quiet demeanor; naps nearby.
-- **First Lieutenant Isabella Hargrave:** Claims her maps as sleeping spots.
-- **Second Lieutenant Alaric Drake:** Enjoys his playful bets; sits on his cards mid-game.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Tolerates her; appreciates tossed scraps.
-- **Marine Captain Edward Pembroke:** Intimidates him with long stares.
-- **Marine Sergeant Bridget Mallory:** Gives her a wide berth.
-- **Surgeon Archibald Catesby:** Swipes fish bits from his supplies.
-- **Crew:** Plays favorites; visits hammocks she finds comfortable.
-- **Marines:** Ignores them unless they have food.
-- **Players:** Investigates them curiously; follows those who smell interesting.
+- **Captain Elias Godfrey:** Enjoys resting nearby; senses his calm nature.
+- **First Lieutenant Isabella Hargrave:** Naps on her papers; receives gentle pets in return.
+- **Second Lieutenant Alaric Drake:** Sees him as a source of entertainment; occasionally follows him on deck.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her space; accepts food offerings when given.
+- **Marine Captain Edward Pembroke:** Intentionally unnerves him; enjoys making him uncomfortable.
+- **Marine Sergeant Bridget Mallory:** Steers clear of her stern demeanor.
+- **Surgeon Archibald Catesby:** Swipes treats from his table; occasionally sits on his lap uninvited.
+- **Crew:** Selective with affection; claims favored hammocks for naps.
+- **Marines:** Observes them from a distance; indifferent unless food is involved.
+- **Players:** Curious; investigates new smells and often appears during quiet moments.

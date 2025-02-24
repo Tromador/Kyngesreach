@@ -54,15 +54,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Captain Elias Godfrey:** Respects the captain’s pragmatism but sometimes finds his caution frustrating.
-- **First Lieutenant Isabella Hargrave:** Friendly rivalry; their differing approaches to leadership spark debates.
-- **Marine Sergeant Bridget Mallory:** Mutual respect born from shared battlefield experience.
-- **Marine Captain Edward Pembroke:** Barely tolerates his incompetence; often circumvents him in combat situations.
-- **Crew:** Well-liked, especially among younger sailors who admire his boldness.
-- **Players:** Could become an ally in risky endeavors or a rival if challenged.
-
----
 
 Quotes:
 - "Sometimes, the best plan is the one they least expect—even if it’s crazy."
@@ -85,14 +76,15 @@ Additional Information & Notes:
 - Trains with pistols at dawn, often inviting anyone willing to challenge him.
 - Rumored to have served aboard a privateer before joining the navy.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Respects his authority but often finds him too cautious. Secretly seeks his approval while pushing boundaries.
-- **First Lieutenant Isabella Hargrave:** Enjoys their rivalry; appreciates her perspective even when they disagree.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her command over the crew; occasionally clashes when his orders conflict with her methods.
-- **Marine Captain Edward Pembroke:** Barely tolerates him; often bypasses Pembroke when quick battlefield decisions are needed.
-- **Marine Sergeant Bridget Mallory:** Relies on her leadership during boarding actions; their mutual respect stems from shared combat experiences.
-- **Surgeon Archibald Catesby:** Takes his injuries to Catesby without complaint; finds the surgeon’s gruffness amusing.
-- **Nyxie (Ship’s Cat):** Claims she brings luck; jokingly bets with the crew about where she’ll nap next.
-- **Crew:** Popular among younger sailors; his boldness inspires but sometimes leads to reckless behavior.
-- **Marines:** Trusts Mallory’s marines to cover him during dangerous operations; drinks with them after successful missions.
-- **Players:** Open to collaboration; appreciates boldness but will call out foolishness.
+- **Captain Elias Godfrey:** Seeks his approval while occasionally chafing under his cautious command.
+- **First Lieutenant Isabella Hargrave:** Engages in friendly competition; respects her intelligence despite differing methods.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Respects her authority over the crew; occasional friction when their orders conflict.
+- **Marine Captain Edward Pembroke:** Views him as a liability; often works around him during operations.
+- **Marine Sergeant Bridget Mallory:** Mutual respect forged in combat; trusts her instincts in dangerous situations.
+- **Surgeon Archibald Catesby:** Finds his grumpiness amusing; jokes about how often he ends up in Catesby’s care.
+- **Nyxie (Ship’s Cat):** Sees her as a ship mascot; occasionally places bets on her antics.
+- **Crew:** Popular with younger sailors; known for his daring attitude.
+- **Marines:** Works well with Mallory’s squad; appreciates their effectiveness in combat.
+- **Players:** Welcomes boldness but challenges recklessness; potential ally or friendly rival.

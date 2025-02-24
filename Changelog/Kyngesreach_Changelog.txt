@@ -141,3 +141,10 @@ Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (All profiles)
 Description: Expanded Relationships sections across all NPC profiles to include detailed and nuanced connections with officers, crew, marine squad, and players.
+
+
+Version: v4.2
+Date: 2025-02-24
+Type of Change: Updated
+Affected Files: Characters/NPCs (All profiles)
+Description: Consolidated all Relationships sections into single, comprehensive sections in each NPC profile to ensure clarity and remove duplicates. Updated character dynamics to fully reflect alliances, rivalries, and connections with crew, marines, officers, and players.

@@ -53,13 +53,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Marine Captain:** Despises his weakness; follows orders only when unavoidable.
-- **Marines:** Respected and feared; they follow her without question.
-- **Officers:** Keeps interactions minimal, preferring to focus on her squad.
-- **Players:** Could clash with them if she perceives them as coddled or incompetent.
-
----
 
 Quotes:
 - "If you can't keep up, I’ll leave you behind. Simple."
@@ -82,14 +75,15 @@ Additional Information & Notes:
 - Keeps a tally of confirmed kills etched into her musket’s stock.
 - Would sacrifice the captain without hesitation if it meant saving her marines.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Respects his no-nonsense leadership; follows his orders without complaint.
-- **First Lieutenant Isabella Hargrave:** Thinks she’s soft but appreciates her brains when planning assaults.
-- **Second Lieutenant Alaric Drake:** Sees a kindred warrior spirit; partners well in combat.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Rarely speaks, yet they understand each other perfectly.
-- **Marine Captain Edward Pembroke:** Loathes his incompetence; keeps him alive only out of duty.
-- **Surgeon Archibald Catesby:** Wary of him; doesn’t trust drunks but respects his skills.
-- **Nyxie (Ship’s Cat):** Ignores her unless she interferes with weapons storage.
-- **Crew:** Tolerates them but doesn’t coddle; expects backbone.
-- **Marines:** Her responsibility; will die for them if it comes to it.
-- **Players:** Judges them by their battlefield mettle.
+- **Captain Elias Godfrey:** Respects his no-nonsense leadership; trusts his orders in battle.
+- **First Lieutenant Isabella Hargrave:** Finds her too gentle for military matters but recognizes her intelligence.
+- **Second Lieutenant Alaric Drake:** Regards him as a useful ally in combat; appreciates his willingness to get his hands dirty.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Mutual respect; trusts her to keep the deck crew in line.
+- **Marine Captain Edward Pembroke:** Holds him in utter contempt; follows his orders only when forced.
+- **Surgeon Archibald Catesby:** Appreciates his competence; tolerates his vices for the sake of her marines.
+- **Nyxie (Ship’s Cat):** Ignores her unless she disrupts drills.
+- **Crew:** Sees them as necessary but weaker than her marines.
+- **Marines:** Her people; expects loyalty and discipline.
+- **Players:** Judges them by their combat effectiveness; respects action over words.

@@ -54,14 +54,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Captain Elias Godfrey:** Mutual professional respect; they operate on the same wavelength regarding discipline.
-- **First Lieutenant Isabella Hargrave:** Occasionally clashes over methods but ultimately respects her intellect and curiosity.
-- **Surgeon Archibald Catesby:** Little patience for his drinking habits but recognizes his importance.
-- **Nyxie (Ship’s Cat):** Tolerates the cat; grumbles when she disrupts drills or prowls the rigging during inspections.
-- **Crew:** Universally respected; those who cross her rarely do so twice.
-
----
 
 Quotes:
 - "You’ll work or you’ll swim—your choice."
@@ -85,14 +77,15 @@ Additional Information & Notes:
 - Possesses old scars from shipboard accidents, each with a story she rarely shares.
 - Offers quiet guidance to younger sailors but never coddles them.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Mutual understanding built on years of ship life; follows his orders without question.
-- **First Lieutenant Isabella Hargrave:** Sees her as capable but occasionally too academic; respects her where it matters.
-- **Second Lieutenant Alaric Drake:** Thinks he’s too flashy but admits he gets results.
-- **Marine Captain Edward Pembroke:** Has zero patience for his weakness; keeps her dealings minimal.
-- **Marine Sergeant Bridget Mallory:** They share mutual respect; often exchange nods rather than words.
-- **Surgeon Archibald Catesby:** Appreciates his work ethic when sober; not shy about dragging him to his duties.
-- **Nyxie (Ship’s Cat):** Respects the cat’s usefulness; occasionally tosses her scraps.
-- **Crew:** Her people; keeps them disciplined but fair. Defends them against unfair treatment from officers.
-- **Marines:** Maintains professional distance but ensures coordination during operations.
-- **Players:** Treats them according to their work ethic; respect is earned.
+- **Captain Elias Godfrey:** Shares an unspoken understanding; respects his command style.
+- **First Lieutenant Isabella Hargrave:** Values her competence but considers her a bit too academic at times.
+- **Second Lieutenant Alaric Drake:** Respects his courage but finds his impulsiveness irritating.
+- **Marine Captain Edward Pembroke:** Barely tolerates him; sees him as dead weight.
+- **Marine Sergeant Bridget Mallory:** Mutual respect born from shared principles of discipline and effectiveness.
+- **Surgeon Archibald Catesby:** Grudging respect for his skill; keeps him in line when needed.
+- **Nyxie (Ship’s Cat):** Indifferent; appreciates her rat-catching abilities.
+- **Crew:** Views them as her responsibility; disciplines harshly but fairly.
+- **Marines:** Values their presence but keeps her dealings strictly professional.
+- **Players:** Treats them based on their actions; respect is earned.

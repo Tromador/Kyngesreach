@@ -52,13 +52,6 @@ Weaknesses:
 
 ---
 
-Relationships:
-- **Marine Sergeant Edward Pembroke:** Tense and strained; follows her advice reluctantly but is aware she keeps the marines functional.
-- **Captain Elias Godfrey:** Treated with mild disdain but tolerated due to his official position.
-- **Crew:** Receives minimal respect; many believe he’s dead weight.
-- **Marines:** Offer lip service to orders but default to the sergeant’s direction.
-
----
 
 Quotes:
 - "I... I believe it would be best to hold position. Yes, that’s what protocol suggests."
@@ -80,14 +73,15 @@ Additional Information & Notes:
 - Writes letters to his family detailing exaggerated tales of bravery.
 - Occasionally practices his pistol shooting at night to vent frustration.
 
+
 Relationships:
-- **Captain Elias Godfrey:** Intimidated; avoids confrontation but strives to appear competent.
-- **First Lieutenant Isabella Hargrave:** Nervously seeks approval; misinterprets her professionalism for coldness.
-- **Second Lieutenant Alaric Drake:** Feels overshadowed; resents Drake’s popularity with the crew.
-- **Boatswain Margaret "Iron Meg" Kincaid:** Terrified of her; does his best to stay out of her way.
-- **Marine Sergeant Bridget Mallory:** Deeply uncomfortable; aware she undermines him but lacks the courage to address it.
-- **Surgeon Archibald Catesby:** Occasionally drinks with him; their conversations often revolve around mutual dissatisfaction.
-- **Nyxie (Ship’s Cat):** Anxious around her; swears she judges him.
-- **Crew:** Keeps interactions formal; believes they don’t respect him.
-- **Marines:** Knows they defer to Mallory; pretends not to notice.
-- **Players:** Attempts to command authority but often fumbles in their presence.
+- **Captain Elias Godfrey:** Intimidated; tries to maintain appearances but is aware of Godfrey’s low opinion of him.
+- **First Lieutenant Isabella Hargrave:** Wishes to earn her respect but fails to do so.
+- **Second Lieutenant Alaric Drake:** Sees him as competition; resents being overshadowed.
+- **Boatswain Margaret "Iron Meg" Kincaid:** Finds her terrifying; avoids unnecessary interaction.
+- **Marine Sergeant Bridget Mallory:** Views her as a threat to his authority but lacks the courage to confront her.
+- **Surgeon Archibald Catesby:** Finds solace in shared drinks; both complain about their predicaments.
+- **Nyxie (Ship’s Cat):** Unnerved by her seemingly judgmental stares.
+- **Crew:** Maintains formality; senses their lack of respect.
+- **Marines:** Knows they defer to Mallory, which frustrates him.
+- **Players:** Attempts to exert authority; often ignored or corrected.
