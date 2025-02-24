@@ -1,0 +1,68 @@
+Character Sheet: Boatswain Margaret 'Iron Meg' Kincaid
+
+---
+
+Basic Information:
+- Name: Margaret 'Iron Meg' Kincaid
+- Rank: Boatswain (Bosun)
+- Role: Senior enlisted officer ensuring ship maintenance and discipline.
+
+---
+
+Attributes:
+- ST (Strength): 12 [20 points]
+- DX (Dexterity): 12 [40 points]
+- IQ (Intelligence): 12 [40 points]
+- HT (Health): 13 [30 points]
+
+---
+
+Secondary Attributes:
+- HP (Hit Points): 12
+- FP (Fatigue Points): 13
+- Will: 13
+- Perception (Per): 13
+- Basic Speed: 6.25
+- Basic Move: 6
+
+---
+
+Advantages:
+- Fearlessness (10 points) – Never hesitates under pressure.
+- Voice (10 points) – Her hoarse voice can be heard through storms.
+- Tough Skin 1 (5 points) – Weathered from years at sea.
+- High Pain Threshold (10 points) – Shrugs off injuries to get the job done.
+- Reputation: "Tough but Fair Bosun" (5 points) – Crew respects her authority.
+
+---
+
+Disadvantages:
+- Overconfidence (5 points) – Trusts her experience above all else.
+- Stubbornness (10 points) – Hard to sway from a chosen course.
+- Bad Temper (10 points) – Quick to discipline slackers.
+- Sense of Duty (Crew) (10 points) – Deeply committed to crew welfare.
+- Aging (5 points) – Slightly reduced endurance due to age.
+
+---
+
+Skills:
+- Seamanship (16) [12 points] – Decades of deck work and rigging management.
+- Leadership (15) [8 points] – Commands respect through presence and skill.
+- Intimidation (15) [6 points] – Keeps the crew in line with words and looks.
+- Carpentry (14) [8 points] – Vital for ship repairs.
+- Climbing (13) [4 points] – Still agile despite age.
+- Observation (14) [4 points] – Spots potential issues before they arise.
+- First Aid (12) [2 points] – Knows enough to stabilize injuries.
+- Brawling (14) [4 points] – Knows how to handle a fight if needed.
+- Shiphandling (13) [4 points] – Can take over if officers are incapacitated.
+- Rope Use (15) [4 points] – Mastery over rigging and knots.
+
+---
+
+Combat Skills:
+- Brawling (14) [4 points] – Punches that command attention.
+- Staff (14) [4 points] – Uses her cane effectively for defense or discipline.
+
+---
+
+Total Points: 210

@@ -106,3 +106,10 @@ Date: 2025-02-24
 Type of Change: Added
 Affected Files: Characters/NPCs (Profile and Character Sheet for Bartholomew "Cookie" Griggs)
 Description: Added profile and character sheet for Ship's Cook Bartholomew "Cookie" Griggs, including a 170-point character build.
+
+
+Version: v3.8
+Date: 2025-02-24
+Type of Change: Added
+Affected Files: Characters/NPCs (Profile and Character Sheet for Boatswain Margaret "Iron Meg" Kincaid)
+Description: Added profile and character sheet for Boatswain Margaret "Iron Meg" Kincaid with a 210-point character build reflecting her experience and authority.
