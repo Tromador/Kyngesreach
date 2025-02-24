@@ -1,53 +1,74 @@
-NPC Profile: Dr. Archibald Catesby (Ship's Surgeon)
-
-"Another day, another drunken sailor with a broken leg. But what else is new?"
+Profile: Surgeon Archibald Catesby
 
 ---
 
 Basic Information:
-- Name: Dr. Archibald Catesby
+- Name: Archibald Catesby
 - Age: 42
 - Race: Human
 - Gender: Male
-- Role: Ship’s Surgeon
+- Rank: Surgeon
+- Role: Ship’s medical officer, responsible for treating injuries and illnesses.
 
 ---
 
 Appearance:
-- Tall and lean, with sharp, angular features that give him a gaunt look.
-- A well-worn coat and trousers stained with both medical fluids and tinctures, betraying his lack of concern for his appearance.
-- His hands are steady, but often slightly unsteady when he’s in the middle of a drink, and his eyes show a constant air of exhaustion.
-- A small, well-groomed beard and glasses that give him a more distinguished appearance, though a deep frown is often etched across his face.
+- Lean with sharp features and graying hair.
+- Often wears a stained apron over his uniform.
+- Smells faintly of alcohol and medicinal herbs.
 
 ---
 
 Personality:
-- Competent but Unpredictable: Catesby is a highly skilled surgeon when sober, possessing knowledge far beyond many of his peers. However, his addiction to alcohol (especially tinctures of poppy juice) can cause erratic behavior and hinder his decision-making.
-- Dry Humor: He maintains a sarcastic, dry sense of humor, often joking about the crew's inevitable fate.
-- Grumpy: Generally irritable, particularly when sober, and never shy about expressing his frustration with the ship’s conditions or the treatment he receives.
-- Distant: Prefers the company of his herbs and tinctures over the crew. He keeps a professional distance but can occasionally reveal a gentler side when directly interacting with the wounded.
+- Wry and sarcastic, especially when dealing with injuries he deems avoidable.
+- Prone to grumbling but performs under pressure.
+- Battles his own demons, often choosing liquor over rest.
 
 ---
 
 Motivations:
-- Primary: Maintain his position aboard the ship as a means of escaping his past failures. Catesby has been sent on this voyage as a form of exile, and he's eager to "prove" his worth, but only if left to his devices.
-- Secondary: To stave off the boredom and despair of being sidelined. His medical prowess is often ignored or undermined due to his reputation.
-- Underlying Conflict: His addiction to alcohol and opiates constantly battles with his desire to be respected for his work, and the mounting pressure to keep sober grows each day.
+- To fulfill his duty while battling personal vices.
+- Hopes to redeem his reputation through competence on this expedition.
 
 ---
 
 Strengths:
-- Excellent Surgeon (when sober): One of the finest surgeons in the fleet when clear-headed. He is highly skilled in treating battlefield injuries, infections, and surgical procedures.
-- Herbal Knowledge: A self-taught expert in herbal remedies and tinctures, which aids his medical practice.
-- Steady Hands: Even when under the influence, he is still capable of performing intricate surgeries with a steady hand.
-- Sharp Mind (when sober): His knowledge of anatomy and medical procedures is unrivaled in the fleet.
+- Highly skilled in surgery and herbal remedies.
+- Quick-thinking in medical emergencies.
+- Deeply knowledgeable, despite his flaws.
 
 ---
 
 Weaknesses:
-- Addiction to Alcohol and Opium: Dr. Catesby’s reliance on tinctures of poppy juice and strong alcohol for his medical extractions often cloud his judgment and slow his reflexes. This causes him to be less reliable during certain hours of the day.
-- Unpredictable Competence: His skills fluctuate depending on his state of inebriation. If you catch him sober, he’s a valuable asset; if he’s drunk or in withdrawal, his skills are significantly impaired.
-- Bad Reputation: Word has spread about his unreliable behavior and questionable decisions during medical emergencies. Many of the crew are wary of him.
-- Disengaged: Due to his inner conflict, he can sometimes come off as indifferent or neglectful, though he hides this with his sharp humor.
+- Alcoholism affects his consistency.
+- Stubborn, resistant to unsolicited advice.
+- His past mistakes weigh heavily on him.
 
 ---
+
+Relationships:
+- **Captain Elias Godfrey:** Respects his authority but often complains about shipboard conditions.
+- **Isabella Hargrave:** Finds her optimism tiring but admires her resolve.
+- **Nyxie:** Occasionally shares scraps with her but grumbles when she steals herbs.
+- **Crew:** Feared and respected; his temper discourages unnecessary visits.
+
+---
+
+Quotes:
+- "I patch you up; you try not to die again. Deal?"
+- "It’s not the cleanest place, but you’ll live. Probably."
+- "Pain builds character—or so I hear."
+
+---
+
+Potential Plot Hooks & Interactions:
+- May struggle with sobriety at critical times.
+- His knowledge of old medical texts might uncover hidden cures or curses.
+- Could clash with players over risky medical procedures.
+
+---
+
+Additional Information & Notes:
+- Carries a personal flask, seldom empty.
+- Keeps surgical tools meticulously clean despite his personal mess.
+- Occasionally hums old sea shanties while working.

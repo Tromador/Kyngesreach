@@ -99,3 +99,10 @@ Date: 2025-02-24
 Type of Change: Corrected
 Affected Files: Characters/NPCs (Character Sheets for Captain Elias Godfrey, Isabella Hargrave, Archibald Catesby, and Nyxie)
 Description: Restored unique content for all character sheets while maintaining the standardized template format.
+
+
+Version: v3.7
+Date: 2025-02-24
+Type of Change: Added
+Affected Files: Characters/NPCs (Profile and Character Sheet for Bartholomew "Cookie" Griggs)
+Description: Added profile and character sheet for Ship's Cook Bartholomew "Cookie" Griggs, including a 170-point character build.

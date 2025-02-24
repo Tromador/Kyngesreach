@@ -1,0 +1,64 @@
+Character Sheet: Ship's Cook Bartholomew "Cookie" Griggs
+
+---
+
+Basic Information:
+- Name: Bartholomew "Cookie" Griggs
+- Rank: Ship's Cook
+- Role: Responsible for preparing meals and managing ship provisions.
+
+---
+
+Attributes:
+- ST (Strength): 11 [10 points]
+- DX (Dexterity): 10 [0 points]
+- IQ (Intelligence): 11 [20 points]
+- HT (Health): 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP (Hit Points): 11
+- FP (Fatigue Points): 12
+- Will: 11
+- Perception (Per): 12
+- Basic Speed: 5.5
+- Basic Move: 5
+
+---
+
+Advantages:
+- High Pain Threshold (10 points) – Unfazed by kitchen burns and minor injuries.
+- Resistant to Poison +3 (15 points) – Years of sampling questionable ingredients.
+- Hard to Kill 1 (2 points) – Surprisingly durable despite his lifestyle.
+- Fit (5 points) – Capable of long hours in the galley, hauling pots and supplies.
+
+---
+
+Disadvantages:
+- Overconfidence (5 points) – Certain that his food is top-notch.
+- Callous (5 points) – Unbothered by crew complaints.
+- Gluttony (5 points) – Can't resist sampling his own cooking.
+- Poor Hygiene (5 points) – Constantly stained with food and grease.
+- Obsession (Cooking) (10 points) – Everything revolves around making meals (good or bad).
+
+---
+
+Skills:
+- Cooking (15) [12 points] – Functional if uninspired meals; keeps the crew alive.
+- Housekeeping (12) [4 points] – Knows how to clean, just chooses not to.
+- Knife (13) [4 points] – Years of chopping vegetables have honed this skill.
+- Merchant (11) [2 points] – Basic knowledge of provisioning and bargaining for ingredients.
+- Carousing (12) [4 points] – Popular during post-meal grog sessions.
+- Fishing (11) [2 points] – Can catch basic fish when supplies run low.
+- Survival (Shipboard) (12) [4 points] – Knows how to endure ship life.
+
+---
+
+Combat Skills:
+- Knife (13) [4 points] – Adept at wielding kitchen knives in a pinch.
+- Brawling (12) [2 points] – Can hold his own in a galley scuffle.
+
+---
+
+Total Points: 170

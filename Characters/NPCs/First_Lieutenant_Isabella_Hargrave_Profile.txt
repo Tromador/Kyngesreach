@@ -1,7 +1,5 @@
 Profile: First Lieutenant Isabella Hargrave
 
-"Discovery is not just about maps and charts—it’s about understanding the world beyond the horizon."
-
 ---
 
 Basic Information:
@@ -10,53 +8,67 @@ Basic Information:
 - Race: Human
 - Gender: Female
 - Rank: First Lieutenant
-- Role: Second-in-command of the expedition ship
+- Role: Second-in-command of the expedition ship, responsible for day-to-day operations.
 
 ---
 
 Appearance:
-- Tall and lean with a composed posture that speaks of discipline and years at sea.
-- Dark brown hair, often tied back neatly for practicality, with a few loose strands escaping in the sea breeze.
-- Hazel eyes that light up when discussing exploration or scientific findings.
-- Wears a well-kept naval uniform, tailored but practical, reflecting her professional attitude.
-- Carries a notebook and pencil, often seen sketching maps or jotting down observations.
+- Tall and lean with neatly tied dark brown hair.
+- Hazel eyes that light up when discussing exploration.
+- Wears a pristine uniform and carries a well-worn notebook.
 
 ---
 
 Personality:
-- Curious and intellectually driven, with a deep passion for exploration and scientific discovery.
-- Calm and measured under pressure, able to make rational decisions during tense situations.
-- Empathetic toward her crew, believing that leadership comes from understanding and cooperation.
-- Occasionally distracted when her curiosity is piqued, sometimes prioritizing exploration over immediate safety.
-- Balances professionalism with a genuine enthusiasm for uncovering the unknown.
-
----
-
-Background:
-Born into a family of landed gentry, Isabella Hargrave was expected to inherit her family's estate, title, and wealth. Her parents envisioned a future of social engagements and estate management, but Isabella had other plans. Fascinated by stories of exploration and driven by an insatiable curiosity, she rejected her predetermined path in favor of a naval career.
-
-Her decision to join the navy caused significant tension with her family, who saw it as a reckless abandonment of duty and privilege. Letters urging her to return home still arrive occasionally, but this expedition represents her escape from those expectations. Sailing into the unknown is not just a professional venture—it’s her chance at freedom and self-discovery.
-
-Isabella’s years in the navy have been marked by a steady rise through the ranks, fueled by her dedication, intelligence, and ability to lead with both compassion and authority. She views the Kyngesreach expedition as the culmination of her ambitions: an opportunity to explore uncharted waters, document new discoveries, and live a life beyond the confines of noble obligations.
+- Curious, passionate about scientific discovery.
+- Approachable leader, encouraging cooperation.
+- Occasionally distracted when her curiosity is piqued.
 
 ---
 
 Motivations:
-- To explore the unknown and expand her understanding of the world.
-- To prove to herself and others that her worth is defined by her actions, not her lineage.
-- To find personal freedom through discovery and scientific pursuit.
-- To lead her crew with integrity and ensure the success of the expedition.
+- To escape her family’s expectations and create her own legacy.
+- Driven by an insatiable need to explore and understand the world.
+
+---
+
+Strengths:
+- Skilled in navigation and research.
+- Empathic leader with strong problem-solving abilities.
+- Resilient under pressure.
+
+---
+
+Weaknesses:
+- Can prioritize discovery over caution.
+- Occasionally clashes with more conservative crew members.
+- Family issues occasionally distract her thoughts.
 
 ---
 
 Relationships:
-- **Captain Elias Godfrey:** Professional respect with occasional philosophical differences; where he is pragmatic, she is idealistic.
-- **Crew:** Generally well-liked and respected, though some may view her intellectual pursuits as frivolous compared to practical concerns.
-- **Family:** A strained relationship marked by disapproval and conflicting values; their influence lingers in her thoughts, despite her desire to move beyond it.
+- **Captain Elias Godfrey:** Respects his leadership but sometimes finds his pragmatism stifling.
+- **Surgeon Archibald Catesby:** Sympathetic but keeps a professional boundary.
+- **Nyxie:** Enjoys the cat's presence during quiet study times.
+- **Crew:** Generally well-liked, though some see her curiosity as reckless.
 
 ---
 
 Quotes:
-- "There’s more to this world than titles and estates. Out here, we find truth in the waves and the stars."
-- "Knowledge is the greatest treasure we can bring back from this voyage."
-- "Caution is wise, but fear holds us back. We sail to discover, not to hide from the unknown."
+- "Discovery is not just about maps—it’s about understanding what lies beyond."
+- "Caution is wise, but fear keeps us from learning."
+- "I’d rather risk the unknown than live in ignorance."
+
+---
+
+Potential Plot Hooks & Interactions:
+- Her family may attempt to recall her or interfere with the voyage.
+- Could drag the crew into risky ventures for the sake of exploration.
+- May discover ancient knowledge tied to her family’s past.
+
+---
+
+Additional Information & Notes:
+- Keeps a detailed log of flora and fauna encountered.
+- Occasionally found on deck at night, stargazing.
+- Prefers tea to grog and often shares with the crew as a morale booster.
