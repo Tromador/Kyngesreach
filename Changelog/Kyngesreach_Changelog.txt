@@ -85,3 +85,17 @@ Date: 2025-02-22
 Type of Change: Updated
 Affected Files: Adventure_Hooks, Characters/NPCs
 Description: Removed invalid files from Adventure Hooks folder, updated NPC profiles for Captain Elias Godfrey and Dr. Archibald Catesby.
+
+
+Version: v3.3
+Date: 2025-02-24
+Type of Change: Updated
+Affected Files: Characters/NPCs (Captain Elias Godfrey, Isabella Hargrave, Archibald Catesby, Nyxie)
+Description: Standardized character sheets and profiles for Captain Elias Godfrey, First Lieutenant Isabella Hargrave, Dr. Archibald Catesby, and Nyxie the Ship’s Cat.
+
+
+Version: v3.6
+Date: 2025-02-24
+Type of Change: Corrected
+Affected Files: Characters/NPCs (Character Sheets for Captain Elias Godfrey, Isabella Hargrave, Archibald Catesby, and Nyxie)
+Description: Restored unique content for all character sheets while maintaining the standardized template format.

@@ -1,0 +1,60 @@
+Character Sheet: Ship's Cat Nyxie
+
+---
+
+Basic Information:
+- Name: Nyxie
+- Rank: Ship's Cat
+- Role: Companion and Vermin Control
+
+---
+
+Attributes:
+- ST: 3
+- DX: 15
+- IQ: 4
+- HT: 10
+
+---
+
+Secondary Attributes:
+- HP: 3
+- FP: 10
+- Will: 10
+- Per: 12
+- Basic Speed: 6.25
+- Basic Move: 7
+
+---
+
+Advantages:
+- Acute Hearing (2 points)
+- Acute Smell (2 points)
+- Catfall (10 points)
+- Fearlessness (2 points)
+- Sharp Claws (5 points)
+
+---
+
+Disadvantages:
+- Curious (10 points)
+- Laziness (5 points)
+- Selfish (5 points)
+
+---
+
+Skills:
+- Climbing (16)
+- Stealth (15)
+- Tracking (12)
+- Jumping (15)
+
+---
+
+Combat Skills:
+- Bite (15)
+- Claw (15)
+
+---
+
+Total Points: 25

@@ -1,0 +1,64 @@
+Character Sheet: Surgeon Archibald Catesby
+
+---
+
+Basic Information:
+- Name: Archibald Catesby
+- Rank: Surgeon
+- Role: Surgeon
+
+---
+
+Attributes:
+- ST: 10
+- DX: 12
+- IQ: 14
+- HT: 11
+
+---
+
+Secondary Attributes:
+- HP: 11
+- FP: 11
+- Will: 13
+- Per: 12
+- Basic Speed: 5.5
+- Basic Move: 5
+
+---
+
+Advantages:
+- Ambidexterity (5 points)
+- Medical Expertise (15 points)
+- Herbalist (5 points)
+- Wealth (5 points)
+
+---
+
+Disadvantages:
+- Alcoholism (15 points)
+- Addiction (10 points)
+- Bad Reputation (5 points)
+- Overconfidence (5 points)
+
+---
+
+Skills:
+- Diagnosis (14)
+- First Aid (16)
+- Surgery (15)
+- Herbalism (13)
+- Public Speaking (12)
+- Streetwise (11)
+- Leadership (12)
+- Intimidation (12)
+
+---
+
+Combat Skills:
+- Knife (13)
+- Dagger (12)
+
+---
+
+Total Points: 200

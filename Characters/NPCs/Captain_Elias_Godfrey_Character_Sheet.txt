@@ -1,0 +1,64 @@
+Character Sheet: Captain Elias Godfrey
+
+---
+
+Basic Information:
+- Name: Elias Godfrey
+- Rank: Captain
+- Role: Captain
+
+---
+
+Attributes:
+- ST: 10
+- DX: 12
+- IQ: 14
+- HT: 12
+
+---
+
+Secondary Attributes:
+- HP: 12
+- FP: 12
+- Will: 14
+- Per: 14
+- Basic Speed: 6.0
+- Basic Move: 6
+
+---
+
+Advantages:
+- Command (10 points)
+- Leadership (10 points)
+- Tactical Genius (15 points)
+- Reputation (10 points)
+
+---
+
+Disadvantages:
+- Overconfidence (10 points)
+- Sense of Duty (5 points)
+- Resentment (10 points)
+- Duty (5 points)
+
+---
+
+Skills:
+- Sailing (14)
+- Tactics (14)
+- Leadership (15)
+- Navigation (12)
+- Streetwise (12)
+- Survival (12)
+- Strategy (12)
+- Shiphandling (12)
+
+---
+
+Combat Skills:
+- Broadsword (12)
+- Pistol (10)
+
+---
+
+Total Points: 200

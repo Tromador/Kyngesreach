@@ -1,0 +1,63 @@
+Character Sheet: First Lieutenant Isabella Hargrave
+
+---
+
+Basic Information:
+- Name: Isabella Hargrave
+- Rank: First Lieutenant
+- Role: First Lieutenant
+
+---
+
+Attributes:
+- ST: 10
+- DX: 12
+- IQ: 15
+- HT: 12
+
+---
+
+Secondary Attributes:
+- HP: 12
+- FP: 12
+- Will: 15
+- Per: 14
+- Basic Speed: 6.0
+- Basic Move: 6
+
+---
+
+Advantages:
+- Leadership (10 points)
+- Reputation (10 points)
+- Scholar (15 points)
+- Strong Will (5 points)
+
+---
+
+Disadvantages:
+- Sense of Duty (5 points)
+- Duty (5 points)
+- Family Pressure (10 points)
+
+---
+
+Skills:
+- Leadership (15)
+- Navigation (13)
+- Research (15)
+- Anthropology (12)
+- Botany (14)
+- Geography (13)
+- Tactics (13)
+- Survival (13)
+
+---
+
+Combat Skills:
+- Broadsword (12)
+- Pistol (11)
+
+---
+
+Total Points: 200
