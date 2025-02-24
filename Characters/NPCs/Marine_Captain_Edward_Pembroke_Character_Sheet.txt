@@ -1,0 +1,65 @@
+Character Sheet: Captain (Marines) Edward Pembroke
+
+---
+
+Basic Information:
+- Name: Edward Pembroke
+- Rank: Captain (Marines)
+- Role: Captain (Marines) of the marine detachment.
+
+---
+
+Attributes:
+- ST: 11 [10 points]
+- DX: 12 [40 points]
+- IQ: 11 [20 points]
+- HT: 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP: 11
+- FP: 12
+- Will: 11
+- Perception (Per): 11
+- Basic Speed: 6.0
+- Basic Move: 6
+
+---
+
+Advantages:
+- Wealth (Minor) (5 points) – Comes from old money.
+- High Pain Threshold (10 points) – Can endure physical stress.
+- Fearlessness (1) (2 points) – Not easily rattled.
+- Sharpshooter (10 points) – Crack shot with pistols.
+- Reputation: 'Good marksman' (5 points)
+
+---
+
+Disadvantages:
+- Overconfidence (5 points)
+- Cowardice (5 points) – Struggles in leadership roles.
+- Self-Doubt (5 points)
+- Duty (10 points) – Obligated to perform his role despite personal reluctance.
+- Sense of Duty (Marines) (5 points)
+
+---
+
+Skills:
+- Leadership (11) [2 points] – Barely functional.
+- Tactics (10) [2 points] – Book-learned but poorly applied.
+- Pistol (16) [16 points] – His strongest skill.
+- Musket (14) [8 points] – Competent, but not his focus.
+- Strategy (Land) (10) [2 points]
+- Carousing (11) [2 points] – Tries (and fails) to bond with marines.
+- Riding (Horse) (11) [1 point] – Learned back home, rarely used.
+
+---
+
+Combat Skills:
+- Pistol (16) [16 points]
+- Cutlass (11) [4 points]
+
+---
+
+Total Points: 180

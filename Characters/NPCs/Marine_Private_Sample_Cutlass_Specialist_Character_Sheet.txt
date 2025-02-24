@@ -1,0 +1,56 @@
+Character Sheet: Private (Marines) Sample Marine A
+
+---
+
+Basic Information:
+- Name: Sample Marine A
+- Rank: Private (Marines)
+- Role: Private (Marines) of the marine detachment.
+
+---
+
+Attributes:
+- ST: 11 [10 points]
+- DX: 13 [60 points]
+- IQ: 10 [0 points]
+- HT: 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP: 11
+- FP: 12
+- Will: 10
+- Perception (Per): 11
+- Basic Speed: 6.25
+- Basic Move: 6
+
+---
+
+Advantages:
+- Combat Reflexes (15 points)
+- High Pain Threshold (10 points)
+
+---
+
+Disadvantages:
+- Bad Temper (10 points)
+- Overconfidence (5 points)
+
+---
+
+Skills:
+- Cutlass (15) [12 points]
+- Musket (13) [8 points]
+- Brawling (13) [4 points]
+- Survival (Sea) (11) [2 points]
+
+---
+
+Combat Skills:
+- Cutlass (15) [12 points]
+- Musket (13) [8 points]
+
+---
+
+Total Points: 160

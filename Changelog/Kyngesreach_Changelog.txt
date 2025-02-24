@@ -113,3 +113,12 @@ Date: 2025-02-24
 Type of Change: Added
 Affected Files: Characters/NPCs (Profile and Character Sheet for Boatswain Margaret "Iron Meg" Kincaid)
 Description: Added profile and character sheet for Boatswain Margaret "Iron Meg" Kincaid with a 210-point character build reflecting her experience and authority.
+
+
+Version: v3.9
+Date: 2025-02-24
+Type of Change: Updated
+Affected Files: Characters/NPCs (Marine sample character sheets renamed for clarity)
+Description: Renamed sample marine character sheets to reflect their specializations:
+- Marine_Private_Sample_Cutlass_Specialist_Character_Sheet.txt
+- Marine_Private_Sample_Musket_Specialist_Character_Sheet.txt

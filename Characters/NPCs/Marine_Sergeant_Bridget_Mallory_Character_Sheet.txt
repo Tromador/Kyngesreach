@@ -1,0 +1,68 @@
+Character Sheet: Sergeant (Marines) Bridget Mallory
+
+---
+
+Basic Information:
+- Name: Bridget Mallory
+- Rank: Sergeant (Marines)
+- Role: Sergeant (Marines) of the marine detachment.
+
+---
+
+Attributes:
+- ST: 12 [20 points]
+- DX: 13 [60 points]
+- IQ: 11 [20 points]
+- HT: 13 [30 points]
+
+---
+
+Secondary Attributes:
+- HP: 12
+- FP: 13
+- Will: 12
+- Perception (Per): 12
+- Basic Speed: 6.5
+- Basic Move: 6
+
+---
+
+Advantages:
+- Fearlessness (2) (4 points)
+- Combat Reflexes (15 points)
+- High Pain Threshold (10 points)
+- Reputation: 'Hard as nails' (5 points)
+- Tough Skin 1 (5 points)
+
+---
+
+Disadvantages:
+- Bad Temper (10 points)
+- Overconfidence (5 points)
+- Sense of Duty (Marines) (10 points)
+- Callous (5 points)
+- Stubbornness (10 points)
+
+---
+
+Skills:
+- Leadership (13) [8 points] – Commands respect.
+- Tactics (12) [6 points] – Field experience.
+- Intimidation (15) [6 points] – Keeps marines in line.
+- Musket (15) [12 points]
+- Pistol (13) [8 points]
+- Cutlass (14) [8 points]
+- Survival (Land) (12) [4 points]
+- Brawling (14) [6 points]
+
+---
+
+Combat Skills:
+- Musket (15) [12 points]
+- Pistol (13) [8 points]
+- Cutlass (14) [8 points]
+- Brawling (14) [6 points]
+
+---
+
+Total Points: 200

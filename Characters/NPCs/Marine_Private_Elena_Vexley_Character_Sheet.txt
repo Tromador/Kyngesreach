@@ -1,0 +1,61 @@
+Character Sheet: Private (Marines - Sniper) Elena Vexley
+
+---
+
+Basic Information:
+- Name: Elena Vexley
+- Rank: Private (Marines - Sniper)
+- Role: Private (Marines - Sniper) of the marine detachment.
+
+---
+
+Attributes:
+- ST: 10 [0 points]
+- DX: 14 [80 points]
+- IQ: 10 [0 points]
+- HT: 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP: 10
+- FP: 12
+- Will: 11
+- Perception (Per): 14
+- Basic Speed: 6.5
+- Basic Move: 6
+
+---
+
+Advantages:
+- Sharpshooter (15 points)
+- Acute Vision +2 (4 points)
+- Combat Reflexes (15 points)
+- Fearlessness (1) (2 points)
+
+---
+
+Disadvantages:
+- Overconfidence (5 points)
+- Obsession (Perfect shot) (10 points)
+- Code of Honor (Military) (10 points)
+
+---
+
+Skills:
+- Musket (17) [20 points] – Deadly accurate.
+- Stealth (14) [6 points] – Effective mast-topper.
+- Climbing (13) [4 points] – Skilled in reaching high vantage points.
+- Observation (15) [8 points]
+- Leadership (9) [1 point] – Minimal.
+- Survival (Sea) (11) [2 points]
+
+---
+
+Combat Skills:
+- Musket (17) [20 points]
+- Cutlass (12) [4 points]
+
+---
+
+Total Points: 175

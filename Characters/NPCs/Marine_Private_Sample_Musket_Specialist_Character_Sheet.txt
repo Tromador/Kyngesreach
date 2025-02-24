@@ -1,0 +1,56 @@
+Character Sheet: Private (Marines) Sample Marine B
+
+---
+
+Basic Information:
+- Name: Sample Marine B
+- Rank: Private (Marines)
+- Role: Private (Marines) of the marine detachment.
+
+---
+
+Attributes:
+- ST: 11 [10 points]
+- DX: 13 [60 points]
+- IQ: 10 [0 points]
+- HT: 12 [20 points]
+
+---
+
+Secondary Attributes:
+- HP: 11
+- FP: 12
+- Will: 10
+- Perception (Per): 12
+- Basic Speed: 6.25
+- Basic Move: 6
+
+---
+
+Advantages:
+- Combat Reflexes (15 points)
+- High Pain Threshold (10 points)
+
+---
+
+Disadvantages:
+- Impulsiveness (10 points)
+- Overconfidence (5 points)
+
+---
+
+Skills:
+- Musket (16) [14 points]
+- Cutlass (13) [6 points]
+- Brawling (13) [4 points]
+- Observation (13) [4 points]
+
+---
+
+Combat Skills:
+- Musket (16) [14 points]
+- Cutlass (13) [6 points]
+
+---
+
+Total Points: 160
