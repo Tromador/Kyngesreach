@@ -1,0 +1,41 @@
+
+Kyngesreach Project - Workflow Document
+
+Overview:
+This document outlines the standard working practices, file templates, naming conventions, and versioning guidelines used for the Kyngesreach campaign project. It ensures consistency, clarity, and efficiency throughout the project.
+
+---
+
+1. File Templates:
+- Character Profiles: "[Rank/Role]_[Full_Name]_Profile.txt"
+- Character Sheets: "[Rank/Role]_[Full_Name]_Character_Sheet.txt"
+- Adventure Hooks: "AdventureHook_[Adventure_Name].txt"
+- Rules Notes: "[Topic_Name].txt"
+- Player Information: "[Topic]_Guide.txt" or "[Topic]_Description.txt"
+- Images: "[Character_Name].png" (One image per character)
+- Maps & Tracking Sheets: "[Topic]_Tracking_Sheet.csv"
+
+---
+
+2. Naming Conventions:
+- Use underscores (_) instead of spaces.
+- Capitalize each word in file names.
+- Maintain consistent character names and roles.
+- Images belong in "/Characters/NPCs/Images" or appropriate folders.
+- Avoid fictional names in AI image prompts; use role descriptions.
+
+---
+
+3. Versioning Guidelines:
+- Major (X.0): Major content additions (new adventures, significant changes).
+- Minor (X.Y): New profiles, images, or content expansions.
+- Patch (X.Y.Z): Small corrections or formatting adjustments.
+- Always update the changelog before pushing to GitHub.
+
+---
+
+4. General Working Practices:
+- Finalize content before GitHub pushes.
+- Update changelog with version numbers and dates.
+- Upload the latest GitHub repo at session start to avoid data loss.
+- Stick to templates unless exceptions are specified.

@@ -1,0 +1,46 @@
+
+Kyngesreach Campaign - Overview Document
+
+Overview:
+Essential background, setting details, major factions, notable NPC summaries, and player expectations for the Kyngesreach campaign.
+
+---
+
+1. Setting Overview:
+- The Kyngesreach Archipelago is an uncharted chain of islands with varying climates and dangers.
+- Civilized ports become rare with distance; information and maps are valuable commodities.
+
+---
+
+2. Factions:
+- Merchant Consortium: Primary expedition backers, possible hidden motives.
+- Iron Tide: Recurring antagonists to appear later in the campaign.
+- Other island cultures and factions to be introduced as the campaign unfolds.
+
+---
+
+3. Expedition Crew:
+- Crew includes volunteers, criminals avoiding punishment, pressed men, and specialists.
+- Morale is vital; affected by supplies, leadership, and events.
+- Key Officers:
+  - Captain Elias Godfrey: Experienced but overshadowed by past mistakes.
+  - First Lieutenant Isabella Hargrave: Curious and driven by discovery.
+  - Second Lieutenant Alaric Drake: Bold risk-taker.
+  - Boatswain Margaret "Iron Meg" Kincaid: No-nonsense disciplinarian.
+  - Surgeon Archibald Catesby: Skilled yet troubled by addiction.
+  - Marine Captain Edward Pembroke: Ineffective, overshadowed by subordinates.
+  - Marine Sergeant Bridget Mallory: Respected, hardened veteran.
+  - Ship’s Cat Nyxie: Crew morale indicator; her wellbeing affects ship conditions.
+
+---
+
+4. Player Expectations:
+- Exploration, moral choices, and survival elements.
+- Maritime and island-hopping adventures with character-driven decisions.
+
+---
+
+5. Working Practices:
+- Begin sessions with GitHub repo uploads.
+- Adhere to workflow and file naming conventions.
+- Maintain consistency across documents.
