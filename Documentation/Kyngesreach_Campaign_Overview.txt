@@ -2,72 +2,99 @@
 Kyngesreach Campaign - Overview Document
 
 Overview:
-This document provides essential information about the Kyngesreach campaign setting, its factions, major NPCs, and core themes. It is designed to be a comprehensive reference, enabling contributors to develop adventures, scenarios, and campaign elements with a consistent tone and setting.
+This document provides essential information about the Kyngesreach campaign setting, including its background, factions, major NPCs, themes, and working practices. It serves as a comprehensive reference for future adventures, scenarios, and campaign expansions.
 
 ---
 
 1. Setting Overview:
-- The Kyngesreach Archipelago is an expansive chain of islands with diverse climates and environments. While the overall climate is temperate to tropical, anomalies such as arctic islands or mystical weather patterns may occur.
-- Civilization is sparse beyond the starting mainland port. Islands with full port facilities and trade hubs are rare and considered significant finds.
-- Maps and reliable navigation data are valuable commodities. As players venture further from the mainland, the archipelago becomes more mysterious and dangerous.
+The Kyngesreach Archipelago is a vast and largely unexplored chain of islands extending far beyond known trade routes. While predominantly temperate and tropical, anomalies in climate occur, with rumors of icy islands, volcanic landscapes, and magical weather phenomena. Navigation is challenging due to treacherous reefs, unpredictable currents, and the lack of accurate maps.
+
+- **Civilization & Ports:** 
+  - Few islands possess proper ports, making resupply points rare and valuable.
+  - The mainland port city, where the expedition begins, is a bustling hub of commerce and corruption—the last stronghold of civilization before venturing into the unknown.
+  - Outposts and waystations are scarce, and many islands are completely uncharted.
+
+- **Navigation Challenges:** 
+  - Legends speak of islands that appear and disappear with the tides.
+  - Star navigation becomes unreliable deeper into the archipelago due to strange celestial distortions.
+  - Lore and ancient maps are prized treasures, often leading to conflict over their possession.
 
 ---
 
 2. Themes and Tone:
-- Exploration: Island-hopping adventures, lost civilizations, and uncharted waters.
-- Survival: Supplies are limited; tracking food, water, ammunition, and morale is crucial.
-- Moral Dilemmas: Choices often come with consequences, affecting both the crew and long-term campaign outcomes.
-- Supernatural Elements: Mythical creatures, ancient curses, and forgotten magic exist but are rare and impactful.
-- Maritime Life: Naval battles, shipboard politics, and discipline play central roles.
+- **Exploration and Discovery:** The heart of the campaign lies in charting unknown lands, uncovering hidden cultures, and facing the unknown.
+- **Survival and Resource Management:** Harsh environments, limited supplies, and the constant need for fresh water, food, and ship repairs are vital concerns.
+- **Moral Ambiguity:** Choices often pit profit against conscience. Players may face dilemmas involving exploitation, diplomacy, and personal gain.
+- **Supernatural Rarity and Impact:** While primarily grounded in realism, the occasional appearance of mythical creatures or magical phenomena serves as pivotal and memorable events.
+- **Isolation and Tension:** Long voyages breed tension aboard ship, with confined spaces, personality clashes, and the ever-present risk of mutiny.
 
 ---
 
 3. Factions:
-- Merchant Consortium: The primary financiers of the expedition. Their influence is vast, though their true motives may vary.
-- Iron Tide: A potential future adversary, representing organized opposition and piracy, expected to appear later in the campaign.
-- Local Cultures & Island Factions: Each island may host unique societies, ranging from friendly ports to hostile enclaves.
+- **Merchant Consortium:** 
+  - The primary backers of the expedition, motivated by profit and potential new trade routes.
+  - Members are known for internal rivalries and hidden agendas, some of which may emerge during the campaign.
+  - Rumors persist about deeper motives behind the expedition’s funding.
+
+- **Iron Tide:** 
+  - A formidable naval faction known for piracy and aggressive expansionism.
+  - Expected to become a recurring antagonist as the campaign progresses.
+
+- **Island Cultures and Local Factions:** 
+  - Varying from primitive tribes to reclusive advanced societies.
+  - Some islands may be claimed by rival nations or local warlords.
+  - Religion, superstition, and politics differ widely, often requiring careful diplomacy.
 
 ---
 
 4. Expedition and Crew Structure:
-- The expedition is led by Captain Elias Godfrey, whose competence is tempered by a need to restore his reputation.
-- Officers and Specialists:
-  - Captain Elias Godfrey: Pragmatic, concerned with discipline and morale.
-  - First Lieutenant Isabella Hargrave: Driven by exploration and intellectual curiosity.
-  - Second Lieutenant Alaric Drake: Confident, bold, occasionally reckless.
-  - Boatswain Margaret "Iron Meg" Kincaid: A strict disciplinarian respected by the crew.
-  - Surgeon Archibald Catesby: Skilled but battling personal vices.
-  - Marine Captain Edward Pembroke: Incompetent and largely a figurehead.
-  - Marine Sergeant Bridget Mallory: The true authority among the marines.
-  - Ship’s Cat Nyxie: Essential for morale and pest control.
-- Crew Composition:
-  - Volunteers seeking fortune or fame.
-  - Pressed men, often resentful but valuable laborers.
-  - Criminals offered the voyage as an alternative to harsher punishments.
+The expedition ship is crewed by a mix of seasoned sailors, press-ganged laborers, criminals seeking redemption or escape, and specialists brought for the voyage’s unique challenges.
+
+- **Crew Morale:** 
+  - A key mechanic. Morale affects discipline, efficiency, and potential for mutiny.
+  - Factors influencing morale: pay delays, food quality, harsh treatment, and prolonged hardships.
+
+- **Key Officers and Roles:** 
+  - *Captain Elias Godfrey:* Weathered leader focused on discipline and survival.
+  - *First Lieutenant Isabella Hargrave:* Seeks knowledge and exploration, often conflicted between duty and curiosity.
+  - *Second Lieutenant Alaric Drake:* Embodies boldness and risk, sometimes at odds with caution.
+  - *Boatswain Margaret "Iron Meg" Kincaid:* Keeps the crew in line through sheer will and respect.
+  - *Surgeon Archibald Catesby:* Essential for survival but struggles with personal demons.
+  - *Marine Captain Edward Pembroke:* An ineffective officer whose incompetence is tolerated due to connections.
+  - *Marine Sergeant Bridget Mallory:* The real authority among the marines; ruthless but fair.
+  - *Ship’s Cat Nyxie:* Surprisingly important for morale and pest control. Her presence is considered a good omen.
+
+- **Crew Composition:**
+  - Volunteers seeking fortune or renown.
+  - Pressed men serving under threat of punishment.
+  - Criminals given a chance at freedom through service.
+  - Superstitions run deep among the crew, with many believing the voyage cursed.
 
 ---
 
-5. Player Involvement:
-- Players may be explorers, mercenaries, scholars, or adventurers brought aboard for various reasons.
-- Their influence over the expedition can grow as they resolve crises and prove themselves.
-- Maintaining crew morale and ship functionality is key to survival and success.
+5. Player Expectations:
+- **Agency and Consequences:** Player choices will shape the crew’s fate, morale, and the expedition’s success.
+- **Varied Adventures:** Expect everything from political intrigue in port towns to survival challenges on remote islands.
+- **Shipboard Dynamics:** Politics, personal grudges, and camaraderie among the crew will provide opportunities for roleplay.
+- **Resource Scarcity:** Supplies are finite; decisions on resupply, rationing, and navigation are crucial.
+- **Opportunities for Fame or Infamy:** Players can gain respect or enmity depending on their choices and actions.
 
 ---
 
-6. Working Practices and Adventure Design:
-- Adventures should begin with a clear goal (e.g., investigating an island, resolving a shipboard issue).
-- Use established NPCs and factions to maintain continuity.
-- Resource tracking (food, water, ammunition, morale) should be integrated into scenarios.
-- Consider the isolation of the archipelago—resupply opportunities are scarce.
+6. Adventure and Scenario Design:
+- Adventures should draw on existing factions and NPCs to maintain continuity.
+- Islands may present unique challenges: hostile wildlife, mysterious ruins, isolated settlements, or natural hazards.
+- Shipboard events—storms, illness outbreaks, or disciplinary issues—can occur during travel.
+- Resource tracking (food, water, ammo, morale) must be integrated into scenarios.
 
 ---
 
-7. Useful Notes:
-- Nyxie’s morale link: Her wellbeing affects crew attitudes and pest control aboard ship.
-- Supplies must be carefully managed; running low can force difficult decisions.
-- Mutinous tendencies may arise if morale drops too low.
-- Rare maps or lore about the archipelago are significant treasures, often rivaling gold.
+7. Additional Notes:
+- **Navigation and Mapping:** Reliable charts are rare; creating maps is a key part of exploration.
+- **Supplies:** Running out of vital resources may force players into desperate measures, like raiding or making risky landfalls.
+- **Mutiny Threat:** Neglected morale or poor leadership decisions can lead to open rebellion.
+- **Superstitions:** Even mundane events may be seen as omens, adding a layer of tension and paranoia.
 
 ---
 
-This overview should serve as a go-to reference for all future campaign work, ensuring consistency and coherence in tone, character use, and setting.
+This document serves as a comprehensive reference to ensure that all contributors can seamlessly engage with the Kyngesreach campaign setting, its characters, and its overarching themes.
