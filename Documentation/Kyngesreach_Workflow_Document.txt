@@ -2,11 +2,23 @@
 Kyngesreach Project - Workflow Document
 
 Overview:
-This document outlines the standard working practices, file templates, naming conventions, and versioning guidelines used for the Kyngesreach campaign project. It ensures consistency, clarity, and efficiency throughout the project.
+This document provides comprehensive guidelines for file management, naming conventions, versioning, and working practices for the Kyngesreach campaign project. Its purpose is to ensure clarity, consistency, and efficiency across all tasks and contributors.
 
 ---
 
-1. File Templates:
+1. File Structure and Templates:
+The project follows a clear folder structure:
+- Adventure_Hooks/: Adventure concepts and detailed scenarios.
+- Characters/NPCs/: All non-player character profiles, character sheets, and images.
+- Characters/PCs/: Player character data (added as necessary).
+- Lore_and_Worldbuilding/: Setting information, cultural notes, factions, and supernatural elements.
+- Player_Information/: Guides and information for player reference.
+- Rules_Notes/: House rules, mechanics, and campaign-specific modifications.
+- Tracking_Sheets/: Crew morale, supplies, and voyage logs.
+- Ships_and_Vehicles/: Details and stats of vessels used in the campaign.
+- Documentation/: Reference documents (including this one).
+
+File Templates:
 - Character Profiles: "[Rank/Role]_[Full_Name]_Profile.txt"
 - Character Sheets: "[Rank/Role]_[Full_Name]_Character_Sheet.txt"
 - Adventure Hooks: "AdventureHook_[Adventure_Name].txt"
@@ -18,24 +30,42 @@ This document outlines the standard working practices, file templates, naming co
 ---
 
 2. Naming Conventions:
-- Use underscores (_) instead of spaces.
+- Use underscores (_) in place of spaces.
 - Capitalize each word in file names.
-- Maintain consistent character names and roles.
-- Images belong in "/Characters/NPCs/Images" or appropriate folders.
-- Avoid fictional names in AI image prompts; use role descriptions.
+- Maintain consistency for all character names and roles.
+- Store images in "/Characters/NPCs/Images/" or appropriate directories.
+- Avoid using fictional names in AI image generation prompts; use descriptive roles instead.
 
 ---
 
 3. Versioning Guidelines:
-- Major (X.0): Major content additions (new adventures, significant changes).
-- Minor (X.Y): New profiles, images, or content expansions.
-- Patch (X.Y.Z): Small corrections or formatting adjustments.
-- Always update the changelog before pushing to GitHub.
+- Major Versions (X.0): Significant additions (e.g., new campaign arcs, major documents).
+- Minor Versions (X.Y): Updates to existing files, added characters, or minor expansions.
+- Patch Versions (X.Y.Z): Small edits, formatting changes, or corrections.
+- Always update the changelog with clear descriptions, version numbers, and dates before GitHub pushes.
 
 ---
 
 4. General Working Practices:
-- Finalize content before GitHub pushes.
-- Update changelog with version numbers and dates.
-- Upload the latest GitHub repo at session start to avoid data loss.
-- Stick to templates unless exceptions are specified.
+- Begin each work session by uploading the latest GitHub repository to maintain continuity.
+- Save finalized files before initiating pushes to avoid data loss.
+- Keep all documentation aligned with the naming conventions and templates.
+- Maintain consistency across profiles, character sheets, and adventure documents.
+- Limit each character to one portrait to avoid confusion.
+- Use the changelog to log all changes with proper versioning.
+
+---
+
+5. Image Generation Practices:
+- Prompts should describe roles (e.g., "1700s British Navy Lieutenant") rather than using fictional names.
+- Focus on clear descriptions of attire, posture, and setting.
+- Avoid mentioning weapons directly when generating images unless necessary and policy-compliant.
+- Store all approved images in the correct folder with the character’s name.
+
+---
+
+6. Workflow Tips:
+- Keep sessions task-focused to prevent unnecessarily long chat histories.
+- Use the campaign overview as a reference for setting, character roles, and themes.
+- Adventures should reference existing factions, NPCs, and established lore when possible.
+- Update all character relationship sections when new characters are added.
