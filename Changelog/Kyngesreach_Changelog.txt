@@ -1,6 +1,7 @@
 Kyngesreach Project Changelog
 =============================
 
+---
 Version: v1.0
 Date: 2025-02-21
 Type of Change: Added
@@ -8,114 +9,105 @@ Affected Files: Adventure_Hooks/AdventureHook_IsleOfGunslingingMages_v1.txt
 Description: Added new adventure hook involving gunslinging mages and magical duels.
 
 ---
-
-Version: v2.0
+Version: v1.1
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Lore_and_Worldbuilding/Archipelago_World_Structure.txt
 Description: Created document outlining the general structure and history of the Kyngesreach Archipelago.
 
 ---
-
-Version: v3.0
+Version: v1.2
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Player_Information/Players_Guide.txt
 Description: Added Players' Guide providing essential campaign setting information.
 
 ---
-
-Version: v4.0
+Version: v1.3
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Player_Information/Player_Character_Concepts.txt
 Description: Added list of player character concepts with brief descriptions.
 
 ---
-
-Version: v5.0
+Version: v1.4
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Player_Information/Arcane_Gunner_Long_Form_Description.txt
 Description: Created long form description for the Arcane Gunner character concept.
 
 ---
-
-Version: v6.0
+Version: v1.5
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Lore_and_Worldbuilding/Island_Descriptions.txt, Lore_and_Worldbuilding/Cultural_Elements.txt, Lore_and_Worldbuilding/Factions_of_the_Archipelago.txt, Lore_and_Worldbuilding/Supernatural_Phenomena.txt
 Description: Created expanded sections for island descriptions, cultural elements, factions, and supernatural phenomena.
 
 ---
-
-Version: v7.0
+Version: v1.6
 Date: 2025-02-21
 Type of Change: Updated
 Affected Files: Changelog/Kyngesreach_Changelog.txt
 Description: Updated changelog to include version numbers for proper versioning and rollback capabilities.
 
 ---
-
-
-Version: v8.0
+Version: v1.7
 Date: 2025-02-21
 Type of Change: Updated
 Affected Files: Lore_and_Worldbuilding/Archipelago_World_Structure.txt, Lore_and_Worldbuilding/Island_Descriptions.txt, Lore_and_Worldbuilding/Cultural_Elements.txt, Lore_and_Worldbuilding/Factions_of_the_Archipelago.txt, Lore_and_Worldbuilding/Supernatural_Phenomena.txt, Lore_and_Worldbuilding/Inspirational_Sources.txt, Lore_and_Worldbuilding/Supply_Tracking_and_Mechanics.txt
 Description: Comprehensive updates to all major documents, ensuring complete campaign information coverage and addressing previous data loss concerns.
 
 ---
-
-Version: v9.0
+Version: v2.0
 Date: 2025-02-21
 Type of Change: Added
 Affected Files: Entire repository
 Description: Created a new repository package with all updated documents, version control, and instructions for GitHub upload.
 
-
-Version: v3.0
+---
+Version: v2.1
 Date: 2025-02-22
-Type of Change: Updated
-Affected Files: Player_Information/Nyxie_Player_Description.txt, NPCs/NPC_Captain_Elias_Godfrey.txt
+Type of Change: Added
+Affected Files: Player_Information/Nyxie_Player_Description.txt, Characters/NPCs/NPC_Captain_Elias_Godfrey.txt
 Description: Added Nyxie description and Captain Elias Godfrey NPC profile, updated project structure.
 
-
-Version: v3.2
+---
+Version: v2.2
 Date: 2025-02-22
 Type of Change: Updated
 Affected Files: Adventure_Hooks, Characters/NPCs
 Description: Removed invalid files from Adventure Hooks folder, updated NPC profiles for Captain Elias Godfrey and Dr. Archibald Catesby.
 
-
-Version: v3.3
+---
+Version: v2.3
 Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (Captain Elias Godfrey, Isabella Hargrave, Archibald Catesby, Nyxie)
 Description: Standardized character sheets and profiles for Captain Elias Godfrey, First Lieutenant Isabella Hargrave, Dr. Archibald Catesby, and Nyxie the Ship’s Cat.
 
-
-Version: v3.6
+---
+Version: v2.3.1
 Date: 2025-02-24
 Type of Change: Corrected
 Affected Files: Characters/NPCs (Character Sheets for Captain Elias Godfrey, Isabella Hargrave, Archibald Catesby, and Nyxie)
 Description: Restored unique content for all character sheets while maintaining the standardized template format.
 
-
-Version: v3.7
+---
+Version: v2.4
 Date: 2025-02-24
 Type of Change: Added
 Affected Files: Characters/NPCs (Profile and Character Sheet for Bartholomew "Cookie" Griggs)
 Description: Added profile and character sheet for Ship's Cook Bartholomew "Cookie" Griggs, including a 170-point character build.
 
-
-Version: v3.8
+---
+Version: v2.5
 Date: 2025-02-24
 Type of Change: Added
 Affected Files: Characters/NPCs (Profile and Character Sheet for Boatswain Margaret "Iron Meg" Kincaid)
 Description: Added profile and character sheet for Boatswain Margaret "Iron Meg" Kincaid with a 210-point character build reflecting her experience and authority.
 
-
-Version: v3.9
+---
+Version: v2.6
 Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (Marine sample character sheets renamed for clarity)
@@ -123,37 +115,42 @@ Description: Renamed sample marine character sheets to reflect their specializat
 - Marine_Private_Sample_Cutlass_Specialist_Character_Sheet.txt
 - Marine_Private_Sample_Musket_Specialist_Character_Sheet.txt
 
-
-Version: v4.0
+---
+Version: v2.7
 Date: 2025-02-24
 Type of Change: Added & Updated
 Affected Files: 
 - Characters/NPCs (Profile and Character Sheet for Second Lieutenant Alaric Drake)
 - All existing character sheets updated with comprehensive Relationship sections.
-
 Description: 
 - Added profile and 185-point character sheet for Second Lieutenant Alaric Drake.
 - Updated Relationships sections across all character sheets to include fully profiled officers, crew, and marine squad interactions.
 
-
-Version: v4.1
+---
+Version: v2.7.1
 Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (All profiles)
 Description: Expanded Relationships sections across all NPC profiles to include detailed and nuanced connections with officers, crew, marine squad, and players.
 
-
-Version: v4.2
+---
+Version: v2.7.2
 Date: 2025-02-24
 Type of Change: Updated
 Affected Files: Characters/NPCs (All profiles)
 Description: Consolidated all Relationships sections into single, comprehensive sections in each NPC profile to ensure clarity and remove duplicates. Updated character dynamics to fully reflect alliances, rivalries, and connections with crew, marines, officers, and players.
 
-
-Version: v4.3
+---
+Version: v2.8
 Date: 2025-02-24
 Type of Change: Added & Updated
 Affected Files: Characters/NPCs/Images (Captain Elias Godfrey portrait added and renamed)
 Description: 
 - Added a portrait for Captain Elias Godfrey to the Characters/NPCs/Images folder.
 - Simplified image filenames to use only character names for clarity and consistency.
+---
+Version: v3.0
+Date: 2025-02-26
+Type of Change: Added
+Affected Files: Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt
+Description: Began new adventure module "The Vanishing of the Merchant Envoy" with opening scene and Captain Godfrey's briefing. This marks the start of version 3.0 for the project.
