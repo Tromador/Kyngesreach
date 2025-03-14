@@ -39,6 +39,22 @@ File Templates:
 ---
 
 3. Versioning Guidelines:
+
+---
+
+### Changelog Format Guidelines:
+- Every entry must follow this structured format:
+  ```
+  ---
+  Version: vX.Y.Z
+  Date: YYYY-MM-DD
+  Type of Change: (Added, Updated, Fixed, etc.)
+  Affected Files: [Full path of modified files]
+  Description: Brief but clear summary of the change.
+  ```
+- Ensure each update has an appropriate version number following section 3 guidelines.
+- Changelog must be updated **before** pushing changes to GitHub.
+
 - Major Versions (X.0): Significant additions (e.g., new campaign arcs, major documents).
 - Minor Versions (X.Y): Updates to existing files, added characters, or minor expansions.
 - Patch Versions (X.Y.Z): Small edits, formatting changes, or corrections.
