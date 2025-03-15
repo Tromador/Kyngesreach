@@ -169,3 +169,14 @@ Affected Files:
 Description:
 - Created a new faction document for the **Stormcallers' Cult**, detailing their beliefs, structure, and secretive role in the archipelago.
 - Updated the adventure module *The Vanishing of the Merchant Envoy* to include **subtle hints** of the Stormcallers' involvement.
+
+---
+Version: v3.3
+Date: 2025-02-26
+Type of Change: Updated
+Affected Files:
+- Factions/Stormcallers_Cult.txt
+
+Description:
+- Expanded **The Drowned** within the Stormcallers' Cult, establishing them as **Draugr-like undead** used as enforcers, guardians, and omens.
+- Clarified their **connection to Stormcaller rituals** and their **legendary status among sailors**.
