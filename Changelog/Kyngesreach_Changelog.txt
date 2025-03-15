@@ -155,13 +155,17 @@ Type of Change: Added
 Affected Files: Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt
 Description: Began new adventure module "The Vanishing of the Merchant Envoy" with opening scene and Captain Godfrey's briefing. This marks the start of version 3.0 for the project.
 
+
+
+
 ---
-Version: v3.1
-Date: 2025-03-14
+Version: v3.2
+Date: 2025-02-26
 Type of Change: Added
-Affected Files: 
-  - Lore_and_Worldbuilding/Union_of_Principalities.txt
-  - Lore_and_Worldbuilding/Principality_of_Varenza.txt
-  - Ships_and_Vehicles/UPS_Sojourner.txt
-  - Documentation/Kyngesreach_Workflow_Document.txt
-Description: Added new documents for the Union of Principalities, the Principality of Varenza, and the UPS Sojourner. Updated the workflow document to include structured changelog guidelines.
+Affected Files:
+- Factions/Stormcallers_Cult.txt
+- Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt
+
+Description:
+- Created a new faction document for the **Stormcallers' Cult**, detailing their beliefs, structure, and secretive role in the archipelago.
+- Updated the adventure module *The Vanishing of the Merchant Envoy* to include **subtle hints** of the Stormcallers' involvement.
