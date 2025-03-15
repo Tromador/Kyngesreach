@@ -190,3 +190,27 @@ Affected Files:
 Description:
 - Corrected the missing expansion of **The Drowned** in the Stormcallers' Cult document.
 - Properly added details of **The Drowned as Draugr-like undead**, reinforcing their role as **undead enforcers, guardians of lost knowledge, and cursed warnings**.
+---
+Version: v3.5
+Date: 2025-02-26
+Type of Change: Added
+Affected Files:
+- Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt
+
+Description:
+- Expanded **Vittoria Falciere (Enzo's Wife) and Marco Falciere (Enzo's Child)** as key NPCs in the investigation.
+- Vittoria provides **clues about Enzo's strange behavior, secret meetings, and wet clothes** from cult rituals.
+- Marco, if approached correctly, can reveal **Enzo's whispered conversations with the ocean and strange visitors**.
+- **Vittoria also provides the locations** of the **Office and Warehouse** if players haven’t obtained them elsewhere.
+---
+Version: v3.6
+Date: 2025-02-26
+Type of Change: Fixed
+Affected Files:
+- Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt
+
+Description:
+- Properly added **Vittoria and Marco Falciere's section** to the adventure module.
+- Vittoria provides **clues about Enzo's strange behavior, secret meetings, and wet clothes** from cult rituals.
+- Marco, if approached correctly, can reveal **Enzo's whispered conversations with the ocean and strange visitors**.
+- **Vittoria also provides the locations** of the **Office and Warehouse** if players haven’t obtained them elsewhere.
