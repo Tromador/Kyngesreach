@@ -214,3 +214,10 @@ Description:
 - Vittoria provides **clues about Enzo's strange behavior, secret meetings, and wet clothes** from cult rituals.
 - Marco, if approached correctly, can reveal **Enzo's whispered conversations with the ocean and strange visitors**.
 - **Vittoria also provides the locations** of the **Office and Warehouse** if players haven’t obtained them elsewhere.
+---
+Version: v3.7
+Date: 2025-03-16
+Type of Change: Updated
+Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
+Description: Integrated missing and reconstructed content into *Vanishing of the Merchant Envoy*. This update fully restores the adventure's investigation structure, final encounter details, and key narrative elements related to Enzo Falciere and the Stormcallers' Cult.
+---
