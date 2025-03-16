@@ -1,115 +1,239 @@
-# **Adventure Module: The Vanishing of the Merchant Envoy**
-## **Scene: Captain Godfrey's Cabin**
+# Adventure Module: The Vanishing of the Merchant Envoy
 
-The heavy oak door creaks shut behind the players as they step into Captain Elias Godfrey's cabin. The room is spacious by shipboard standards, its walls lined with maps—many of which end in blank spaces beyond the known coastlines—and shelves of navigational instruments. A single lantern swings overhead, casting flickering light over the cluttered desk where papers, sealed letters, and half-finished reports lie in disarray. The air carries the familiar scents of salt, aged wood, and faint tobacco smoke.
+## Introductory Scene: Captain Godfrey's Cabin
+
+The heavy oak door creaks shut behind the players as they step into Captain Elias Godfrey's cabin. The room is spacious by shipboard standards, its walls lined with maps—many of which end in blank spaces beyond known coastlines—and shelves of navigational instruments. A single lantern swings overhead, casting flickering light over the cluttered desk where papers, sealed letters, and half-finished reports lie in disarray. The air carries the familiar scents of salt, aged wood, and faint tobacco smoke.
 
 Captain Godfrey stands at the far side of the cabin, his uniform neat despite the tension etched into his weathered face. His gray eyes shift between the players as he leans forward, both hands planted on the tabletop. Behind him, a small window frames the dark silhouette of the port, illuminated by scattered lanterns and the distant glow of dockside taverns. Outside, the soft creak of the hull and faint murmurs from the crew echo the unease hanging over the ship.
 
 Godfrey clears his throat, his voice a gravelly baritone shaped by decades at sea and sharpened by authority.
 
-> **Captain Godfrey's Speech:**  
+### Captain Godfrey's Speech:
 > "No point dressing this up—we've got a problem on our hands. The merchant envoy—the man who funded this entire venture—has gone missing. Vanished days before we’re set to depart. And don’t think for a second the crew hasn’t noticed. Half of them are already whispering about curses and ill omens. Hell, with the waters we’re sailing into, I can’t entirely blame them. Most folk with sense steer clear of that stretch of sea. It’s uncharted, it’s dangerous, and ships that head out there… well, they’re not known for coming back. And yet here we are."
->
-> *He pauses, glancing at the maps before returning his gaze to the players.*  
+
+He pauses, glancing at the maps before returning his gaze to the players.
+
 > "We’ve got all manner of folks on board—volunteers looking for glory, petty criminals trying to dodge the noose, pressed men with nowhere else to turn. Holding this crew together was never going to be easy. But if we don’t get ahead of this, discipline’ll crack before we’ve even raised anchor. This envoy disappearing? It’s pouring fuel on that fire. Crew’s jittery enough without thinking we’re cursed before we’ve set sail."
->
-> *He straightens, voice tightening.*  
+
+He straightens, voice tightening.
+
 > "We need answers. Fast. That envoy was finalizing our supplies and contracts. Without him, we stand to lose what little edge we have. Worse—if this is sabotage, it’s not just about missing supplies. Someone might not want us sailing at all. Or worse, they want us to sail and not come back. I’m not about to let that stand."
->
+
 > "That’s where you come in. I picked you lot because you’re capable—or you’d better be. Find out what happened to the envoy. If he’s in trouble, pull him out. If he’s jumped ship with our coin or turned traitor, I trust you’ll know how to handle it. Whatever you find, I need this sorted, quiet and quick. No crew panic, no word spreading beyond who needs to know. We set sail on schedule, with or without him—but I’d damn well prefer with."
->
-> *His gaze hardens, lingering on each player in turn.*  
-> "Do this right, and you’ll have my thanks—and the crew’ll see that leadership aboard this ship isn’t to be questioned. Fail… and we head into cursed waters with a ship full of frightened men ready to jump at shadows. That’s a risk I’m not willing to take. Understood?"
 
 ---
 
-### **Introduction**
+## 1. Investigation Begins
+The players must decide where to begin their search. Although Godfrey has no great ideas, these should be obvious places, or in a pinch the locals will be able to suggest these to players if asked, perhaps around the docks or in local taverns and such places.
 
-The players are tasked with investigating the disappearance of **Enzo Falciere**, a Varenzan merchant involved in outfitting the expedition. What begins as a routine search turns into a chilling encounter with the supernatural, leading them to uncover the influence of the Stormcallers' Cult.
+### 1.1 Falciere’s Office
+- Suspicious missing payment entry—suggests an off-the-books deal.
+- Unaccounted shipments in cargo manifests linked to Stormcaller agents.
+- Office contains encrypted correspondence (can be deciphered with effort).
 
-### **1. The Investigation Begins (Immediately After Godfrey’s Speech)**
+### 1.2 Enzo’s Warehouse
+- The warehouse is owned by the Falciere family and managed by Matteo Caravelli.
+- Matteo is secretly a Hidden Hand of the Stormcaller cult.
+- Matteo is terrified of the Stormcallers, visibly nervous.
+- He denies knowing anything but sweats profusely when confronted.
+- His Stormcaller tattoo matches the one on Falciere’s body.
+- Signs of a struggle—bloodstains, broken lanterns, missing shipment.
+- The warehouse is dimly lit, the smell of brine and old wood hanging in the air. The signs of violence are evident—blood smeared along the floor, crates smashed apart, a shattered lantern flickering in the gloom. The stillness is unsettling, broken only by the occasional creak of wood shifting in the tide.
 
-**Goal:** Get the players moving in the right direction while giving them multiple leads to follow.
+#### Matteo Caravelli: The Terrified Overseer
+- **Appearance**: Early 40s, thinning hair, hollow cheeks, eyes darting constantly.
+- **Personality**: Anxious, sweating profusely, refuses eye contact, terrified of saying too much.
+- **Behavior & Roleplay Prompts**:
+  - If questioned, Matteo first denies knowing anything, his voice shaky.
+  - If pressed, he glances around nervously, as though expecting someone to be listening.
+  - If confronted about his Stormcaller tattoo, he stammers and visibly recoils, cradling his wrist protectively.
+  - If players grow aggressive, he pleads with them to stop, insisting: *"You don’t understand. It’s worse than death. They drown you, but you don’t die."*
+- **What He WON’T Say**:
+  - He refuses to explain the tattoo, only whispering, *"It marks you."*
+  - He won’t give names, only shaking his head violently when asked about who took Falciere.
+  - If players threaten him further, he breaks down completely, sobbing, but still offers no concrete information.
 
-**Captain Elias Godfrey** informs the players that Falciere **vanished from dockside** while finalizing expedition supplies. The crew needs the missing provisions, but more pressingly, Varenza will demand answers.
-
-The players may choose **one of three primary leads**:
-
-#### **Primary Leads & Investigation Details**
-
-- **Falciere’s Office (Merchant Records)**
-  - Suspicious missing payment entry—suggests an off-the-books deal.
-  - Unaccounted shipments in cargo manifests linked to Stormcaller agents.
-
-- **His Warehouse (Managed by a Stormcaller "Hidden Hand")**
-  - Overseer denies knowing anything, but a Stormcaller tattoo is hidden on his arm.
-  - Signs of a struggle—bloodstains, broken crates, missing shipment.
-  - If pressed too hard, he would rather die than betray the cult.
-
-- **His Home (Distraught Wife)**
-  - She knows nothing of the cult but is suspicious of:
-    - Falciere often coming home soaked in seawater without explanation.
-    - Leaving at odd hours, meeting unknown visitors.
-
-#### **Fallback Lead (Dockside Gossip)**
-- Dockworkers recall Falciere heading to a warehouse late at night.
-- A nervous sailor mutters about strange chanting near the docks.
-
----
-### **2. The Warehouse Investigation (Where It All Went Wrong)**
-
-**Goal:** Show that Falciere’s betrayal of the Stormcallers led to his execution.
-
-#### **What Players Find:**
-- Signs of a Struggle – Bloodstains, a shattered lantern, upturned crates.
-- A Ritual Symbol Drawn in Salt – A Stormcaller drowning sigil.
-- An Unfinished Letter (Falciere’s handwriting):
-  "I made a mistake. They know. If I disappear, tell Varenza that the sea is watching. I should never have—" (ink trails off).
-- A Dockworker Witness – Saw hooded figures dragging Falciere toward the water but remained silent out of fear.
-
-#### **The Turning Point**
-- If players linger too long, they get a feeling of being watched.
-- Something watches them from the tide...
-- This directs them toward the final location.
+#### Final Dire Warning:
+If players leave him alone, Matteo mutters as they walk away: *"It’s too late for you now. The sea is watching."*
 
 ---
-### **3. The Descent into the Depths (Final Lead-Up to the Fight)**
 
-**Goal:** Lead players to Falciere’s final resting place.
+### What Players Discover at the Warehouse:
+- **Signs of a Struggle**: Blood, overturned crates, shattered lantern.
+- **A Ritual Symbol Drawn in Salt**: A drowning sigil linked to the Stormcallers.
+- **An Unfinished Letter from Falciere**:  
+  > *"I made a mistake. They know. If I disappear, tell Varenza that the sea is watching. I should never have—"*
+- **Dockworker Witness**: Saw hooded figures dragging Falciere toward the docks but refuses to talk.
 
-- **A Flooded Smuggler’s Warehouse (Chosen Location)**
-  - Dilapidated warehouse, water seeping in through cracks.
-  - Unnatural tide movement—as if the sea itself is reaching inside.
-  - Something stirs beneath the surface...
-
----
-### **4. The Final Fight: Enzo Falciere’s Undead Fate**
-
-**Goal:** Reveal the truth—Falciere was executed by the Stormcallers, now cursed as The Drowned.
-
-#### **How the Fight Unfolds**
-1. Enzo awakens as a Draugr, his bloated, waterlogged corpse moving unnaturally.
-2. Speaks in broken whispers: "The sea… does not… forgive…"
-3. Combat Phases:
-   - Phase 1: Unnatural Strength – Moves eerily fast, feels no pain.
-   - Phase 2: The Drowned’s Curse – Water floods the room, seaweed tendrils drag at players.
-   - Phase 3: The Final Grapple – Latches onto a player, trying to drag them under.
-
-#### **When Defeated**
-- His body remains still.
-- Players must examine him to realize it’s Enzo Falciere.
-- Loot/Clues from his Remains:
-  - Stormcaller tattoos – Proof of cult involvement.
-  - Torn Varenzan silk – Remnant of his merchant wealth.
-  - A ruined signet ring – Noble crest, now worthless.
+### Falciere’s Home (Vittoria & Marco Falciere)
+- **Vittoria Falciere**, Enzo’s wife, is distraught but knows little of the cult.
+- **Marco Falciere**, their young son, provides eerie information:
+  - Spoke of his father *"whispering to the sea."*
+  - Heard strange visitors at night.
+  - Drew symbols matching the Stormcaller sigil.
 
 ---
-### **5. Final Choices & Consequences**
 
-**How Will the Crew React?**
-- Many see this as an omen—the expedition might be cursed.
-- Morale could drop unless the players reassure or control the narrative.
+### 1.3 Falciere’s Home – The Domestic Scene
+#### Location & Atmosphere:
+The Falciere estate is modest but well-kept, a comfortable townhome that reflects a rising merchant family's wealth—fine but not extravagant. The home is quiet, tense, as if a heavy shadow hangs over it. The household servants have been dismissed since Enzo’s disappearance, leaving only his wife and their young child behind.
 
-**Do the Players Share the Truth?**
-- Telling Varenza may escalate conflict with the Stormcallers.
-- Keeping silent lets the mystery linger—but the cult now knows them.
+#### Characters:
+**1. Vittoria Falciere (Distraught Wife)**  
+- **Age**: Mid-20s  
+- **Appearance**: Elegant but weary; dark hair tied back in a simple braid, eyes red from crying.  
+- **Personality**: Conflicted—grieving but angry at her husband’s secrets.  
+- **State of Mind**:  
+  - She doesn’t know about the Stormcallers.  
+  - She suspects her husband was involved in something secretive.  
+  - She has been kept in the dark, yet worries that his actions have now endangered them.  
+  - Guilt-ridden—her last words to him before his disappearance were harsh, frustrated by his late nights and strange behavior.
+
+#### What She Can Reveal:
+- **His Late-Night Absences**: Enzo would leave unexpectedly at night, always without explanation. He sometimes returned before dawn, soaking wet, clothes heavy with seawater. When asked, he dismissed it as *"merchant business"*, but she never believed him.
+- **Strange Visitors**: In the weeks before he vanished, unfamiliar men visited him—always late at night. They spoke softly but intensely, and she never saw their faces. One night, she heard them chanting.
+- **Hidden Fears**: She confesses she had begun to fear her husband—not because he threatened her, but because he was becoming someone she didn’t recognize. Some nights, he stared into the dark, whispering strange words. He became obsessed with the sea, listening to the tide as if it were speaking to him.
+
+**2. Marco Falciere (The Child)**  
+- **Age**: 4 years old  
+- **Appearance**: Dark curls, big eyes, clings to his mother.  
+- **Personality**: Shy, fearful of strangers, but curious.  
+- **State of Mind**:  
+  - Doesn’t understand what’s happening.  
+  - Knows *"Papa is missing."*  
+  - Has overheard more than his mother realizes.
+
+#### What He Might Reveal (If the Players Gain His Trust):
+- *"Papa talked to the ocean."* – He saw his father murmuring toward the waves on multiple occasions.
+- *"A man with no face came here."* – One of the visitors wore a hood and had a whispery voice.
+- *"Mama said Papa was bad."* – A reference to a fight between Vittoria and Enzo the night before he vanished.
+
+---
+
+### Player Interactions & Outcomes
+- **Comfort & Reassurance**: If the players treat Vittoria and Marco kindly, she opens up more.
+- **Aggressive Questioning**: If pressured, she becomes defensive, shutting down or demanding they leave.
+- **Subtle Observations**: The players might notice a child’s drawing—Marco scribbled odd symbols he saw his father making.
+- **Stormcaller Symbolism?** If a player has knowledge of cult markings, they might recognize a faintly etched sigil hidden on Enzo’s work desk or personal effects.
+
+---
+
+### Where This Leads:
+Vittoria’s testimony reinforces the mystery:
+- Enzo was tied to something unnatural.
+- He had visitors connected to the cult.
+- He was drawn to the sea, almost as if it called to him.
+
+Players will likely link this to the warehouse or office, pushing them toward their next lead.
+
+---
+
+## 2. Descent into the Depths
+The players follow the final clues to a forgotten place, where the sea has swallowed the past.
+
+### The Chosen Location: A Flooded Smuggler’s Warehouse
+- Water rises with the tide, creeping over old stone and rotting wood.
+- Unnatural silence fills the air, broken only by distant, echoing drips of water.
+- Lanterns flicker unnaturally, as though something unseen disturbs the flame.
+- Strange etchings cover the walls—symbols eerily similar to those found at the warehouse.
+- **Hints of past victims**: A skeletal hand protrudes from the water, still shackled to the floor by rusted chains.
+
+#### Environmental Effects:
+- The tide rises every few rounds, eventually making parts of the room inaccessible.
+- Slippery ground imposes a -2 DX penalty on movement-related rolls.
+- Objects float in the water, occasionally bumping against players, adding tension.
+
+---
+
+### Players uncover a flooded, dilapidated smuggler’s warehouse. The tide is rising, reducing movement options. Strange, whispering voices seem to echo from the water, and unnatural lights flicker beneath the surface.
+
+---
+
+## 3. Final Encounter: Enzo Falciere, The Drowned
+As the players explore, the water suddenly surges as something stirs beneath the surface. From the darkness, Enzo Falciere emerges—a drowned, bloated mockery of the man he once was. His eyes are clouded, his flesh pallid, and seaweed coils around his limbs like living tendrils.
+
+### Descriptive Horror Elements:
+- His voice is broken, unnatural. He speaks as though water still fills his lungs.
+- His fingers twitch erratically, as if resisting his own actions.
+- Water drips endlessly from his form, yet he never dries.
+- His face is distorted, stretched unnaturally, mouth slightly too wide, eyes sunken and hollow.
+
+---
+
+### GURPS Combat Stats & Mechanics:
+- **ST (Strength)**: 15
+- **DX (Dexterity)**: 12
+- **IQ (Intelligence)**: 9
+- **HT (Health)**: 14
+- **HP (Hit Points)**: 20
+- **Move**: 6
+- **DR (Damage Resistance)**: 2 (tough, bloated flesh)
+- **Resistances**: Takes half damage from all damage types except cutting/slashing.
+
+#### Weapon:
+- **Falciere Family Falchion (Fine, Balanced, Engraved)**
+  - **Damage**: Swing+2 cutting
+  - **Bonus**: Fine quality (+1 damage), high-value heirloom ($2,500).
+  - **Additional Effect**: Players may recognize its heraldry and craftsmanship, making it a valuable artifact.
+
+---
+
+### Combat Phases & Tactics:
+- **Phase 1: Unnatural Strength**
+  - Moves with eerie, unnatural speed despite bloated, waterlogged limbs.
+  - Shrugs off pain and continues attacking relentlessly.
+  - Speaks in broken, guttural whispers: *"You... should not... be here..."*
+  - Uses sweeping slashes with his falchion, attempting to wound multiple opponents.
+
+- **Phase 2: The Drowned’s Curse (Triggered at half HP):**
+  - Water floods the room, making footing treacherous (-1 penalty to DX-based rolls).
+  - Spectral hands and seaweed attempt to grapple players (ST 12 to resist).
+  - Dense fog and unnatural mist obscure vision (-2 penalty to perception-based checks).
+
+- **Phase 3: The Final Grapple:**
+  - As a last desperate act, Enzo attempts an all-out grapple attack (ST 15) to drag a player into the water.
+  - If successful, the player must make a contest of ST vs. 15 or begin drowning.
+
+---
+
+### Scaling Options (if the fight is too easy):
+- Brief regeneration when in contact with seawater (+2 HP per round if submerged).
+- Temporary DR increase (DR 3) for a short duration, representing supernatural resilience.
+- Fright check (-2 penalty) for first-time viewers of his horrific transformation.
+
+---
+
+### Upon Defeat:
+Falciere collapses motionless, allowing players to examine his remains.
+
+#### Clues left behind:
+- Stormcaller tattoos confirming cult involvement.
+- Ruined noble signet ring identifying him unmistakably.
+- Torn Varenzan silk, remnants of his former life.
+- His family falchion, now a valuable heirloom and potential reward.
+
+---
+
+## 4. Consequences & Aftermath
+### Returning the Falciere Family Sword (Optional Reward Scenario):
+If players return the sword to Vittoria Falciere:
+- She is deeply grateful but shaken by the truth.
+- The family commits to honoring Enzo’s financial obligations, securing expedition resources.
+- Players receive a personal cash reward ($500–$1,000, adjustable) before departure.
+
+#### Future Implications:
+The Falciere name may become a valuable connection in the future.
+
+---
+
+### The Stormcaller Cult Now Knows Them
+The players have stumbled onto something much larger than a simple disappearance.
+
+- Matteo’s warnings were true—*“the sea is watching.”*
+- Future encounters may see strange events, cultist spies, or whispered threats from unseen figures.
+- The crew remains uneasy, with some whispering about bad omens.
+
+---
+
+Returning Enzo’s heirloom sword to Vittoria secures funding for the expedition and earns the players a significant personal reward. However, the Stormcallers now know of them, setting the stage for future dangers.
+

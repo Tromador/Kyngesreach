@@ -221,3 +221,11 @@ Type of Change: Updated
 Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
 Description: Integrated missing and reconstructed content into *Vanishing of the Merchant Envoy*. This update fully restores the adventure's investigation structure, final encounter details, and key narrative elements related to Enzo Falciere and the Stormcallers' Cult.
 ---
+
+---
+Version: v3.8
+Date: 2025-03-16
+Type of Change: Updated
+Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
+Description: Fully corrected and manually verified adventure document. Includes all investigation details, NPC interactions, expanded combat mechanics, and reward elements as discussed.
+---
