@@ -229,3 +229,10 @@ Type of Change: Updated
 Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
 Description: Fully corrected and manually verified adventure document. Includes all investigation details, NPC interactions, expanded combat mechanics, and reward elements as discussed.
 ---
+
+---
+Version v3.9
+Date: 2025-03-19
+Type of Change: Additions
+Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
+Description: Fully fleshed out final location - sea temple where Enzo is found.

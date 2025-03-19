@@ -1,5 +1,5 @@
 
-Kyngesreach Project - Workflow Document
+Kyngesreach Project - Workflow Document For Github
 
 Overview:
 This document provides comprehensive guidelines for file management, naming conventions, versioning, and working practices for the Kyngesreach campaign project. Its purpose is to ensure clarity, consistency, and efficiency across all tasks and contributors.
