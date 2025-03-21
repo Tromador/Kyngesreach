@@ -63,6 +63,37 @@ He straightens, voice tightening.
 
 ## 1. Investigation Begins
 
+As the players begin to investigate, they may choose to speak to people on or around the docks—dockhands, barge crews, couriers, and ship crews. While no one can give them hard facts, **fragments of strange observations** and **superstitious warnings** begin to paint a picture.
+
+### 1.X Talking to Locals: Dockside Rumors & Whispers
+
+- **Old Harpooner:**  
+  > *"Storm off the cliffs last week. Sky was clear, sea wasn’t. Like it came up from under, not down from above."*
+
+- **Barge Crewwoman:**  
+  > *"There’s a spot near the western shoals where boats drift funny. Currents twist you around. Locals say that rock face eats sailors."*
+
+- **Drunken Deckhand:**  
+  > *(slurring)* *"Heard someone screaming near the drowned cliffs. Not wind. Screaming. Sounded like it came from the sea."*
+
+- **Courier Boy:**  
+  > *"I used to run papers for Mister Falciere. A few times he made me deliver bundles to the low docks before dawn. Said it had to be before the tide turned. Gave me a silver each time."*
+
+These aren’t confirmations—but they build an unease. Together, they suggest something strange happening off the coast—especially around **Scythe Point**.
+
+---
+
+### 1.X Subtle Clues Left Behind (Unknown to the Players, Planted by the Stormcallers)
+
+These clues appear to be remnants of Falciere’s descent into madness or involvement with a forgotten sea cult. In truth, they’re **deliberately left behind** to draw the curious.
+
+- **Salt-Sigil in the Warehouse:** A faint spiral design visible only when moisture from seawater pools across the crate surface. It resembles a stylized drowning glyph.
+- **Folded Tide Chart:** Found in Falciere’s desk—next week's lowest tide is circled in red. No annotations. Players may connect this with the coastline diagram.
+- **Fragment of Sea-Stained Parchment:** Hidden inside a book or drawer. Reads: *"You must see to understand. But not all who see return."*
+- **Unmarked Coin:** Found near the docks or embedded in a smashed crate. Warm to the touch. One side bears a stylized wave—no known mint. A red herring or a totem?
+
+These are presented without commentary, as passive artifacts. They appear like strange debris—unless a pattern is noticed.
+
 The players must decide where to begin their search. Although Godfrey
 has no great ideas, these should be obvious places, or in a pinch the
 locals will be able to suggest these to players if asked, perhaps around
@@ -70,6 +101,11 @@ the docks or in local taverns and such places.
 
 ### 1.1 Falciere's Office
 
+- Among the standard records and tide schedules in his desk drawer, the players find a **hand-drawn diagram** on folded parchment:
+  - It depicts a rough section of local **clifftop coastline**, with a **single arrow** pointing to a crescent-shaped notch.
+  - No text or symbols accompany it. It appears casual or incidental—until shown to someone familiar with the area.
+  - If presented to a local sailor or harbor pilot, they will recognize the spot:
+    > *"That there? That’s west of Scythe Point. Bad tide. Nasty currents. There’s a cave down there. No sane man rows into that bay unless he’s paid well—or cursed."*
 - Suspicious missing payment entry---suggests an off-the-books deal.
 - Unaccounted shipments in cargo manifests linked to Stormcaller agents.
 - Office contains encrypted correspondence (can be deciphered with
@@ -109,9 +145,64 @@ the docks or in local taverns and such places.
 - Dockworker Witness: Saw hooded figures dragging Falciere toward the
   docks but refuses to talk.
 
+
 #### Characters:
 
-**Matteo Caravelli: The Terrified Overseer**
+**Matteo Caravelli: The Terrified Overseer (Revised)**
+
+- **Appearance:** Early 40s, thinning hair, hollow cheeks, and darting eyes that never settle. Wears long sleeves even in the heat.
+
+- **Personality:** Anxious, evasive, visibly frightened. He flinches at loud noises and glances toward shadows as if expecting someone—or something.
+
+---
+
+**Behavior & Roleplay Prompts (Initial Encounter):**
+
+- If questioned about Enzo Falciere:
+  - Denies knowing anything: *"I just manage the books. I wasn't there."*
+  - If pressed: *"He left one night. Didn't say where. People come and go. I don’t ask questions."*
+
+- If the players grow aggressive:
+  - Matteo becomes increasingly agitated, pleading:
+    > *"You don’t understand. There are places you’re not meant to go. If he’s gone there, then you should walk away."*
+
+- If cornered or threatened, he relents just enough:
+  > *"They took him… toward the cliffs. Where the rocks meet the sea. Only at low tide. That’s all I know. I swear."*
+
+---
+
+**The Tattoo (Optional Clue):**
+- Matteo wears gloves or long sleeves. Players must **visibly notice** the tattoo (Perception or Insight-style check).
+- It’s a **subtle mark**, inked in deep blue—an abstract, wave-like spiral that **matches one found on Enzo’s body**.
+
+- If the players confront him about it:
+  - At first he tries to dismiss it: *"A sailor's mark. Meant nothing."*
+  - If pushed:
+    > *(quietly, voice cracking)* *"He had it too, didn’t he? Then you know. It’s not just ink. It means you’re seen. Marked."*
+    > *"They said it was reverence… but it's not. It’s a debt. One you pay with breath."*
+
+---
+
+**What He Will NOT Say:**
+- Refuses to name names or describe who "they" are.
+- Claims ignorance about what the tattoo means, even when clearly lying.
+- If players ask about the cave or temple directly, he shakes his head violently.
+
+---
+
+**Optional Follow-up Encounter (Post-Enzo):**
+If the players return after confronting Enzo Falciere:
+
+- Matteo is eerily calm. He does not run or resist questioning.
+- He gives only a slight smile and a whisper:
+  > *"So. You saw him."*
+  > *"Then you understand… we don’t leave marks on the world. We just vanish."*
+
+- Without further warning, Matteo draws a hidden sliver of metal from beneath his desk or belt.
+  - He slashes his own throat with swift precision.
+  - Instead of blood, **saltwater** pours from the wound, soaking the floor.
+  - His eyes roll back, and his body spasms once—then lies still.
+
 
 - **Appearance**: Early 40s, thinning hair, hollow cheeks, eyes darting
   constantly.
