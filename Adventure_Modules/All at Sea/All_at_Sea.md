@@ -276,3 +276,111 @@ The rumour spreads like smoke:
 - **Torrin’s flogging is now inevitable.**
 - The players may feel conflicted—he’s angry, and he’s wrong—but he’s also *not entirely unjustified*.
 - The crew’s fear gives way to something sharper: the **reminder that the ship runs on discipline**—and there are lines you do not cross.
+
+# Incident Three: "The Flogging at Eight Bells"
+
+### Scene Timing  
+**Day 3 – 1600 hours**  
+Eight Bells in the afternoon watch. The sun is low. The air is still. The sea is indifferent.
+
+---
+
+## Scene Objectives
+
+- Depict the ritual of naval punishment with authenticity and gravity.
+- Show the crew and officers operating within a strict, codified chain of command.
+- Reinforce that this ship, and this world, are built on discipline—not sentiment.
+- Let players witness, reflect, or internalise—but not intervene.
+- Provide a contrast point for later adventures: **this is what’s real**.
+
+---
+
+## BEAT 1: The Muster
+
+The order spreads from the quarterdeck in precise sequence.
+
+> **Drake (to Godfrey):**  
+> *“Crew mustered on deck, sir.”*
+
+> **Godfrey:**  
+> *“Very well. Bring forth the prisoner.”*
+
+> **Drake (to Meg):**  
+> *“Boatswain—bring forth the prisoner.”*
+
+> **Meg (toward the corridor):**  
+> *“Bring him out.”*
+
+**Only now does the drum begin to roll.**  
+A single marine taps out a slow, deliberate rhythm—measured and ceremonial.
+
+**Torrin** is marched out in irons between two marines. His shirt is still on. His head is held up, jaw set. No fight left—but no apology either.
+
+The **drumroll ceases** as he reaches the designated space by the rigging, directly beneath the eyes of the officers on the quarterdeck.
+
+---
+
+## BEAT 2: The Formal Sentence
+
+**First Lieutenant Hargrave** steps forward, a parchment scroll in hand.
+
+> **Hargrave (clearly, to the assembled crew):**  
+> *“Under the Articles of War, the following charges are read: theft from the ship’s stores; assault upon a superior officer; conduct prejudicial to good order.”*  
+> *“The sentence—carried by default at eight bells—is twelve lashes.”*
+
+She folds the scroll, pauses, then looks to Torrin.
+
+> **Hargrave:**  
+> *“Have you anything to say against the sentence?”*
+
+**Torrin responds (defiant):**
+
+> *“You drag me to sea against my will, feed me salt meat and slop, and whip me for taking the only thing that felt like mine.”*  
+> *“No ma’am. I’ve nothing to say you’d want to hear.”*
+
+Hargrave gives no reply.  
+A marine steps forward and **unlocks the irons**.
+
+> *“Remove your shirt.”*
+
+Torrin does so. Slowly. Deliberately. He exposes a back already faintly scarred by past discipline. He is tied to the rigging—arms wide, ankles braced.
+
+The cat-o’-nine-tails is passed wordlessly to **Boatswain Kincaid**.
+
+---
+
+## BEAT 3: The Flogging
+
+**Boatswain Margaret “Iron Meg” Kincaid** steps forward with the **cat-o’-nine-tails**. She checks the knots, then raises her arm.
+
+No words.
+
+> **CRACK.**  
+> **CRACK.**  
+> **CRACK.**
+
+After each lash, she **runs her fingers through the tails** to clear the blood.
+
+- At **six**, the skin splits wide.  
+- At **nine**, the bleeding is steady.  
+- At **twelve**, Torrin is barely upright—sweating, pale, and breathing hard.
+
+He does not scream.
+
+---
+
+## BEAT 4: Reactions
+
+**Catesby** is already standing by with cloth and vinegar. He begins treating the wounds the moment Torrin is untied.
+
+**The Crew**:
+- Most stare ahead, faces expressionless.  
+- Some watch grimly.  
+- One or two turn away.  
+- Someone mutters: *“He swung at Meg. Should’ve been the yardarm.”*
+
+**The Players**:
+- Are witnesses.  
+- May respond after the fact—talk to others, reflect quietly, or take no action.  
+- This is **a performance**
+
