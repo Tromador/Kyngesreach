@@ -384,3 +384,132 @@ He does not scream.
 - May respond after the fact—talk to others, reflect quietly, or take no action.  
 - This is **a performance**
 
+# Incident Four: "Going Off Half-Cock"
+
+### Scene Timing  
+**Day 4 – Morning**  
+The day after the flogging. The air is calm, the ship steady, and the crew quiet. A live-fire musket drill is underway on the main deck.
+
+---
+
+## Scene Objectives
+
+- Directly involve the players in the drill.
+- Contrast **Pembroke’s polished, hollow command** with **Mallory’s practical authority**.
+- Demonstrate how quickly control breaks when real danger emerges.
+- Reinforce the reality that even routine can maim or kill at sea.
+- Let players respond to a sudden accident, and form impressions of leadership dynamics aboard ship.
+
+---
+
+## BEAT 1: Arrival – The Officer in Command
+
+The players arrive on deck to find **Captain Edward Pembroke** pacing in front of a line of marines. His boots click smartly, uniform spotless, posture immaculate.
+
+**Sergeant Bridget Mallory** stands nearby, arms folded, watching the marines in silence.
+
+> **Pembroke (addressing the formation):**  
+> *“A musket’s only as good as the man behind it. We’re going to find out what you men are made of.”*  
+> *“Discipline and confidence—those are what hold a line, not powder and paper.”*
+
+He gestures toward a distant barrel set up as a target. With a flourish, he takes a musket from the rack, shoulders it with theatrical precision, and **fires dead-centre** into the target.
+
+A few of the marines give subdued nods of approval.  
+**Mallory rolls her eyes just enough for the line to see.**
+
+> **Pembroke (spotting the players):**  
+> *“Ah—just in time. Care to join us? Let’s see what sort of discipline our esteemed expeditioners bring to the line.”*
+
+---
+
+## BEAT 2: Player Participation
+
+The players are handed **pre-loaded muskets** and invited to take part in the drill.
+
+- Encourage roleplay: proud, reluctant, competitive, or bemused.
+- Players may attempt to outshoot Pembroke, or just fumble through.
+- Use **Guns (Musket), DX, or general performance rolls** to resolve shots.
+
+Mallory watches them closely—*not their aim, but their bearing*.
+
+> **Mallory (quiet, to herself or another marine):**  
+> *“Might not be a waste of powder after all.”*
+
+---
+
+## BEAT 3: The Misfire
+
+As the next volley is prepared, **a musket discharges early**.
+
+> *BOOM.*
+
+- One marine **drops to the deck**, crying out—grazed across the thigh.
+- The **shooter reels back**, cheek scorched, hand blackened from powder flash.
+- **Smoke erupts**, formation breaks, shouting begins.
+
+> **Pembroke (panicking):**  
+> *“Recover—recover arms! Cease—recover positions—”*
+
+His voice is lost in the confusion.
+
+---
+
+## BEAT 4: Mallory Takes Control
+
+**Mallory steps forward like a cannon blast.**
+
+> **Mallory (snapping):**  
+> *“Weapons down! Medic forward—*NOW!*”*  
+> *“Secure that powder box!”*  
+> *“You—*don’t* move until I say you do.”*
+
+If Pembroke attempts to speak:
+
+> **Mallory (without looking at him):**  
+> *“Sir, with respect—you’re in the way.”*
+
+She directs the response: the wounded marine is tended, the shooter disarmed, the gear checked.
+
+If a player steps in to help, she gives them orders as readily as she would any marine.
+
+> *“You—help him down. You—check that flint. Now.”*
+
+---
+
+## BEAT 5: Player Roles and Options
+
+Players may:
+- Help treat the wounded (First Aid, Medical)
+- Inspect the misfired musket (Craft, Seamanship, or Investigation)
+  - Discovery: worn half-cock notch, poor maintenance, or user error.
+- Assist with stabilising the line or calming shaken marines.
+- Speak with the shooter—burned, humiliated, silent.
+
+A successful roll or good RP may reveal:
+> *“He’s new. Not even supposed to be on this rotation.”*
+
+---
+
+## BEAT 6: Pembroke's Pathetic Wrap-Up
+
+After the chaos is under control and Mallory has backed off, Pembroke steps forward, attempting to reclaim command presence.
+
+He clears his throat. Straightens his cuffs. Tries to sound composed.
+
+> **Pembroke (gravely, to the line):**  
+> *“I’d like to think we’ve all grown from this. Even a touch of adversity can strengthen the line.”*  
+> *“To your duties. Dismissed.”*
+
+The words land with a thud. A marine glances at another. One suppresses a smirk.  
+Mallory says nothing. She just walks off down the line, boots striking like hammers.
+
+---
+
+## Closing Notes
+
+- The shooter will likely receive **extra duty**—latrine detail, powder storage cleaning, etc.
+- The wounded marine may recover fully with proper care.
+- Mallory’s authority is now unquestioned among the marines.
+- Pembroke's public image continues to fray.
+
+---
