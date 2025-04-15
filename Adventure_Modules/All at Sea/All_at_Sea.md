@@ -513,3 +513,89 @@ Mallory says nothing. She just walks off down the line, boots striking like hamm
 - Pembroke's public image continues to fray.
 
 ---
+# Incident Five: "The Greenhand’s Catch"
+
+### Scene Timing  
+**Day 4 – Early Evening**  
+A few hours after the musket drill incident. The sun is just beginning to lower. Watch rotation is changing. Dinner will be served soon—and the smell from the galley is not encouraging.
+
+---
+
+## Scene Objectives
+
+- End the “All at Sea” arc with a moment of competence and subtle morale recovery.
+- Let the players take part in a low-stakes but urgent moment of action.
+- Spotlight a junior crewman’s initiative, rewarded by proper command.
+- Reinforce the idea that not everything at sea is doom and punishment—sometimes, someone just does their job well, and it matters.
+
+---
+
+## BEAT 1: Heading Below – The Setup
+
+The players are moving toward the mess area or finishing up a task on deck.
+
+- The air is cooler.
+- The *Sojourner* is in a gentle roll—stable, but alive.
+- Somewhere forward, Cookie is banging a ladle on a pan, which echoes like doom.
+
+As the players pass the mainmast or forward rigging, they hear a sharp creak—followed by a sudden shout:
+
+> **Hollis (greenhand):**  
+> *“Watch it! Block’s swinging loose!”*
+
+---
+
+## BEAT 2: The Hazard – What’s Happening
+
+A heavy pulley block—part of a poorly secured line—has begun to swing freely across the deck. It’s low enough to hit someone across the head or shoulders, and it’s gaining momentum with the ship’s gentle sway.
+
+**Hollis**, a young deckhand barely out of training, has spotted it early.  
+He’s already grabbed the line—but he’s not strong enough to pull it in or secure it before it arcs again.
+
+> *“Someone—grab that line!”*
+
+---
+
+## BEAT 3: Player Response
+
+The players are right there. They can:
+- Grab the line alongside Hollis (ST or DX roll, optional for flavour)
+- Hook the swinging block with a boathook or rigging staff
+- Shove a crewman out of the way of the swing
+- Tie it off quickly with a Seamanship or Knot-tying skill
+- Or just act fast and smart—this is not a roll-to-survive scene, it’s a moment of instinct
+
+Within seconds, the danger is neutralised.  
+No one is hurt. The block is secured. The greenhand’s breathing hard but standing proud.
+
+---
+
+## BEAT 4: Hargrave’s Response
+
+**Hargrave arrives** just as the line goes taut and the block stops swinging.
+
+She takes in the scene with one glance—then looks at Hollis.
+
+> **Hargrave:**  
+> *“What’s your name, crewman?”*
+
+> **Hollis (still catching his breath):**  
+> *“Hollis, ma’am.”*
+
+> **Hargrave (with a firm nod):**  
+> *“Good eyes, Hollis. Carry on.”*
+
+She says nothing else. But the nod is real—and the few sailors watching take note.
+
+---
+
+## BEAT 5: Onward to Dinner
+
+The moment passes. Crew filter back to their routines. The players continue toward the mess.
+
+From the galley hatch, a visible waft of overboiled salt pork, hard biscuit, and cabbage water assaults the senses.
+
+> **One sailor mutters:**  
+> *“I’d take the swinging block over Cookie’s stew.”*
+
+End on a note of dry humour—or dread—as the players step toward the next threat the *Sojourner* has to offer: **dinner**.
