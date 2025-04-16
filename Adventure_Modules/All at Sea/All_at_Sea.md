@@ -1,3 +1,44 @@
+## Captain Elias Godfrey – Departure Briefing (All at Sea)
+
+**Setting:** Mid-deck, post-lunch, the day before departure.
+
+> **Godfrey (steady, no bluster, the kind of quiet that makes people shut up and listen):**  
+>  
+> “We sail on the early tide. No delays. No changes.  
+>  
+> Whatever you’ve forgotten—rope, powder, tools, boots, needles, spoons—whatever it is, this is your last chance.  
+>  
+> Verenza has merchants for everything, legal or not. You’ll not see another port like it for the rest of this voyage. What we carry from here, we live with. Or die with.  
+>  
+> After this, if something breaks, we fix it with spit and rope. If you lose something, you learn to do without.  
+>  
+> Don’t assume someone else brought the extra. They didn’t.  
+>  
+> And don’t assume you’ll get a second chance. The sea’s not generous. It doesn’t care what you meant to do. It only answers with weight and water and time, and not one of those is on your side.  
+>  
+> (He scans the crew—no drama, just contact.)  
+>  
+> I don’t care if you’ve sailed before. I don’t care where you came from. What matters is what happens after we lose sight of land.  
+>  
+> You drop a lashing, someone breaks an arm.  
+> You leave a locker open, someone goes overboard.  
+> You forget to check a line, someone dies.  
+>  
+> That’s not scaremongering. That’s arithmetic.  
+>  
+> I don’t expect you to like each other. I don’t expect songs at the mess table. I expect you to be steady. I expect you to learn.  
+>  
+> Because at sea, every job is everyone’s job.  
+> When the storm hits—and it will—you don’t get to decide who you stand beside.  
+> You get the people the ship gives you. That’s your crew.  
+>  
+> So if there’s something you need, get it now. If there’s something you don’t know, ask. If there’s something you can’t carry, find someone who can.  
+>  
+> You’ve got the rest of the day. Spend it wisely.  
+>  
+> That’s all.”
+
+
 # Incident One: "Learning the Ropes"
 
 ### Scene Timing
