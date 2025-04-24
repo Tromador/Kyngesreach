@@ -244,3 +244,13 @@ Date: 2025-03-21
 Type of Change: Additions
 Affected Files: [Adventure_Modules/Vanishing_of_the_Merchant_Envoy/Vanishing_of_the_Merchant_Envoy.txt]
 Description: Completed Merchant Envoy
+---
+Version: v4.0
+Date: 2025-04-24
+Type of Change: Added
+Affected Files: /Lore_and_Worldbuilding/Stormcallers_Tidecallers_Tidal_Lock.txt
+Description: Initial creation of lore document detailing the Tidal Lock as a supernatural containment mechanism used by the Tidecallers. Includes in-world behavioural effects, player impact, escape conditions, and integration with broader campaign mystery structure. Built to justify why the Sojourner—and all other ships—cannot leave the Reach without consequence.
+
+Adventure: All at Sea added
+---
+
