@@ -1,26 +1,19 @@
-# Adventure Module: The Lost Legacy of the Summer Bay
-
-## Overview
-
-This adventure begins as the **Sojourner** crosses into the **Kyngesreach**, triggering strange phenomena and setting the stage for the discovery of a long-lost ship and its descendants.
-
-The goal is to reveal:
-
-- The supernatural nature of the Kyngesreach and its **Tidal Lock**.
-- That ships cannot easily leave the Reach once entered.
-- That time and nature behave strangely within the archipelago.
-- That a primitive island tribe are descendants of a ship lost only a year ago—but for them, it's been 300 years.
-
-The adventure focuses on exploration, discovery, cultural interaction, and eventual revelation through investigation and diplomacy. Combat is possible but not required.
+# The Lost Legacy of the Summer Bay (Phase 1 Raw Collation)
 
 ---
 
-## Captain Godfrey’s Speech – Eve of Entering the Kyngesreach
+## Adventure Goals
 
-**Setting:** *Quarterdeck, after the evening meal. The crew gathers under a grey sky touched with flame at the horizon. The wind is steady. The sea, quiet—for now.*
+- Introduce the Tidal Lock via the Summer Bay’s fate.
+- Establish the Kyngesreach as a magically isolated space.
+- Introduce the concept of time dilation and other supernatural distortions.
+- Let the players discover a primitive tribe descended from a vanished ship.
+- Provide a compelling, exploration-forward session with potential combat, roleplay, and survival challenges.
 
-> **Godfrey (calm, grounded, the kind of voice that fills silence rather than fights it):**  
->
+---
+
+## Godfrey’s Speech – Crossing into the Kyngesreach
+
 > “Right. Listen sharp.  
 >
 > Tomorrow morning, we cross into the **Kyngesreach**. The charts will still call it that, but for most sailors, it’s only ever been a name on the edge of the map. Stories wrapped in fog. Warnings passed around over grog. Most never get close.  
@@ -47,174 +40,391 @@ The adventure focuses on exploration, discovery, cultural interaction, and event
 
 ## Crossing the Threshold
 
-At first light, the Sojourner crosses into the Kyngesreach. The sea remains calm, but something *shifts*. Stars shimmer oddly. The moment passes quietly—except for Biele.
+Biele’s prophetic episode marks their entry into the Reach.
 
-### Biele’s Episode
-
-> Biele sways. Her eyes roll back. Her voice goes distant, hollow:  
->
-> *"The sea holds its breath. Stars lie. No path leads back from here."*
-
-She collapses briefly, shaken and confused. Other officers recognise this as a strong omen—though none yet understand its meaning.
+> *“The sea holds its breath. Stars lie. No path leads back from here.”*
 
 ---
 
-## First Landfall: Jungle Island
+## First Landfall – Jungle Island
 
-Shortly after entering the Reach, the crew sights land. The nearest island is a **dense, humid jungle**, totally uncharted. Wreckage litters the beach—remains of a ship that looks ancient, broken, and half-consumed by the environment.
-
-### The Wreck
-
-- **Examination (Seamanship/Engineering):** The wreck appears **centuries old**, but its construction is modern—within the last 50 years.
-- No markings identify the vessel.
-- Fragments of ship structure and fittings can be recovered, but the wreck offers no immediate answers.
-- Footprints are visible in the sand—barefoot, light, and recent.
-
-Players may infer time distortion has occurred, but **cannot yet identify the ship**. That will come later, during the tribe phase.
+- Humid, oppressive, alive with unfamiliar sounds and smells.
+- Jungle climate despite nearby temperate waters (geographic weirdness).
+- Players find a shipwreck that appears **centuries old** but built in **modern style**.
+- No identifying marks. Crew can’t tell what ship it is yet.
+- Skill rolls (Seamanship, Carpentry) confirm mismatch between condition and age.
+- Beach shows tracks of humans and animals (wild pigs, tapirs).
 
 ---
 
-## Jungle Exploration – Full Detail (60–90 mins)
+## Island Exploration – Structured Stages
 
-### Environmental Features
+### Stage 1: First Impressions & Beach
 
-- Thick undergrowth, towering trees, vines hanging like curtains.
-- Humid air clings to the skin; clothes become soaked within minutes.
-- Jungle canopy filters daylight, creating shafts of gold-green gloom.
-- Constant background noise: birds, insects, distant calls.
-
-Players must navigate obstacles:
-- Use **Survival**, **Navigation**, or **Athletics** to move efficiently.
-- Cutting tools helpful; getting tangled or lost is possible.
-
-### Jungle Event Sequence (Before Tribe Encounter)
-
-#### 1. **Signs of Human Presence**
-- Carved totems or bone-fetishes with abstract maritime shapes.
-- A half-rotted sign or wooden shard marked with crude tribal symbols and one strange word: **“JAGULAR”**.
-
-#### 2. **Wild Boar Encounter**
-- One or more wild pigs burst from the brush.
-- Combat or hunting opportunity.
-- Pig may provide fresh meat (up to 100 man-meals).
-- Opens up possibility for smoking meat.
-
-#### 3. **Smoking Operation**
-- Cookie sets up jungle-side smoking pit.
-- Crew begins preserving meat using green wood frames.
-- Jungle Survival or Cooking checks required.
-
-#### 4. **Jagular Disruption (Non-Lethal Event)**
-- That night or next day, something knocks over a smoking frame.
-- A pig carcass goes missing.
-- Deep claw marks on a tree. A smell of musk and ash.
-- Nyxie hisses. Biele looks unsettled.
-- The word “Jagular” comes up again—players may misinterpret it as a tribal rank or deity.
-
-#### 5. **Jagular Observation**
-- Hours later, they spot it: a huge jungle cat watching from a distance.
-- It doesn’t attack. It waits. Then disappears silently.
-- Biele: *“That wasn’t a cat. That was... something older.”*
-
-#### Optional 6. **Jagular Second Strike (Combat)**
-- If they track it or linger in the jungle too long, it ambushes.
-- Drops from trees. Hits hard. Vanishes again.
-- If wounded or outmatched, it escapes—leaving the jungle *changed*.
+- Dense humidity, clinging air, unfamiliar floral scents.
+- Shipwreck remnants (porcelain, copper fittings, rusted iron).
+- Animal and humanoid tracks.
+- Entry point for jungle exploration.
 
 ---
 
-## The Jagular (Panthera botherensis)
+### Stage 2: Jungle Exploration & Immersion
 
-A magically-influenced apex predator warped by the Kyngesreach’s influence.
+- Narrow paths, roots, swampy ground.
+- Travel rolls (Survival, Acrobatics) to progress without fatigue or incident.
+- Oversized flowers, sticky vines, swampy pools buzzing with insects.
 
-**Key Traits:**
-- Bad Temper, Ambush Predator, Catfall, Mild Temporal Dislocation
-- “Oh Bother” Aura: Enemies must roll Will-2 or suffer a -1 penalty to defense for 1 round from sheer exasperation.
-- Claws: 1d+3 cut. Bite: 2d+1 imp. Leaping from elevation grants +2 to hit, +1d damage.
+**Optional Minor Encounters:**
+
+- Insect swarm: morale penalty or minor fatigue.
+- Monkey/bird observation: colourful, noisy, curious.
+- Tribal effigy (wood idol): players may misread it.
+- Quicksand hazard: teamwork rescue.
+
+**Signs of being watched:**
+
+- Foliage movement, faint footsteps.
+- Biele: *“We’re not alone.”*
+
+---
+
+### Stage 3: Pig Encounter & Food Logistics
+
+#### Pig Encounter
+
+- Wild boars in the jungle: encountered by accident or during hunt.
+- May charge if provoked or surprised.
+- Provides meat, introduces survival logistics.
+
+**GURPS Stats – Wild Pig:**
+
+- ST 13, DX 11, IQ 3, HT 13
+- HP 13, Move 7, DR 2
+- Tusks 1d+2 imp, Slam 2d-1 cr
+- Traits: Bad Temper, Berserk, Extra Fat
+- Skills: Brawling 12, Survival 11
+
+#### Meat Yield
+
+- Avg boar (100 kg live weight) yields ~60 kg usable meat.
+- Enough for ~120 full rations (0.5 kg each).
+- Feeds full Sojourner crew (~170) for half a day.
+- More pigs = morale boost + potential reserves.
+
+---
+
+#### Smoking & Preservation System
+
+Preservation is vital — no refrigeration.
+
+**Preservation Methods (ranked):**
+
+- **Smoking:** Most viable. Jungle wood available.
+  - Build frame (Carpentry), control fire (Cooking), rotate meat (Housekeeping).
+  - 1 pig takes 8–12 hours.
+  - Up to 2/day possible with effort.
+- **Salting:** If salt is available. May be limited.
+- **Sun-drying:** NOT viable in rainforest.
+- **Eat fresh:** Boost morale but nothing preserved.
+
+**Summary Table:**
+
+| Method    | Prep Time | Risk | Longevity | Supplies Needed |
+|-----------|-----------|------|-----------|------------------|
+| Smoking   | Moderate  | Low  | 5–10 days | Wood, work crew  |
+| Salting   | High      | Low  | Weeks     | Salt, barrels    |
+| Eat Fresh | None      | None | 0         | Fire, cook       |
+
+---
+
+**Narrative Flavour:**
+
+> *Cookie (grinning with cleaver in hand):*  
+> “You get me three more of these, and I’ll stop cooking biscuits like bricks.”
+
+> *Mallory (eyeing the jungle):*  
+> “You heard the man. Bag the pigs, smoke the meat. And don’t get eaten.”
+
+---
+
+**Marine Hunting Detail (Optional Side Quest)**
+
+- Squad of marines led by a player or NPC.
+- Roll Tracking, Survival, or Tactics.
+- **Success:** 1–3 pigs caught.
+- **Failure:** Injury, lost trail.
+- **Crit Failure:** Attacked by something worse (Jagular?).
+
+---
+---
+
+## Stage 4: Jagular Encounters
+
+### Early Signs
+
+- Word “Jagular” carved into driftwood, etched on a tree idol.
+- Players misinterpret it:
+  > “Maybe it’s their Sarji?”  
+  > “Clearly a dialect form of 'juggler'. Expect acrobatics.”
+
+- Later, Nyxie growls at the trees. Biele shivers.
+  > *"Something is following us."*
+
+---
+
+### First Jagular Incident – Disruption
+
+- Pig carcass disappears.
+- Smoking frame knocked over.
+- Deep gouges on a nearby tree.
+- No footprints. Smell of musk and wet ash.
+
+---
+
+### Optional Combat Encounter – Jagular Ambush
+
+- Surprise drop from above (ambush from tree).
+- Targets an isolated player or marine.
+- May retreat if injured.
+- Can return later—becomes an environmental threat.
+
+---
+
+### Jagular Stats – GURPS
+
+**Jagular (Panthera botherensis)**
+
+- ST 18, DX 13, IQ 4, HT 15  
+- HP 20, Per 15, Will 12, FP 15  
+- Move 10, Speed 7.0, DR 2  
+- SM 0
+
+**Traits:**  
+- Combat Reflexes, Enhanced Dodge 1  
+- Acute Hearing 3, Night Vision 6  
+- Mild Temporal Dislocation (acts unpredictably)  
+- Ambush Predator, Catfall, Bad Temper (12)  
+- “Oh Bother” Aura – Will-2 check or -1 to defense first round  
+- Magical Affinity – senses enchanted items
+
+**Attacks:**  
+- Claws: 1d+3 cut  
+- Bite: 2d+1 imp  
+- Drop From Above: +2 to hit, +1d damage on first strike
 
 **Behaviour:**
-- Territorial, malicious, unpredictable.
-- Steals food. Knocks things over. Haunts dreams.
-- The tribe refuses to name it aloud.
+- Watches from the trees.
+- Steals food. Spreads fear.
+- Tribal villagers fear it deeply.
 
-**Tribal Interpretation:**
+---
+
+### Tribal Interpretation
+
 > *“Jagular not tribe. Not animal. Not ghost. Forest’s anger, maybe.”*
 
 ---
 
-## Discovery of the Tribe (15–20 mins)
+## Stage 5: Discovery of the Tribe
 
-After surviving the jungle, the players reach a clearing:
+After surviving the jungle, players observe:
 
-- Large open area with **leaf-thatch huts**, **firepits**, and drying racks.
-- **The Summer Bay’s bell** hangs from a wooden frame in the centre.
-- Dozens of people—tan-skinned, tattooed with abstract wave and anchor motifs.
-
----
-
-## Extended Cultural Exchange & Roleplay (45–60 mins)
-
-### First Contact
-
-- Intercepted by **Maran**, led by a **Sarji**.
-- The tribe’s dialect contains corrupted naval terms.
-
-| Tribal Word | Meaning | Origin |
-|-------------|---------|--------|
-| Kaptar      | Chief   | Captain |
-| Fursmat     | Heir    | First Mate |
-| Surgan      | Healer  | Surgeon |
-| Sarji       | Warrior-leader | Sergeant |
-| Maran       | Warriors | Marines |
-
-### Player Engagement
-
-- Offer gifts (tools, rum, trinkets).
-- Provide aid or trade.
-- Participate in rituals or feasting.
+- Crude but orderly huts made from woven leaves and jungle vines.
+- Cooking fires, drying racks, small children playing.
+- In the centre: a **corroded bell** with faint inscription:  
+  > *“Summer Bay — Verenza Dockyards”*
 
 ---
 
-## Relics of the Summer Bay
+## Stage 6: First Contact with the Tribe
 
-- **Sextant**, **Officer’s sword**, **Medical gear**, **Ship’s bell**
-- **Captain’s Logbook** kept sacred by the **Surgan**
+**Intercepted by Maran warriors**, led by a **Sarji**.
 
-Log contains:
+They speak a **distorted dialect** derived from naval terms.
 
-> *“Stars wrong. Tide against us. Turning back—storm rising.”*  
-> *“No chance of escape. I’ve run her aground. We survive or we vanish here.”*
+> *“Kaptar wish speak. Follow Maran. No harm if no harm.”*
 
 ---
 
-## Revelation
+### Cultural Roles (Lexicon)
 
-Players realise the tribe are **descendants of the Summer Bay**, lost only a year ago… but for the island, **300 years have passed**.
+| Word      | Meaning         | Root Word     |
+|-----------|------------------|---------------|
+| Kaptar    | Chief            | Captain       |
+| Fursmat   | Heir             | First Mate    |
+| Surgan    | Healer           | Surgeon       |
+| Sarji     | War Leader       | Sergeant      |
+| Maran     | Warrior caste    | Marines       |
+
+---
+
+### Audience with the Kaptar, Surgan, and Fursmat
+
+**Dialogue Samples:**
+
+> **Kaptar:**  
+> “You sea-men. Like fathers’ fathers—come from water. Bring good fortune or bad?”
+
+> **Surgan (assessing them):**  
+> “Skin pale, eyes clear, blood strong. Not spirits. Good.”
+
+> **Fursmat (suspicious):**  
+> “Many seasons past. You come why now?”
+
+**Roleplay Mechanics:**
+- Cultural missteps risk being barred from the village.
+- Polite behaviour and respectful interest are rewarded.
+- Sharing stories builds trust.
+
+---
+
+## Stage 7: Cultural Exchange
+
+**Relics of the Summer Bay (viewed or offered):**
+
+- Captain’s sextant (symbol of power)
+- Officer’s blade (held by Sarji)
+- Medicine bottles (Surgan’s tools)
+- Glassware, copper tools, carved ornaments
+
+**The Logbook:**
+- Held sacred by the Surgan
+- Wrapped in waterproof leaves in a carved box
+- Only offered if deep trust is earned
+
+---
+
+### Example Logbook Entries
+
+> *“The stars are wrong. We corrected twice but the sea will not yield.”*  
+> *“Crew light-headed. Spirits low.”*  
+> *“Storm came out of nowhere. No wind, then death.”*  
+> *“We cannot breach the Reach. We run her aground to survive.”*
+
+---
+
+## Stage 8: The Decision
+
+**Players must convince the tribe to part with the logbook:**
+
+Options:
+- Offer tools, salt, mirrors, medical aid.
+- Appeal to ancestral honour.
+- Steal it (risky).
+- Fight for it (deadly, guerrilla response).
+
+---
+
+## Stage 9: Return and Revelation
+
+Players return to the *Sojourner* with the logbook.
 
 > **Godfrey:**  
-> *"Summer Bay? She vanished not a year past. No sign. Not until now."*
+> “Summer Bay? She vanished not a year ago. No sign. Not until now.”
+
+> **Later (reading):**  
+> “So now we know. We’re not explorers. We’re prisoners. Same as they were.”
+
+Biele is quiet. Nyxie sits on the bell, tail twitching.
+
+---
+---
+
+## GM Tools, Notes, and Timing Breakdown
 
 ---
 
-## Return to the Sojourner
+### GM Tips to Manage Pacing
 
-> **Godfrey:**  
-> *"So now we know. We’re not just explorers. We’re prisoners. Same as they were."*
+- Adjust encounter count and size based on session speed.
+- Use Nyxie’s behaviour, Biele’s senses, and Cookie’s mood as environmental “tells.”
+- Lean into the sensory texture of the jungle: smell, heat, sweat, noise.
+- Present tribe encounter as tense but fair — give players a sense they *can* win respect.
+
+---
+
+### Optional Future Hooks
+
+- The tribe becomes recurring NPCs — potential allies or rivals.
+- The Jagular could return on another island (or have offspring).
+- Other wrecks from the ship list may appear.
+- A second, more intact ship might be discovered — a potential escape vehicle?
+- Investigating the Stormcallers’ involvement in sending ships into the Reach.
+- Trying to leave the Reach and confronting the Tidal Lock directly (a future arc).
+
+---
+
+### Adventure Rewards
+
+| Type         | Description                                                                 |
+|--------------|------------------------------------------------------------------------------|
+| Knowledge    | Captain’s log: direct evidence of the Tidal Lock and time distortion        |
+| Relationships| Potential alliance with the tribe                                            |
+| Gear         | Sextant, tools, relics (if bartered or taken)                                |
+| Narrative    | The realisation that the Sojourner is now **trapped** in the Kyngesreach     |
 
 ---
 
 ## Timeline Estimate (Session Planning)
 
-| Stage | Content | Time |
-|-------|---------|------|
-| Speech & Setup | Godfrey’s Address | 10–15 mins |
-| Threshold Crossing | Biele’s Episode | 10 mins |
-| Landfall & Wreck | Beach, wreck, tracks | 15–20 mins |
-| Jungle Exploration | Wildlife, hazards, Jagular | 60–90 mins |
-| Tribe Encounter | Observation, first contact | 15–20 mins |
-| Cultural Exchange | Negotiation, stories, relics | 45–60 mins |
-| Discovery & Resolution | Logbook, Summer Bay link | 15–20 mins |
+| Scene                                | Est. Duration    |
+|-------------------------------------|------------------|
+| Godfrey’s Speech                    | 10–15 mins       |
+| Threshold Crossing & Biele’s Vision | 10–15 mins       |
+| Beach & Wreck                       | 15–20 mins       |
+| Jungle Exploration & Minor Events  | 20–30 mins       |
+| Pig Hunt & Smoking Operation       | 30–45 mins       |
+| Jagular Disruption + Combat        | 20–30 mins       |
+| Discovery of Tribe                 | 15–20 mins       |
+| First Contact & Social Challenge   | 20–30 mins       |
+| Cultural Exchange & Relics         | 30–45 mins       |
+| Negotiation / Theft / Combat       | 15–20 mins       |
+| Return to Ship & Revelation        | 10–15 mins       |
 
-Total Runtime: **3.5 to 4 hours**, with room for flex depending on player actions.
+**Total: ~4.5–5 hours**, depending on player pacing and how many scenes are included.
 
 ---
+
+## Appendix (Quick Tables)
+
+### Wild Pig Meat Yield (1 Pig)
+
+| Category       | Approx. Quantity | Notes                     |
+|----------------|------------------|---------------------------|
+| Usable Meat    | 55–60 kg         | After gutting and cleaning|
+| Full Rations   | ~120             | 0.5 kg per person         |
+| Smoking Output | 1–2 pigs/day     | With dedicated effort     |
+
+---
+
+### Smoking Method Viability
+
+| Method    | Prep Time | Risk | Longevity | Supplies Needed         |
+|-----------|-----------|------|-----------|--------------------------|
+| Smoking   | Moderate  | Low  | 5–10 days | Jungle wood, manpower    |
+| Salting   | High      | Low  | Weeks     | Salt stores, casks       |
+| Eat Fresh | None      | None | 0         | Just cook it and serve   |
+
+---
+
+### Jagular Key Stats Summary
+
+| Trait                        | Description                                      |
+|-----------------------------|--------------------------------------------------|
+| DR 2                        | Tough, semi-magical hide                         |
+| Mild Temporal Dislocation   | May act unexpectedly in initiative order         |
+| “Oh Bother” Aura            | Will-2 or -1 defense to nearby targets, round 1  |
+| Drop From Above             | +2 to hit, +1d damage if attacking from height   |
+| Magical Affinity            | Can detect magical or cursed objects             |
+| Behaviour                   | Territorial, vindictive, intelligent             |
+
+---
+
+# End of Phase 1: Complete Raw Collation
+
+This document includes every element discussed and developed for *The Lost Legacy of the Summer Bay*, assembled in narrative order and tagged for reference.
+
+**Next Step:**  
+Begin **Phase 2** – a clean editorial pass, preserving structure and fidelity but fixing duplication, formatting, and consistency.
+
+Ready when you are.
