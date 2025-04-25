@@ -336,6 +336,16 @@ It lowers its tusked head and paws the ground, clearly agitated and territorial.
 - The jungle remains dangerous — the players will stay on edge.
 - Future hunts may be made harder as the local wildlife grows more wary.
 
+**Cookie (if present or informed later):**
+
+> (rubbing hands together)
+> 
+> "You caught a live one? That’s meat! Give me half a day and a firepit, and I’ll make stew fit to chase off death itself."
+
+**Boatswain Iron Meg** (dryly, if players bring a carcass back):
+
+> "Let’s hope you’re better at skinning pigs than you are at climbing rigging."
+
 ---
 
 ## Smoking Operations: Practical Details
