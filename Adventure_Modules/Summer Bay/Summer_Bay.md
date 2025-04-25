@@ -253,7 +253,7 @@ The letters are rough, childlike, and half-obscured by mud and weathering.
 
 ---
 
-## Major Encounter 4: Wild Boar Encounter
+## Major Encounter 4: Wild Boar Encounter and Smoking Operations
 
 ### Setting
 
@@ -336,25 +336,132 @@ It lowers its tusked head and paws the ground, clearly agitated and territorial.
 - The jungle remains dangerous — the players will stay on edge.
 - Future hunts may be made harder as the local wildlife grows more wary.
 
-### Character Reactions
+---
 
-**Cookie (if present or informed later):**
+## Smoking Operations: Practical Details
 
-> (rubbing hands together)
+Following the butchering of the first boar, Cookie and a handful of crew immediately set about creating a rough smoking operation.
+
+**Construction Details:**
+
+- Frames built from green jungle wood — lashed together with salvaged rope and vines.
+- Two shallow pits dug and filled with slow-burning embers from foraged wood.
+- Frames strung above the fire to hold thin-sliced meat.
+- Canvas salvaged from old sails stretched overhead to protect against rain.
+
+> **GM Notes:**
+> - Survival (Jungle) and Carpentry rolls can assist with frame construction.
+> - Cooking or Housekeeping rolls help properly prepare meat for long smoking sessions.
+> - If players assist or lead, chance of success improves significantly.
+
+**Production Rate:**
+
+- 1 adult pig yields ~60 kg of usable meat.
+- Smoking rate: roughly 1 pig per 8–12 hours per pit.
+- Crew can reasonably operate 2 pits simultaneously with available manpower.
+
+> **GM Mechanics:**
+> - 2 pigs smoked per day = ~120 kg preserved (under good conditions).
+> - Enough for ~240 man-meals (with spoilage margins), lasting several days.
+
+**Environmental Challenges:**
+
+- Jungle humidity slows smoking and risks spoilage.
+- Weather checks may require emergency tarp coverage (Survival roll).
+- Predators (notably the Jagular) may be attracted by the smell.
+
+---
+
+## Marines' Boar-Hunting Expedition
+
+Recognising the opportunity to build up preserved food reserves, Captain Godfrey authorises a hunting operation:
+
+> **Captain Godfrey (dryly):**
 > 
-> "You caught a live one? That’s meat! Give me half a day and a firepit, and I’ll make stew fit to chase off death itself."
+> "One pig’s a meal. I want a week’s worth. Take a squad. Bring back meat, not excuses."
 
-**Boatswain Iron Meg** (dryly, if players bring a carcass back):
+> **Sergeant Bridget Mallory (gruffly, to her marines):**
+> 
+> "You heard the Captain. Track it. Kill it. Haul it. And don’t come back smelling like dinner."
 
-> "Let’s hope you’re better at skinning pigs than you are at climbing rigging."
+### Hunting Operation Mechanics
 
-### Scene End Conditions
+**Squad Composition:**
+
+- 6–8 marines led by an experienced sergeant.
+- Optional: Players may join or supervise.
+
+**Resolution Options:**
+
+- **Abstracted Roll**:
+  - Sergeant's Survival (Jungle) or Tracking check (primary).
+  - Bonuses if players aid or give sound advice.
+  - Penalties for weather, poor gear, or previous mistakes.
+
+- **Result Table:**
+  - **Critical Success**: Bag 3+ pigs and piglets, no injuries.
+  - **Success**: 1–2 pigs secured, minor fatigue.
+  - **Failure**: Prey spooked; no kills; minor injuries (scratches, falls).
+  - **Critical Failure**: Ambush by larger animal (Jagular, or furious alpha boar).
+
+- **If Players Want Full Encounter**:
+  - Run full jungle combat scene:
+    - Terrain: dense foliage, mud, low visibility.
+    - Wild pigs: aggressive, territorial, fast-moving.
+    - Hazards: quicksand patches, hornet nests, heavy rains.
+
+### Resulting Meat Stockpiles
+
+- Each adult boar caught = ~60 kg meat → 90–100 meals.
+- Smoking continues in two pits, feeding into Sojourner’s stores.
+
+If multiple pigs are caught:
+
+- Create a small meat reserve — enough to survive 5–7 days without relying solely on ship’s hardtack.
+
+---
+
+## Additional Scene Flavour and Roleplay
+
+**Cookie (rubbing his hands together gleefully):**
+
+> "You get me three more of these, and I’ll stop cooking biscuits like bricks. Maybe."
+
+**Boatswain Iron Meg (smirking at the marines hauling carcasses):**
+
+> "Look at that. A day's work, and not one of you lost an arm. Almost makes me proud."
+
+**First Lieutenant Hargrave (musing quietly):**
+
+> (to players)
+> 
+> "Strange, isn't it? That we’re fighting the land for meat while the sea waits to devour us again."
+
+**Nyxie**:
+
+- Prowls near the meat pits.
+- Chases away opportunistic crabs and scavengers.
+
+---
+
+## GM Notes on Further Complications
+
+> **Possible complications to deploy if needed:**
+> - Sudden jungle downpour — forcing emergency meat rescue (Survival + Speed-based tasks).
+> - Predators attracted by meat smell — surprise animal encounter.
+> - Tribal scouts observe the players — might see large hunting parties as a threat if misinterpreted.
+> - Food spoilage if smoking pits are mismanaged.
+
+---
+
+## Scene End Conditions
 
 - Players have fresh meat (and a morale opportunity).
 - Opened possibility for a meat-smoking operation on the beach or in jungle clearings.
+- Marines' hunting expeditions can continue if players order them.
 - Encourages longer jungle operations — and attracts new predators’ attention...
-
 - Next event: First Jagular Incident (Disruption at the Smoking Pit).
+
 
 ---
 
