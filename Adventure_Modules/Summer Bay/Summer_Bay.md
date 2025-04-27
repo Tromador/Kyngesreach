@@ -658,6 +658,14 @@ If the players have taken no special precautions:
 - A sharp crack of a branch giving way.
 - A blur of motion — and a massive shape drops from the trees.
 
+> *It lands with a bone-jarring thud, sending a shudder through the earth beneath your boots. The creature is huge — the size of a heavy cart-horse, but built low to the ground, a slab of muscle and malice wrapped in a coat of golden fur marred by black, rosette-shaped scars. Its paws are broad and heavy, each tipped with wickedly curved claws that leave gouges in the damp soil with every flex.*
+> 
+> *Its head lifts slowly, and you catch a glimpse of its eyes: molten gold slashed through with an eerie, flickering darkness, as if some inner storm clouds its gaze. The Jagular’s mouth opens slightly, revealing fangs like ivory daggers — and for a moment, impossibly, it seems to rumble something under its breath. Not a growl. Not a roar. Something closer to a harrumph of irritation, as though your presence is less a threat... and more a tremendous inconvenience.*
+> 
+> *The scent of wet fur, burnt rope, and something faintly peppery fills the clearing. Its tail lashes once, lazily, leaving a long scar in the mud — and then it crouches low, muscles rippling under its coat, preparing to spring again.*
+> 
+> *Whatever stories you once heard in your cradle — of beasts that fall from trees without warning, shouting 'Bother!' before the end — seem suddenly, brutally real.*
+
 **Target**:
 - Random PC or vulnerable crewmember.
 - The Jagular attempts a hit-and-run assault, not a full committed fight.
@@ -768,6 +776,14 @@ Signs of human habitation begin to appear:
 - Scraped bark on trees, marked intentionally.
 - Faint trails of smoke rising into the humid sky.
 
+- > *The trail winds onward, narrowing until it is little more than a scar in the undergrowth. Branches arch low overhead, forcing you to stoop, while vines and thorns tug at your sleeves and packs. The ground underfoot changes — the raw, tangled sprawl of the wild gives way to something subtly different. Roots are hacked short here, the densest brush pushed back into rough walls, as if by long and patient hands.*
+> 
+> *Carvings appear on the trees: simple spirals, wave-marks, and crude symbols of sun and star. Some are fresh, cut deep into the bark; others are old, greyed over with lichen. A fallen log shows signs of careful notching, as if it once served as a step or a bridge.*
+> 
+> *The air smells different too — a hint of woodsmoke carried through the damp, cloying mist, and underneath it, the faint sharp tang of bodies and cookfires and life.*
+> 
+> *Somewhere ahead, just at the edge of hearing, comes the faint slap of water and the muted clatter of stone against stone — the quiet signs of a people not far removed.*
+
 As they crest a slight ridge, the jungle abruptly ends.
 
 Before them: a broad clearing.
@@ -783,6 +799,14 @@ The heart of the village is marked by strange symbols and relics:
 Villagers move between the huts — lean, weathered figures dressed in plant fibers and decorated with beads, bones, and worn scraps of once-fine cloth.
 
 Their skin tones are diverse, their features a blend of many ancestries — the legacy of the *Summer Bay*'s lost crew.
+
+> *The village itself spreads loosely across the clearing, built of woven leaves, bent saplings, and timber frames blackened by age and weather. The huts are small, sturdy, and practical — raised slightly off the ground on crude pilings to avoid the worst of the jungle damp. Their roofs are heavy with layers of dried fronds, patched here and there with sailcloth so faded it blends into the foliage.*
+> 
+> *Between the huts, narrow beaten-earth paths crisscross the clearing, worn smooth by countless passing feet. At the center, a wide communal space is marked by a ring of stones, around which drift the lazy coils of smoke from banked cooking fires. A few figures move about their business — carrying bundles of firewood, tending to pots, weaving lengths of vine — but many more stand at the edges of the clearing, half-hidden in the shadows of huts, watching.*
+> 
+> *The air hums with the quiet murmur of voices, too low to catch distinct words. Bright scraps of cloth, bone charms, and shells gleam here and there among the huts, hinting at a culture that remembers the sea even in the heart of the jungle.*
+> 
+> *It is a place both familiar and alien: shaped by human hands, yet weathered by time, isolation, and the slow hunger of the island.*
 
 ### First Contact: Maran Scouts
 
