@@ -106,7 +106,11 @@ The *Sojourner* lies anchored offshore, her lines taut and her sails furled. The
 
 The beach is narrow, edged by snarled jungle growth — and there, half-swallowed by vines and sand, lies the shattered skeleton of a ship.
 
-> *The sand clutches wetly at your boots. Salt tangs the air — but there's another scent underneath: old wood, rust, and something else... the sickly sweetness of deep rot.*
+> *The island rises out of the mist like a sleeping giant cloaked in green. Dense jungle covers its slopes from shoreline to crest — an impenetrable mass of towering trees, tangled vines, and dark undergrowth. The canopy shimmers under the heavy, leaden sky, dotted with flashes of crimson and gold where unseen flowers bloom.*
+> 
+> *The shoreline itself is narrow — a ragged strip of dark, damp sand strewn with driftwood and framed by the hungry advance of jungle roots.*
+> 
+> *There, amid the detritus of the beach, lies a wrecked ship. Its broken frame juts from the sand like the bones of some vast, dead creature, the hull half-buried and the timbers rotted grey by years of sun and salt. Creepers and moss have already begun to devour the remains, twining through shattered ribs and splintered beams as if the island itself is claiming the wreck.*
 
 As the players land and secure the boats, their eyes are inevitably drawn to the wreck.
 
@@ -115,6 +119,10 @@ As the players land and secure the boats, their eyes are inevitably drawn to the
 #### Immediate Impressions
 - The wreck is ancient-looking: timbers collapsed into splinters, iron fittings reduced to flakes of rust.
 - But the design — the sweep of the hull, the framing of the spars — is modern, recognisable to any trained sailor.
+
+> *What remains of the ship is a sagging carcass of blackened timbers, the lines of its hull barely suggested beneath the weight of time. The ribs of the vessel arch skyward like bleached bones, twisted and splintered by countless seasons of storm and sun. Planks have buckled and split apart, warped into cruel angles by the relentless heat and salt. Sea vines and strangler roots have invaded every gap, binding the shattered wood to the sand as if to pull it under completely.*
+> 
+> *Here and there, rusted iron spikes and fittings jut from the wreckage like broken teeth, their original shapes lost beneath layers of crumbling corrosion. Fragments of rotted sailcloth dangle like tattered banners from what little remains of the masts, fluttering weakly whenever the humid air stirs. Pools of stagnant seawater, trapped in the warped hollows of the deck, reflect a grey, bruised sky.*
 
 > **Skill Rolls:**
 > - Seamanship, Carpentry, or Investigation (Per-based) checks.
@@ -181,6 +189,12 @@ After leaving the wreck behind, the players press into the jungle.
 
 The path is barely a path at all — just gaps between the massive roots of towering trees. Vines dangle from above like nooses. The air is a humid soup of rotting vegetation, wet earth, and the pungent smell of unseen blooms.
 
+> *The first steps into the jungle feel like wading into a wall of living breath. The air grows hotter still beneath the canopy, and the world narrows to a labyrinth of roots, tangled vines, and slick, mossy stones. Every footfall sinks slightly into damp, spongy soil. Ferns the size of men brush against shoulders and arms, shedding beads of moisture that soak through cloth and leather.*
+> 
+> *The trail — if it could even be called that — twists unpredictably, hemmed in by thickets of thorned undergrowth and low-hanging creepers that snag at clothing and weapons. Shadows pool thick between the trees. Above, the dense lattice of branches lets in only splintered shafts of grey light, giving the jungle an oppressive, half-lit gloom.*
+> 
+> *Every few steps, some unseen creature stirs the brush just out of sight — a flash of scaled skin, a glimpse of fur, the rustle of wings. The deeper the players push, the more the jungle seems to press against them, as if the island itself resents their passage.*
+
 The light dims almost immediately under the thick canopy.
 
 As they move further in, a persistent, crawling sense settles on them — a feeling of being watched.
@@ -219,6 +233,14 @@ Hanging from a low branch is a rough fetish figure:
   **"JAGULAR"**
 
 The letters are rough, childlike, and half-obscured by mud and weathering.
+
+> *The figure hangs from a low, twisted branch barely a few paces ahead, almost invisible among the tangled greenery. It is a crude construction: a bundle of knotted vines and bleached bones, lashed together with strands of coarse grass and strips of some dark, flaking leather.*
+> 
+> *The head — if it could be called that — is nothing more than a lump of driftwood, scarred by time and scored with crude cuts. Hanging from its arms and legs are tiny charms: feather scraps, brittle seashells, and what looks disturbingly like a fragment of human hair, braided and blackened by age.*
+> 
+> *The entire fetish sways slowly despite the dead stillness of the air, its motion subtle but deeply unsettling. The word "JAGULAR," hacked into the wood with jagged, clumsy strokes, peers out from beneath a thin crust of mud and moss, as if half-swallowed by the jungle itself.*
+> 
+> *The jungle around it seems to lean closer, the mist thickening, the sounds of insects fading to a restless hush.*
 
 > **GM Notes:**
 > - Players may roll Linguistics, Anthropology, or Occultism to assess the idol.
@@ -270,6 +292,14 @@ Suddenly, a sharp rustling erupts from the undergrowth ahead.
 A moment later, a wild boar — squat, muscular, and glistening with sweat and mud — bursts into view.
 
 It lowers its tusked head and paws the ground, clearly agitated and territorial.
+
+> *The boar lowers its broad, mud-caked head, small black eyes glinting with a mixture of stubborn rage and animal wariness. Foam flecks its tusked jaws as it paws at the ground, sending sprays of damp earth into the steaming air. Its thick hide is scored with scars and matted with mud — a creature built for stubborn, vicious survival.*
+> 
+> *It lets out a harsh grunt, muscles bunching under its hide as it dares the intruders to come closer.*
+> 
+> *Among the players and crew, there's a sudden sharpening of attention. Not from desperation — the ship’s stores remain strong — but from the sudden, mouth-watering thought of fresh meat sizzling over a fire. A chance to taste something better than dry biscuit and salted stew, a chance to give Cookie’s 'culinary experiments' a wide berth for a night.*
+> 
+> *The boar shifts again, heavy and low to the ground, tension rising like a drawn bowstring. Whether by spear or snare, fortune favours those bold enough to seize opportunity when it thunders through the jungle.*
 
 ### Encounter Setup
 
@@ -548,6 +578,14 @@ Pinned under an overturned barrel:
   **"Jagular"**
 
 Same word as on the earlier idol.
+
+> *The smoking pit lies in shambles. One of the greenwood frames has collapsed entirely, its poles splintered and blackened where the fire caught them. Half-cured strips of meat are scattered across the ground, trampled into the mud or snatched by scavengers already gathering at the edges of the clearing.*
+> 
+> *Ash and soot swirl lazily through the humid air, carrying the bitter tang of burnt wood and ruined meat. The remaining frames creak under their own weight, barely upright, as if the camp itself had been caught in a sudden, violent squall.*
+> 
+> *Amid the wreckage, pinned half-buried beneath a toppled barrel, lies a splintered wooden plate — scorched around the edges, its surface smeared with ash and dirt. The word "JAGULAR," rough-cut and still legible through the char, stares out from the ruin like an accusation.*
+> 
+> *Beyond the clearing, the jungle leans in closer, silent and watchful.*
 
 ### Player Misinterpretation
 
