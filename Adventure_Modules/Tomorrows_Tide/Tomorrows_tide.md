@@ -3,8 +3,6 @@
 ## Adventure Overview
 The players circumnavigate the mysterious jungle island, mapping its coastline. They encounter legendary explorer Captain Sir Lucien Harrow, stranded from his perspective only recently—though he vanished over 250 years ago. Investigating a Stormcaller ritual site guarded by hostile Drowned warriors reveals valuable clues about the mysterious Stormcaller cult. Meanwhile, the formerly hostile Jagulars unexpectedly intervene to assist the players.
 
----
-
 ## Adventure Introduction
 
 **Opening Scene: Quarterdeck, the morning of the island circumnavigation**
@@ -32,8 +30,6 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 > We’re not lost. Not yet. And I don’t plan on learning how to be.
 > 
 > Let’s get to it.”
-
----
 
 ## Adventure Scenes
 
@@ -74,17 +70,32 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 - Biele detects residual Stormcaller weather magic.
 - Skill rolls (Occultism, Thaumatology, Weather Magic) reveal obfuscation spells preventing accurate navigation.
 
-### Scene 6: Ambush of the Drowned
-**Ambush triggers:**
-- Drowned warriors emerge silently from rocky gullies below the cliffs.
-- Players fight with Jagular tension unresolved.
+### Scene 6: Ambush of the Drowned (with revised Jagular notes)
 
-**GM Guidance for Jagular Allies:**
-1. Describe Jagulars as unseen: growls, rustling bushes, flickers of movement.
-2. Players ready weapons, never getting a clear shot.
-3. Trigger Drowned ambush at peak tension.
-4. Jagulars burst from cover mid-fight: terrifying, powerful feline charge.
-5. Jagulars leap past players to attack Drowned only, never harming players.
+**GM Running Guidance: Handling Jagular Allies (Revised Final)**
+
+Step 1: Jagular Presence Without Visibility
+- First describe low growls, rustling bushes, and glimpses of fur in the dense undergrowth. No clear line of fire. Players feel stalked but never see the full shape.
+
+Step 2: Players’ Readiness as Part of the Drama
+- Players likely ready weapons, nervously trying to sight targets. Let this tension sit for a beat or two, then escalate.
+
+Step 3: Immediate Transition to Drowned Ambush
+- At peak player frustration, trigger the ambush from the Drowned emerging from a different direction. Players must immediately divert attention and fight for survival.
+
+Step 4: Jagular Intervention – Ambiguous Entry
+- Mid-combat, thick brush explodes as the Jagulars finally reveal themselves.
+- Describe a terrifying charge: powerful feline shapes, teeth and claws bared, leaping directly toward the melee. Players should believe the worst has happened.
+
+Step 5: Dice Reveal the Truth
+- As the first Jagular hits, narrate it bypassing or ignoring players completely to violently tackle the nearest Drowned.
+- All Jagulars fight Drowned exclusively. They will even body-block between the players and their foes.
+- Players will quickly understand the Jagulars are aiding them, not attacking.
+
+Combat Notes:
+- Slippery footing and dangerous cliff edges remain.
+- Apply standard Drowned warrior and Jagular stat blocks.
+- Maintain high narrative intensity throughout.
 
 **Combat Details:**
 - Slippery footing, cliff edges (fall risk), strong winds (DX -1 to ranged).
@@ -110,8 +121,6 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 - Harrow joins the crew, welcomed cautiously by Godfrey.
 - Players left to wonder if they have also shifted in time.
 
----
-
 ## Rewards & Outcomes
 - Players have mapped the island.
 - Biele gains deep insight into the cause of navigation confusion.
@@ -122,8 +131,6 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
   - Concrete proof of Stormcaller existence.
   - Biele’s validation and ongoing challenge.
   - Campaign intrigue: Harrow’s history, Drowned attack, Jagular mystery.
-
----
 
 ## Optional Details
 
@@ -143,8 +150,6 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 
 ### Additional Player Clues
 - Saltwatch symbols match Drowned tattoos and earlier "Jagular" idol.
-
----
 
 ## GM Tips & Notes
 - Don’t allow early Jagular combat: keep them elusive.
