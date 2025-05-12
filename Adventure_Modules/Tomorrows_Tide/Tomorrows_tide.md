@@ -1,4 +1,3 @@
-
 # Tomorrow’s Tide - Kyngesreach Campaign Adventure Module
 
 ## Adventure Overview
@@ -43,7 +42,112 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 - Skill checks (Navigation, Astronomy, IQ-based rolls) are required.
 - Highlight Biele’s specialist cartography skills and weather-magic sensitivity.
 
-... (REMAINDER OMITTED HERE FOR BREVITY)
+### Scene 2: Smoke Signal
+- Players spot controlled smoke signals along a remote beach.
+- A neat survival camp reveals recent habitation by a skilled mariner.
 
-# This is just a partial snippet for the demo. Full document will continue.
+### Scene 3: Meeting Sir Lucien Harrow
+- Encounter Captain Sir Lucien Harrow, legendary explorer.
+- Harrow vanished 250 years ago but believes himself recently stranded. Players realise the inverted temporal paradox.
+- Harrow is intrigued and puzzled by the players' "modern" equipment (especially firearms).
 
+### Scene 4: Jagular Ambiguity
+- Jagular pack stalks the players covertly, growling and rustling foliage without clear sightlines for ranged attacks.
+- Players remain wary and ready for combat, frustrated by elusive targets.
+
+### Scene 5: The Saltwatch Circle
+**Location:** Windswept clifftop overlooking the open sea—exposed, lonely, atmospheric.
+
+**Description:**
+- Ring of rough-carved standing stones, mossy and salt-streaked.
+- Symbols etched deeply: wave patterns, swirling stars, abstract storms and tides.
+- Raised central stone dais with intricate motifs.
+- Broken maritime offerings: ancient rope, driftwood, coral, sea-polished shells.
+
+**Sensory Details:**
+- Strong, briny winds whistle and moan.
+- Salt spray stings eyes and skin; air tastes of the ocean.
+- Echoes of crashing waves below add isolation and reverence.
+
+**Purpose:**
+- Ritual site related to weather, tides, navigation.
+- Biele detects residual Stormcaller weather magic.
+- Skill rolls (Occultism, Thaumatology, Weather Magic) reveal obfuscation spells preventing accurate navigation.
+
+### Scene 6: Ambush of the Drowned
+**Ambush triggers:**
+- Drowned warriors emerge silently from rocky gullies below the cliffs.
+- Players fight with Jagular tension unresolved.
+
+**GM Guidance for Jagular Allies:**
+1. Describe Jagulars as unseen: growls, rustling bushes, flickers of movement.
+2. Players ready weapons, never getting a clear shot.
+3. Trigger Drowned ambush at peak tension.
+4. Jagulars burst from cover mid-fight: terrifying, powerful feline charge.
+5. Jagulars leap past players to attack Drowned only, never harming players.
+
+**Combat Details:**
+- Slippery footing, cliff edges (fall risk), strong winds (DX -1 to ranged).
+- Drowned Stat Block:
+  - ST 12 DX 11 IQ 9 HT 12, HP 14 FP 12, DR 1+2 (natural/leather)
+  - Rusted Cutlass (1d+2 cutting), Grapple, Doesn’t Breathe, High Pain Threshold.
+- Jagular Stat Block:
+  - ST 15 DX 14 IQ 4 HT 13, HP 17, DR 1
+  - Claw (1d+2 cutting), Bite (1d+1 impaling), Enhanced Move, Night Vision, "Oh Bother" aura (Will-2 or -1 defence first round).
+
+### Scene 7: Post-Combat Investigation
+- Players find matching Stormcaller symbols on Drowned tattoos and Saltwatch stones.
+- Biele detects deliberate interference woven into the site’s magic.
+- First concrete evidence of Stormcaller activity.
+
+### Scene 8: Harrow’s Historical Insight
+- Harrow recognises the symbols, visibly unsettled.
+- Recounts legends of sea-mages called "Saltwatches" who aided lost mariners.
+- Suggests internal corruption or schism within the Stormcallers.
+
+### Scene 9: Departure and Reflection
+- Players complete coastal mapping and return to the *Sojourner*.
+- Harrow joins the crew, welcomed cautiously by Godfrey.
+- Players left to wonder if they have also shifted in time.
+
+---
+
+## Rewards & Outcomes
+- Players have mapped the island.
+- Biele gains deep insight into the cause of navigation confusion.
+- Players confirm the Stormcaller cult exists and is active.
+- The Jagular hostility reversal enriches future interaction.
+- Harrow becomes a major recurring NPC.
+- Adventure ends with:
+  - Concrete proof of Stormcaller existence.
+  - Biele’s validation and ongoing challenge.
+  - Campaign intrigue: Harrow’s history, Drowned attack, Jagular mystery.
+
+---
+
+## Optional Details
+
+### Harrow’s Equipment
+- Antique naval sextant, outdated maps.
+- Carved matchlock pistol (ceremonial).
+- Personal journal with historic notations.
+
+### Environmental Hazards (Saltwatch)
+- Severe wind gusts (DX or lose small items).
+- Slippery footing, risk of falling.
+
+### Roleplaying Opportunities
+- Harrow reacts to modern gear with fascination.
+- Godfrey expresses concern over paradox risk.
+- Players may speculate about the Jagular behaviour.
+
+### Additional Player Clues
+- Saltwatch symbols match Drowned tattoos and earlier "Jagular" idol.
+
+---
+
+## GM Tips & Notes
+- Don’t allow early Jagular combat: keep them elusive.
+- Time Drowned attack for maximum tension.
+- Reveal Jagulars as allies during combat via exclusive focus on Drowned.
+- Reinforce sense of Stormcaller interference but leave many unanswered mysteries.
