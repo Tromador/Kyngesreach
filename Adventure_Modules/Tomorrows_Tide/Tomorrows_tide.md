@@ -33,6 +33,88 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 
 ## Adventure Scenes
 
+## Scene 2: Return to the Summer Bay Village
+
+### Scene Purpose
+The players previously expressed intent (AAR) to revisit the descendants of the *Summer Bay* crew to ask about the island before beginning their circumnavigation.  
+This scene occurs **immediately after Godfrey’s briefing** and before the coastal survey expedition.
+
+---
+
+### Setting: The Jungle Trail to the Village
+
+The players depart from the *Sojourner’s* beach camp.  
+The humid jungle seems thicker than before. Mist hangs in heavy curtains. The chirr of insects fills the oppressive silence.  
+Crew members accompanying the party clear the worst of the undergrowth with machetes.
+
+> *The ground softens underfoot as they reach familiar territory. Dripping leaves brush damp trails across clothing. Somewhere nearby, something unseen crashes noisily through the undergrowth—then falls silent again.*
+
+No encounters unless the GM chooses to insert them.
+
+---
+
+### Arrival at the Village
+
+The clearing opens before them; simple raised huts, smoke from cookfires twisting in the still air, faded scraps of cloth fluttering weakly from ropes.  
+The villagers are already watching, standing silent, cautious but not hostile.  
+Children whisper and point from behind shelters. The adults wait for the players to speak first.
+
+---
+
+### Roleplay Interaction: Key NPC Dialogue
+
+#### Kaptar (village chief)
+> *“You return again. The sea has not taken you. Why do you seek us now?”*
+
+#### Surgan (elder woman, healer)
+> *“You wish to map the island? Brave. Or foolish. The land here does not stay where it belongs.”*  
+> *“The Saltwatch once held the shores fast. They are gone. The stones remain. The winds whisper there still.”*
+
+#### Fursmat (young warrior)
+Says nothing at first; stands at the rear with wary eyes on the group.
+
+---
+
+### Player Enquiries
+
+The villagers offer warnings, not guidance:
+- “The island moves.”
+- “Shorelines vanish.”
+- “Reefs appear where none were.”
+- “Currents run backwards under the full moon.”
+- “The jagulars watch. They are not to be disturbed.”
+
+If players ask about the “Saltwatch”:
+> *“A place of standing stones. On the far side of the island. We do not go there.”*
+
+(This is a foreshadow for **Scene 7: The Saltwatch Circle**.)
+
+---
+
+### Optional RP Outcome
+
+As a sign of respect, the Kaptar presents the players with a small carved driftwood token:
+- Shaped like a stylised wheel or compass rose.  
+- Purely narrative; no mechanical bonus.
+
+> *“Carry this. It remembers those who came before. Memory sometimes guides better than stars.”*
+
+Players may attach it to the *Sojourner*’s wheel or keep it as a personal keepsake.
+
+---
+
+### Scene End & Transition
+
+The players return to the *Sojourner* beach camp at any time.  
+The crew makes final preparations for coastal mapping.  
+This leads directly to **Scene 3: Charting the Coastline**.
+
+> *As they step from the oppressive heat of the jungle back to the sea breeze, Nyxie pads out from under a boat and stares at them expectantly.*
+
+---
+
+**[End of Scene 2: Return to the Summer Bay Village]**
+
 ### Scene 3: Charting the Coastline
 
 ### Scene Purpose
