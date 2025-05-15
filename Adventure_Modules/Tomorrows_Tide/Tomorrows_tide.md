@@ -1042,3 +1042,103 @@ Transition to **Scene 10: Return to the Sojourner & Adventure Wrap-up**.
 ---
 
 **[End of Scene 9: Post-Combat Investigation & Harrow Recognition]**
+
+## Scene 10: Return to the Sojourner & Adventure Wrap-up
+
+### Scene Purpose
+The players return from the Saltwatch Circle to the relative safety of the *Sojourner*.  
+This is a quiet, reflective closing scene.  
+The players have survived—but nothing feels resolved.  
+This is the true “end of first act” moment for the campaign.
+
+---
+
+### Setting: The Descent from the Cliffs
+
+The players pick their way back down the ridge in heavy, wet silence.  
+The jungle heat returns full force, clinging and oppressive.  
+Boots squelch in the mud.  
+The sounds of birds and insects slowly creep back into the still air.  
+There is no sign of the Jagulars.
+
+> **Narration:**
+> 
+> The jungle swallows the cliffs behind you.  
+> 
+> The island gives no farewell.  
+> 
+> Only the ceaseless thrum of unseen creatures in the brush, the buzzing of insects, and the wet slap of boots in the mud remain.
+
+---
+
+### Arrival at the *Sojourner*
+
+The familiar shape of the *Sojourner* waits anchored off the beach, crew anxiously scanning the treeline.  
+A boat is dispatched immediately when the party appears.
+
+On deck:
+- Captain Godfrey meets them in person.  
+- Harrow steps aboard slowly, eyeing the modern fittings and weaponry with quiet fascination.  
+- Godfrey greets Harrow stiffly but politely.
+
+> Godfrey (curt nod):  
+> “Captain Sir Lucien Harrow. I know your name. It’s in every lost ship registry going back two centuries.”  
+> 
+> (Pauses, glances at the crew)  
+> 
+> “We’ll sort out what that means later. For now, welcome aboard.”
+
+Harrow simply inclines his head:
+> “Gratefully accepted.”
+
+---
+
+### Player Dialogue Opportunity
+
+Allow players to report what they found:  
+- Describe the Drowned.  
+- Mention the stone site and Biele’s magic reading.  
+- Share Harrow’s recognition of the symbols (optional).  
+- Express growing unease about what else might be out there.
+
+Godfrey listens grimly:
+> “I’ve no taste for ghosts or cults. But we came here for answers, and I don’t intend to leave without them.”
+
+Godfrey then nods to Biele:
+> “Whatever curse this place held, your charts defied it. That’s our way forward.”  
+> 
+> He turns to the crew:  
+> “Mark it well. We sail at first light.”
+
+---
+
+### Closing Mood
+
+As the players settle back into ship routines:
+> The sun sets hard and fast over the jungle skyline.  
+> 
+> Long shadows creep out across the still water.  
+> 
+> The island waits, silent and unreadable, as the night closes in once more.
+
+The adventure ends here.
+
+The players have achieved:
+- Survival  
+- A rough coastal map (still unreliable)  
+- Their first real clue to the Stormcaller Cult  
+- A major NPC ally in Harrow  
+- More questions than answers
+
+---
+
+### GM Notes: Optional Hook
+
+If desired, as a final tag:
+> That night, Biele dreams of wave patterns and storm symbols shifting impossibly across maps she cannot read.  
+> The compass by her bunk spins slowly in the dark.  
+> Fade to black.
+
+---
+
+**[End of Scene 10: Return to the Sojourner & Adventure Wrap-up]**
