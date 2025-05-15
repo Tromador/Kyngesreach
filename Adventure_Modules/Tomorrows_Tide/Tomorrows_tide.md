@@ -467,6 +467,121 @@ This scene ends with:
 
 **[End of Scene 4: Smoke Signal]**
 
+---
+
+## Scene 5: Meeting Captain Sir Lucien Harrow
+
+### Scene Purpose
+The players finally encounter the mysterious survivor.  
+This scene introduces Harrow as a major recurring NPC and reveals the temporal paradox that deepens the central mystery of *Tomorrow’s Tide* and Kyngesreach itself.
+
+This scene occurs after Scene 4 (Harrow’s camp).
+
+---
+
+### Setting: Inland Jungle Edge
+
+Following the clear track from the wreckage and campsite, the players push into tangled, humid jungle.  
+The undergrowth is thick, twisted vines and broad fronds pressing close. The path climbs slowly uphill.  
+The oppressive stillness from the Dead Calm lingers slightly in the air.
+
+> The trail leads through damp loam and under arching roots. It feels oddly deliberate—as though someone made no attempt to hide their passing, yet somehow you still feel watched.
+
+---
+
+### Narration Box: First Sight of Harrow
+
+> The jungle track opens abruptly onto a narrow rise.  
+> 
+> A figure stands alone at the treeline, framed by the tangled green and looming against the flat grey sky. Tall, straight-backed, immaculately composed, he holds the stance of a man long accustomed to command and even longer accustomed to waiting.
+> 
+> His coat is deep navy, cut in an antique style not worn in generations, with worn gilded trim catching what little light filters through the canopy. His boots are polished but scarred. A sabre hilt rests casually at his side. The wide-brimmed hat tucked under one arm seems both ceremonial and practical.
+> 
+> Most striking of all, he holds a firearm trained unerringly upon you. It is unmistakably a matchlock—an archaic and ponderous design by modern standards—but this one is a masterpiece: flawlessly maintained, gleaming wood and metal, the brass inlays and hand-carved stock far finer than any battlefield weapon.
+> 
+> His voice cuts across the clearing, calm and sharp as the crack of canvas in a rising wind.  
+> 
+> *“You will kindly stop where you are. Identify yourselves.”*
+
+---
+
+### Encounter Setup
+
+The man’s bearing is unshakably calm, voice clipped and precise.  
+There is no panic. No desperation. Just cold naval discipline.
+
+This is **Captain Sir Lucien Harrow**.
+
+---
+
+### Harrow’s Initial Dialogue
+
+Sample options (adjust as needed for player behaviour):
+- *“You are neither my crew… nor the relief party I expected. Explain yourselves.”*  
+- *“This is not a safe place for wandering civilians. State your allegiance or stand aside.”*  
+- *“You are not from the *Vigilant*. Then where in the Reach did you come from?”*
+
+---
+
+### Player Reactions & Paradox Realisation
+
+Allow free roleplay. Players will likely:
+- Introduce themselves  
+- Ask about him  
+- Realise his ship and uniform are impossibly old  
+- Mention the *Sojourner* or their mapping expedition
+
+Harrow introduces himself matter-of-factly:
+> *“Captain Sir Lucien Harrow, Royal Explorer. My vessel, the *Hope’s Edge*, ran aground two days past. I have been awaiting rescue from the *HMS Vigilant*. You are not them.”*
+
+At this moment, players **should instantly grasp the paradox**:
+- Harrow is the same legendary explorer recorded as lost **250 years ago**.  
+- His calm certainty that help would arrive from a ship long vanished into history drives home the inversion.
+
+Encourage a quiet player reaction beat:
+- Players may exchange looks.  
+- Godfrey (if present) may quietly mutter: *“Oh hell...”*
+
+Do not over-explain. Let them connect the dots.
+
+---
+
+### Harrow’s Reaction to Players
+
+Once the tension eases, Harrow lowers the pistol.
+He shifts from wary officer to pragmatic survivor:
+> *“I see. So things are stranger than even I had feared. You appear genuine. I will trust that—for now.”*
+
+If players mention modern gear:
+- Harrow notices the flintlocks or fabrics.
+- *“That’s… remarkably fine work. Curious indeed. We shall speak more of this later.”*
+
+---
+
+### Optional Additional Details
+
+- Harrow shows no signs of madness or breakdown.  
+- He asks sharply intelligent questions about tides, currents, star patterns (none of which match his expectations).  
+- Players can ask about *Hope’s Edge* wreckage → Harrow calmly explains he stripped the remains for survival.  
+- Harrow is too professional to speculate wildly about the time paradox. He focuses on immediate practicalities: survival, navigation, finding safe passage.
+
+> *“Whatever… this is… we will face it as seamen. As we always have.”*
+
+---
+
+### Scene Conclusion
+
+Harrow agrees to accompany the party back toward the shore:
+> *“It seems fate has delivered me new companions. I will not waste the opportunity. Lead on.”*
+
+The players have gained a new companion and a walking enigma:
+> *“Captain Sir Lucien Harrow, Royal Explorer (Deceased).”*
+
+Transition directly to next encounter (Jagular stalking scene).
+
+---
+
+**[End of Scene 5: Meeting Captain Sir Lucien Harrow]**
 ### Scene 4: Jagular Ambiguity
 - Jagular pack stalks the players covertly, growling and rustling foliage without clear sightlines for ranged attacks.
 - Players remain wary and ready for combat, frustrated by elusive targets.
