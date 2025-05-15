@@ -260,109 +260,9 @@ A successful showing here naturally sets the tone for Biele’s central role thr
 
 **[End of Scene 3: Charting the Coastline]**
 
+---
+
 ## Scene 4: Smoke Signal
-
-### Scene Purpose
-After completing the first leg of their coastal survey, the players and crew of the *Sojourner* spot unexpected signs of another human presence.  
-This scene serves as transition from the survey (Scene 3) into the Harrow storyline (Scene 5).  
-It also subtly introduces evidence of a wrecked vessel, tying into Harrow’s later appearance.
-
----
-
-### Setting: Midday on the Coastline
-
-> The coastline unrolls ahead like a jagged ribbon of green and stone, the jungle clawing down to meet the restless sea. The waves slap hollow and slow against the hull, the sound carrying far in the strange, heavy stillness. There is no wind. The sails hang limp. Even the gulls are gone.
-> 
-> Then you see it.
-> 
-> A thin vertical line of grey, far off beyond a tangled bluff. Not a brushfire. Not mist. Too clean, too steady. Smoke—and recent. Deliberate.
-> 
-> For a moment the crew stands frozen at the rail, silent and watchful. There has been no other sign of humanity on this cursed island. No other ship. No other sail.
-> 
-> The smoke drifts higher, curling softly into the blank grey sky like a signal whispered to no one.
-> 
-> Someone is out there.
-
-The *Sojourner* rounds a rocky headland under a heavy, flat sky.  
-Clouds hang in thick folds above the jungle canopy, and an oppressive stillness settles over the crew.  
-The jungle shoreline stretches ahead in sharp ridges and tangled mangroves.
-
-Then someone calls out from aloft:
-> *“Smoke off the port bow! Just above the treeline!”*
-
-A thin grey column rises steadily from inland, impossible to mistake for natural mist or firefly haze.
-
-**GM prompt:**  
-If Biele is active or on watch, allow her to pre-empt this with a Danger Sense or Weather Sense roll (or simply narrate it as a subtle “wrongness” in the air):
-> *“Biele feels the weight of the wind shift just before the call—there’s fire ahead, controlled and deliberate.”*
-
----
-
-### Investigation Choices
-
-The players must decide:
-- Sail closer and send a boat party ashore?  
-- Ignore the signal and continue mapping? (Highly unlikely, but allow the choice.)  
-
-If they approach:
-The smoke column originates from a **small, neat campsite** set up just back from the shoreline, along a narrow beach beneath towering cliffs.  
-The beach itself seems unusually well chosen: smooth landing, easy concealment, natural windbreak.
-
-There are no signs of recent combat or active danger.
-
----
-
-### Shore Description
-
-> The longboat scrapes lightly onto the pebbled shore. Beyond the high-tide line, the wreckage of a small vessel lies scattered and broken like the bones of some ancient sea creature. Splintered timbers, warped ribs, and sun-bleached planks form a rough scar along the beach.
-> 
-> Nestled just beyond, where tangled undergrowth gives grudging space, stands a camp — orderly yet makeshift, the work of a practiced hand against impossible odds.
-> 
-> Two sturdy driftwood uprights frame a lean-to of canvas and sailcloth, stretched taut against wind and rain. Coiled ropes are hung neatly. A small pile of salvaged wood sits beside a carefully banked firepit, its faint smoke curling toward the grey sky.
-> 
-> Nothing is wasted. Fragments of hull have been lashed together to form a windbreak. Stripped lines serve as makeshift clotheslines and rigging. Every knot, every line, every plank bears the signature of someone who knows ships as extensions of themselves.
-> 
-> There is no sign of the sailor. Only the quiet crackle of the fire and the low hiss of waves beyond the wreck.
-
-As the longboat approaches, the players can make Perception rolls to spot:
-- A small lean-to made of canvas and sailcloth scraps, lashed between two driftwood uprights.  
-- Broken timbers, shattered spars, and planking along the high tide line: clear evidence of a small wrecked vessel.  
-- Reused planks and hull fragments built into the camp’s structure.  
-- Fishing lines strung neatly between driftwood stakes.  
-- An old-fashioned canvas sea bag resting near a rock.  
-- A length of faded signal flag cord tied high between two saplings.
-
-No person is visible. The camp looks freshly used.
-
-> *“There is something strangely orderly about the camp. Not survivalist desperation, but professional seamanship. Everything secured. No mess. A mariner's hand, no question.”*
-
-If players check the fire:
-- They find freshly burned driftwood. The camp cannot have been abandoned long.  
-- A single polished copper whistle hangs from a hook near the firepit (left deliberately).  
-(Players may or may not take it; it serves no mechanical purpose but could be a personal item for RP.)
-
----
-
-### Clues & Foreshadowing
-
-This is a deliberate lead-in to Lucien Harrow:
-- The wreckage and camp together strongly imply a small sloop or exploratory craft came ashore here.  
-- Footprints (if tracked) lead inland toward the jungle.  
-- A battered but intact **small wooden chest** (nautical design) is lashed with rope under the lean-to.  
-- On the chest lid, faint initials carved long ago: **L.H.**  
-(Players may or may not recognise this; it is not forced.)
-
-If the players linger:
-- A faint voice calling from deeper in the trees (Scene 5 trigger).  
-- Alternatively: no encounter yet, the party returns to the *Sojourner* and Harrow appears later.
-
----
-
-### Scene Conclusion
-
-This scene ends with:
-- Players realising there is another skilled seaman on the island.  
--## Scene 4: Smoke Signal
 
 ### Scene Purpose
 After completing the first leg of their coastal survey, the players and crew of the *Sojourner* spot unexpected signs of another human presence.  
@@ -471,19 +371,7 @@ This scene ends with:
 
 ---
 
-**[End of Scene 4: Smoke Signal]** Optional suspense if they choose to wait/camp near the site.  
-- Direct lead-in to **Scene 5: Meeting Sir Lucien Harrow**.
-
-> *“The steady column of smoke still curls lazily skyward. The forest remains silent. Whoever made this camp knows how to vanish—and yet, they left signs to be found.”*
-
----
-
 **[End of Scene 4: Smoke Signal]**
-
-### Scene 3: Meeting Sir Lucien Harrow
-- Encounter Captain Sir Lucien Harrow, legendary explorer.
-- Harrow vanished 250 years ago but believes himself recently stranded. Players realise the inverted temporal paradox.
-- Harrow is intrigued and puzzled by the players' "modern" equipment (especially firearms).
 
 ### Scene 4: Jagular Ambiguity
 - Jagular pack stalks the players covertly, growling and rustling foliage without clear sightlines for ranged attacks.
