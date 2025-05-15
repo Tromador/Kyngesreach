@@ -599,9 +599,95 @@ Transition directly to next encounter (Jagular stalking scene).
 ---
 
 **[End of Scene 5: Meeting Captain Sir Lucien Harrow]**
-### Scene 4: Jagular Ambiguity
-- Jagular pack stalks the players covertly, growling and rustling foliage without clear sightlines for ranged attacks.
-- Players remain wary and ready for combat, frustrated by elusive targets.
+
+---
+## Scene 6: Jagular Encounter – Unexpected Allies
+
+### Scene Purpose
+To build tension and uncertainty.  
+The players and Harrow encounter the Jagulars for the first time in *Tomorrow’s Tide*.  
+They appear as stalking, unseen presences—frightening but non-hostile.  
+This scene sets up the dramatic payoff of the Jagulars as allies in Scene 7.
+
+---
+
+### Setting: Coastal Jungle Edge
+
+The party is returning with Harrow toward the cliffs, moving cautiously along the overgrown jungle path paralleling the coastline.
+
+The path narrows. Thick vines, strangler figs, and giant fronds force single-file travel.  
+There is no breeze. The oppressive weight of the Dead Calm still lingers faintly.
+
+---
+
+### Narration Box: The Stalkers in the Shadows
+
+> The jungle narrows around you into a choking corridor of green. Every step feels muffled.  
+> 
+> Then—movement. Just at the edge of vision. A flicker between two trees. The low snap of a branch under a heavy paw.  
+> 
+> Ohaku halts dead, ears flattened, tail tucked. He growls deep in his throat. His hackles rise. The party falls still.  
+> 
+> A low, rolling growl reverberates from somewhere just beyond sight. Another answers it further along the path.  
+> 
+> The sound is wrong. Too deep. Too heavy.  
+> 
+> Something is pacing you. More than one.  
+> 
+> No matter how quickly you spin, no target shows itself. The undergrowth shifts. Shapes blur into shadow and are gone.  
+> 
+> The sensation of being herded—or studied—crawls across your skin.
+
+---
+
+### Encounter Setup
+
+The players cannot engage:
+- There are **no clear targets**.  
+- The Jagulars stay **perfectly concealed**.  
+- Any shots or attacks will hit only tangled brush.  
+
+**GM Guidance:**
+- Let players take actions: draw weapons, aim, shout warnings.  
+- Play out frustration: every attempt to locate or confront fails.  
+- The goal is to build dread, not combat.
+
+If players call out or cast light spells:
+- Brief yellow eyes reflect once in the distance… then vanish.
+
+Harrow remains calm but cautious:
+> *“Hold your nerve. They’re there… but they’re not striking. That worries me more.”*
+
+---
+
+### Optional Player Decisions
+
+Offer the players some tension:
+- Do they proceed slowly, weapons up?  
+- Do they attempt to retreat?  
+- Do they suggest splitting up to cover more ground? (**Never recommend this, but let them propose it**)
+
+No matter what, after several tense minutes:
+- The sounds fade.  
+- The unseen predators vanish back into the jungle.  
+- The path ahead clears as if “permission” has been granted.
+
+---
+
+### Scene Conclusion
+
+Leave the players deeply unsettled.  
+No explanation. No evidence.  
+They were watched—and let go.
+
+> *“You feel the weight of unseen eyes lift from your backs. The jungle remains silent. Too silent.”*
+
+The party continues onward toward the cliffs, setting up their next destination: the Saltwatch Circle (Scene 7).
+
+---
+
+**[End of Scene 6: Jagular Encounter – Unexpected Allies]**
+
 
 ### Scene 5: The Saltwatch Circle
 **Location:** Windswept clifftop overlooking the open sea—exposed, lonely, atmospheric.
