@@ -688,61 +688,258 @@ The party continues onward toward the cliffs, setting up their next destination:
 
 **[End of Scene 6: Jagular Encounter – Unexpected Allies]**
 
+## Scene 7: The Saltwatch Circle
 
-### Scene 5: The Saltwatch Circle
-**Location:** Windswept clifftop overlooking the open sea—exposed, lonely, atmospheric.
+### Scene Purpose
+The players reach the ancient Stormcaller ritual site.  
+This is both the emotional peak of *Tomorrow’s Tide* and the trigger point for the Drowned ambush.  
+The scene should feel overwhelming, hostile, and untouchable.  
+Players should leave shaken and full of questions, with no clear answers.
 
-**Description:**
-- Ring of rough-carved standing stones, mossy and salt-streaked.
-- Symbols etched deeply: wave patterns, swirling stars, abstract storms and tides.
-- Raised central stone dais with intricate motifs.
-- Broken maritime offerings: ancient rope, driftwood, coral, sea-polished shells.
+---
 
-**Sensory Details:**
-- Strong, briny winds whistle and moan.
-- Salt spray stings eyes and skin; air tastes of the ocean.
-- Echoes of crashing waves below add isolation and reverence.
+### Setting: The Cliff Path
 
-**Purpose:**
-- Ritual site related to weather, tides, navigation.
-- Biele detects residual Stormcaller weather magic.
-- Skill rolls (Occultism, Thaumatology, Weather Magic) reveal obfuscation spells preventing accurate navigation.
+The path narrows and climbs steeply.  
+The trees fall away behind them, leaving only jagged rock and low wind-scrubbed grass.  
+The wind sharpens as they ascend.  
+The distant roar of surf echoes strangely upward from far below.
 
-### Scene 6: Ambush of the Drowned (with revised Jagular notes)
+> The players crest the ridge, and the world opens before them like a wound. The sky is a low bruised slate. The sea below hammers relentlessly against black cliffs. There is no softness here. There never was.
 
-**GM Running Guidance: Handling Jagular Allies (Revised Final)**
+---
 
-Step 1: Jagular Presence Without Visibility
-- First describe low growls, rustling bushes, and glimpses of fur in the dense undergrowth. No clear line of fire. Players feel stalked but never see the full shape.
+### Narration Box: First Sight of the Circle
 
-Step 2: Players’ Readiness as Part of the Drama
-- Players likely ready weapons, nervously trying to sight targets. Let this tension sit for a beat or two, then escalate.
+> As you crest the ridge a sudden violent gust of wind steals your breath and knifes through clothing.  
+> 
+> Dark clouds roll in, taking the sun from the sky and the warmth from your bodies as a peal of thunder echoes about the clifftop.  
+> 
+> You stagger into a bleak world of stone and sky.  
+> 
+> The circle stands alone atop the headland, stark and terrible against the heaving grey wall of ocean beyond.  
+> 
+> Great standing stones rise from the exposed turf like broken teeth. Their silhouettes stand stark and angular against the greying sky.  
+> 
+> The carved spirals and wave motifs gleam faintly under the bruised light. Salt spray stings your face. The distant crashing of waves below feels louder than it should—as though the sea itself is listening.  
+> 
+> There is no shelter, no cover. Only the primal forces of earth, sea, and sky, with a creeping sense of foreboding beneath a storm darkened sky.
 
-Step 3: Immediate Transition to Drowned Ambush
-- At peak player frustration, trigger the ambush from the Drowned emerging from a different direction. Players must immediately divert attention and fight for survival.
+---
 
-Step 4: Jagular Intervention – Ambiguous Entry
-- Mid-combat, thick brush explodes as the Jagulars finally reveal themselves.
-- Describe a terrifying charge: powerful feline shapes, teeth and claws bared, leaping directly toward the melee. Players should believe the worst has happened.
+### Weather Description (progressive)
 
-Step 5: Dice Reveal the Truth
-- As the first Jagular hits, narrate it bypassing or ignoring players completely to violently tackle the nearest Drowned.
-- All Jagulars fight Drowned exclusively. They will even body-block between the players and their foes.
-- Players will quickly understand the Jagulars are aiding them, not attacking.
+- As players explore, **wind increases** to constant shriek.  
+- **Cold rain begins** in scattered drops, then becomes driving sheets.  
+- The sky darkens unnaturally fast.  
+- The players feel exposed, watched, and entirely insignificant.
 
-Combat Notes:
-- Slippery footing and dangerous cliff edges remain.
-- Apply standard Drowned warrior and Jagular stat blocks.
-- Maintain high narrative intensity throughout.
+> The players cannot hear each other over the howl of the gale. There is no shelter. The circle offers no protection—only judgment.
 
-**Combat Details:**
-- Slippery footing, cliff edges (fall risk), strong winds (DX -1 to ranged).
-- Drowned Stat Block:
-  - ST 12 DX 11 IQ 9 HT 12, HP 14 FP 12, DR 1+2 (natural/leather)
-  - Rusted Cutlass (1d+2 cutting), Grapple, Doesn’t Breathe, High Pain Threshold.
-- Jagular Stat Block:
-  - ST 15 DX 14 IQ 4 HT 13, HP 17, DR 1
-  - Claw (1d+2 cutting), Bite (1d+1 impaling), Enhanced Move, Night Vision, "Oh Bother" aura (Will-2 or -1 defence first round).
+---
+
+### Player Exploration & Biele’s Moment
+
+- Biele senses the place as **heavily tainted**.  
+- A Stormcaller ritual site, ancient but corrupted.  
+- Investigation (Occultism, Thaumatology, Weather Magic) reveals:  
+    - Deliberate magical interference woven into the stones.  
+    - Purpose: to confuse navigation, disrupt charts, break celestial tracking.  
+    - Biele feels **the same hand that resisted her at sea** lingers here faintly.
+
+> *“It’s not just the island shifting. They made it shift.”*
+
+This is her final major spotlight in the adventure.
+
+---
+
+### The Drowned Ambush
+
+As tension peaks:
+- A lightning bolt strikes the sea far below.  
+- The players barely react before **Drowned warriors erupt from hidden rocky gullies and shallow tide pools behind the cliffs**.  
+- The storm reaches full fury:
+    - Blinding rain  
+    - Winds tearing at clothing  
+    - The crash of waves now almost at their backs  
+
+Combat begins in **the middle of a howling storm**.  
+The stones loom overhead as silent witnesses.
+
+---
+
+### Combat Notes
+
+- The storm remains purely atmospheric (unless you wish to apply minor DX penalties or footing checks).  
+- The cliffs remain a dangerous backdrop:
+    - Players or Drowned can be knocked toward the edge for added risk.  
+    - Falling is death.  
+- The Jagulars will not appear yet (Scene 8 = rescue moment).
+
+---
+
+### Scene Conclusion
+
+The battle ends (or pauses at critical point) → directly into Scene 8 (Jagulars intervene).  
+Leave players wind-lashed, soaked, breathing hard, surrounded by corpses—and more questions than answers.
+
+---
+
+## Scene 8: Ambush of the Drowned + Jagular Rescue
+
+### Scene Purpose
+The players face their first true combat at the Saltwatch Circle.  
+This is designed to be a terrifying, overwhelming fight—until the Jagulars intervene unexpectedly, saving the party from possible defeat.  
+It delivers the biggest surprise twist of the adventure.
+
+---
+
+### Opening Scene: Lightning Strike + Reveal
+
+As the players finish exploring the Saltwatch Circle, the storm builds to full fury.  
+The waves below hammer the cliffs. Wind tears at clothing and gear. The rain lashes harder with each heartbeat.
+
+Suddenly—a blinding crack of lightning splits the sky.  
+The world turns white for a single, frozen instant.
+
+> **Narration:**
+> 
+> Silhouetted against the flash of light, they stand: ragged, hulking shapes dragging themselves over the rocky edge of the cliff and out from narrow gullies.
+> 
+> At first you think they are men. Then the light fades, and you see the truth.
+> 
+> Blackened, bloated flesh stretches over water-swollen limbs. Tattered rigging and seaweed hang like decayed banners from their frames. Ancient barnacles crust their joints and torsos.  
+> 
+> Their jaws gape open soundlessly. Empty, sunken sockets stare at nothing.  
+> 
+> They move with heavy, jerking motions as though they are still fighting invisible waves.
+> 
+> The Drowned have come.
+
+---
+
+### Combat Encounter: Players vs. The Drowned
+
+The Drowned attack without hesitation, mindless and relentless.
+
+**GM Guidance:**
+- Start with 1 Drowned per player + 1 additional Drowned for Harrow.  
+- **Scaling Guidance:** If the players are performing extremely well, feel free to add 2–3 additional Drowned warriors mid-combat to maintain tension and urgency.  
+- If the players are struggling badly, allow the Jagulars to intervene early.  
+- The storm is at full strength: sheeting rain, screaming wind, crashing waves nearby.  
+- You may optionally apply DX -1 to all combatants for footing on slippery stone, at GM discretion.
+
+---
+
+### **Drowned Warrior Stat Block**
+
+**The Drowned (Saltwatch Cult Enforcer)**  
+- ST 12  
+- DX 11  
+- IQ 9  
+- HT 12  
+- HP 14  
+- FP 12  
+- Speed 5.75  
+- Move 5  
+- DR 3 (1 natural + 2 hardened barnacle growths)  
+- Traits: Doesn’t Breathe, High Pain Threshold, Mindless, Amphibious, Night Vision 5  
+- Weapons: Rusted Cutlass (1d+2 cutting) OR Grapple (Contested ST rolls)  
+- Skills: Broadsword 12, Wrestling 13  
+- Notes: They do not speak, feel no pain, and will continue to fight even if crippled. They attempt to drag victims toward cliff edges if possible.
+
+---
+
+### Combat Twist: Jagular Intervention
+
+As the battle becomes desperate:
+- Players begin to lose ground.  
+- Then, out of nowhere, **Jagulars burst from the jungle at full charge**.
+
+#### Step 1: Terrifying Entry
+- First describe the shapes crashing through the undergrowth at speed.  
+- Claws extended, teeth bared, powerful feline forms leaping directly toward the melee.
+
+#### Step 2: Players Expect Worst
+- Players should believe they are about to be overwhelmed by a second deadly wave.
+
+> **GM Optional Ambush Deception:**  
+> On arrival, describe the first Jagular leaping in next to (or directly at) a player as if to attack.  
+> Allow the player to instinctively declare Dodge or Parry.  
+> Resolve it as a non-action: the Jagular ignores the player entirely and instead slams into the nearest Drowned.  
+> The player suffers no action loss.  
+> This moment of deliberate misdirection maximises the dramatic reveal of the Jagulars as unexpected allies.
+
+#### Step 3: The Reveal
+- As the first Jagular reaches melee, it ignores the players completely and savagely tackles the nearest Drowned.  
+- Subsequent Jagulars do the same—fighting exclusively against the Drowned.
+
+#### Step 4: Combat Becomes 3-Sided Chaos
+- The battle continues as players + Jagulars vs. Drowned.  
+- The Jagulars do not interact with the players other than incidentally protecting them.  
+- If a player stumbles near a Jagular, the beast simply brushes past, focusing entirely on the cultists.
+
+---
+
+### **Jagular Stat Block**
+
+**Jagular (Island Apex Predator)**  
+- ST 15  
+- DX 14  
+- IQ 4  
+- HT 13  
+- HP 17  
+- Speed 6.75  
+- Move 8 (Enhanced Move)  
+- DR 1 (thick fur)  
+- Traits: Night Vision, Acute Hearing, Acute Smell, Catfall, Combat Reflexes, “Oh Bother” Aura  
+- Attacks:
+    - Claw: 1d+2 cutting  
+    - Bite: 1d+1 impaling  
+- Special:  
+    - **“Oh Bother” Aura:** On first round of engagement, foes must roll Will-2 or suffer -1 to Defence for 1 round due to terror at the Jagular’s charge.
+
+---
+
+### Outcome
+
+The battle ends with all Drowned destroyed (Jagulars will maul any survivors).
+
+> **Narration:**
+> 
+> The last of the Drowned collapses into the wet grass with a final, shuddering spasm.  
+> 
+> For a moment, nothing moves.  
+> 
+> Then, as if the island itself has exhaled, the wind dies. The driving rain slackens to a fine mist.  
+> 
+> The thick clouds tear open overhead, letting pale shafts of sunlight stab down onto the broken circle of stones.  
+> 
+> A single rumble of thunder rolls across the sea like a departing warning.  
+> 
+> As the heat and humidity return, you glimpse the Jagulars one last time.  
+> 
+> A single powerful shape stands motionless at the treeline, golden eyes catching the weak light. It holds your gaze for a breathless instant… then turns and vanishes soundlessly into the dripping undergrowth.  
+> 
+> The others are already gone.  
+> 
+> The stone circle stands silent, indifferent, as if nothing had ever happened here at all.
+
+---
+
+### Scene Transition
+
+Leave players stunned, confused, and completely unprepared for this development.  
+They expected an attack.  
+They received a rescue.  
+The true nature of the Jagulars remains utterly unknown.
+
+Transition directly to **Scene 9: Post-Combat Investigation & Harrow Recognition**.
+
+---
+
+**[End of Scene 8: Ambush of the Drowned + Jagular Rescue]**
+
 
 ### Scene 7: Post-Combat Investigation
 - Players find matching Stormcaller symbols on Drowned tattoos and Saltwatch stones.
@@ -787,11 +984,12 @@ Combat Notes:
 - Players may speculate about the Jagular behaviour.
 
 ### Additional Player Clues
-- Saltwatch symbols match Drowned tattoos and earlier "Jagular" idol.
+- Saltwatch symbols match Drowned tattoos. 
 
 ## GM Tips & Notes
 - Don’t allow early Jagular combat: keep them elusive.
 - Time Drowned attack for maximum tension.
 - Reveal Jagulars as allies during combat via exclusive focus on Drowned.
 - Reinforce sense of Stormcaller interference but leave many unanswered mysteries.
+ 
  
