@@ -3,7 +3,7 @@
 ## Adventure Overview
 The players circumnavigate the mysterious jungle island, mapping its coastline. They encounter legendary explorer Captain Sir Lucien Harrow, stranded from his perspective only recently—though he vanished over 250 years ago. Investigating a Stormcaller ritual site guarded by hostile Drowned warriors reveals valuable clues about the mysterious Stormcaller cult. Meanwhile, the formerly hostile Jagulars unexpectedly intervene to assist the players.
 
-## Adventure Introduction
+## Scene 1 - Adventure Introduction
 
 **Opening Scene: Quarterdeck, the morning of the island circumnavigation**
 
@@ -33,10 +33,150 @@ The players circumnavigate the mysterious jungle island, mapping its coastline. 
 
 ## Adventure Scenes
 
-### Scene 1: Charting the Coastline
-- Players begin coastal mapping with navigation difficulties due to Stormcaller obfuscation magic.
-- Skill checks (Navigation, Astronomy, IQ-based rolls) are required.
-- Highlight Biele’s specialist cartography skills and weather-magic sensitivity.
+### Scene 3: Charting the Coastline
+
+### Scene Purpose
+The *Sojourner* begins its slow voyage around the perimeter of the island.  
+Players are tasked with documenting landmarks, sketching charts, and attempting to produce the first true map of this shifting coastline.
+
+---
+
+### Setting: Aboard the *Sojourner*
+
+> The sails creak faintly overhead, sagging in strange listless air. The jungle looms close to port and starboard both, a dark tangled wall that seems to lean over the sea like a living thing. The sun hangs low and sullen behind smears of high cloud; what little light filters down feels pale and uncertain.
+> 
+> As the *Sojourner* eases forward, the water itself seems to resist. Waves pull at the hull from unexpected angles. The compass spins once, twice, then settles pointing somewhere between north and nowhere at all.
+> 
+> Far overhead, seabirds wheel in tight, nervous circles. The faint slap of water against the hull is the only constant sound.
+> 
+> Behind the players, the anchor lies useless on the deck. There is no point in lowering it. Even if they stopped now, there is no guarantee they would find the same coastline when they raised it again.
+> 
+> The survey begins.
+
+The early morning air is thick and heavy. A false calm hangs over the water as the ship pulls away from its temporary anchorage.
+
+The jungle presses down to the water’s edge, tangled and oppressive.  
+Grey-green waves lap listlessly against rock and sand.  
+Distant cries of unseen birds echo under a heavy sky.  
+The sea feels... wrong. Something about its texture and movement is subtly off.
+
+> *“The water here runs sluggish yet restless. Ropes drag oddly when hauled. The sails behave as if confused, billowing against no discernible breeze.”*
+
+Crew morale is tense but determined.
+
+**Optional GM flavour (at player request):**
+- The wake of the *Sojourner* twists and braids unnaturally behind her.  
+- Compass needles spin, stop, and spin again.  
+- Occasional wisps of mist rise suddenly from the water then vanish.  
+- The shoreline itself seems subtly inconsistent: beaches lengthen, cliffs shift angles, forest edges advance or retreat.  
+
+---
+
+### Player Activity: The Survey
+
+Players must decide:
+- Who takes responsibility for navigation and plotting.  
+- How to divide tasks (e.g. Biele plotting, others using sounding lines, lookout duty).
+
+This scene is designed for **problem-solving and teamwork**.
+
+#### Skill Rolls
+Primary skills:  
+- **Navigation (Sea)**  
+- **Cartography**  
+- **Seamanship**  
+- **Perception**  
+
+Supporting skills:
+- **Astronomy**  
+- **Mathematics (Surveying)**  
+- **Weather Sense** (can warn of approaching distortion pockets)
+
+**GM Note:**  
+Success = players manage to produce rough but usable coastal sketches.  
+Failure = charts become wildly contradictory, players must backtrack, or even risk grounding on unexpected reefs.
+
+---
+
+### Subtle Anomaly Event (Narrative)
+
+Regardless of rolls, one major phenomenon occurs:
+- Players realise features they passed earlier (such as a distinctive rock formation or inlet) are **gone when viewed again an hour later**, or **appear twice** where there should only be one.
+
+**GM example lines:**
+> *“The bay entrance you just sketched... no longer exists. It is a sheer cliff now.”*  
+> *“The reef dead ahead is identical to one you passed already this morning—but your log shows you should be miles away.”*  
+> *“Biele stares at the stars in frustration: none match the charts, or even each other.”*
+
+This is the **first hard experience of the “shifting island” effect** (hidden Stormcaller disruption; players remain unaware of the cause).
+
+---
+
+### Highlight: Biele’s Abilities
+
+Players will quickly discover that Biele’s unique sensitivity and mapping skill stabilises the data:
+- If Biele makes a successful **Cartography or Navigation roll**, the ship avoids doubling back or becoming trapped in false loops.  
+- If she fails, the ship may spend extra hours sailing in circles.
+
+> *“Captain Godfrey watches grimly as Biele frowns at her charts, muttering under her breath and repeatedly redrawing the same jagged coastline segment with growing irritation.”*
+
+This strongly reinforces Biele as the crew’s best (and perhaps only) guide in these waters.
+
+---
+
+### Optional Player Dialogue Prompts
+
+Encourage players to engage:
+- “Do you trust Biele’s instincts or double-check her work?”  
+- “Do you want to sail closer inshore for better landmarks, or stay offshore for safety?”  
+- “Do you try to record the impossible changes... or only what seems to stay put?”
+
+There is no right answer; this builds player immersion.
+
+---
+
+### Scene Conclusion
+
+After several exhausting hours the players manage to piece together a rough but unstable perimeter outline.
+
+The coastline mapped so far:
+- Feels untrustworthy.  
+- May not match reality tomorrow.  
+- But it’s the only chart they have.
+
+> *“The last rays of sun filter weakly through leaden clouds. The crew ties off the last sounding line with relief, yet cannot shake the sensation that the ship has sailed through a place that was watching them all along.”*
+
+Transition to next scene:
+- Players spot a thin vertical plume of smoke rising faintly from a distant beach (leads to **Scene 4: Smoke Signal**).
+
+---
+
+### GM Sidebar: Spotlight on Biele – Scene 3
+
+> **Use this encounter to gently bring Biele’s player forward.**  
+> The player has sometimes remained in the background in past sessions; this is an ideal low-risk, high-importance spotlight moment.
+
+Biele’s character build is uniquely suited to this scene:
+- **Cartography 14** → best mapmaker aboard.  
+- **Navigation (Sea) 14** → most skilled navigator.  
+- **Weather Sense 14** → likely the first to sense atmospheric anomalies.  
+- **Danger Sense (Advantage)** → perfect trigger for pre-warning of any unexplained spatial shifts.
+
+Encourage Biele’s player by:
+- Asking directly for her decisions: *“Biele, are you steering by the stars or the coastline?”*  
+- Letting her make **exclusive rolls** to stabilise charts or avoid false landmarks.  
+- Having NPCs (even Godfrey) defer to her judgment reluctantly:  
+    > *“I don’t like trusting to magic, but... what does Biele say?”*
+
+This is her first real test as the crew’s navigator in truly unnatural waters.  
+A successful showing here naturally sets the tone for Biele’s central role throughout *Tomorrow’s Tide*.
+
+> **GM Tip:**  
+> Even on a failure, frame her as having made the best call under impossible conditions: *“The island moved after you mapped it. You were right; the sea itself cheated.”*
+
+---
+
+**[End of Scene 3: Charting the Coastline]**
 
 ### Scene 2: Smoke Signal
 - Players spot controlled smoke signals along a remote beach.
