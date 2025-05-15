@@ -468,14 +468,12 @@ This scene ends with:
 **[End of Scene 4: Smoke Signal]**
 
 ---
-
 ## Scene 5: Meeting Captain Sir Lucien Harrow
 
 ### Scene Purpose
 The players finally encounter the mysterious survivor.  
-This scene introduces Harrow as a major recurring NPC and reveals the temporal paradox that deepens the central mystery of *Tomorrow’s Tide* and Kyngesreach itself.
-
-This scene occurs after Scene 4 (Harrow’s camp).
+This scene introduces Harrow as a major recurring NPC and reveals the temporal paradox that deepens the central mystery of *Tomorrow’s Tide* and Kyngesreach itself.  
+It also provides player motivation to proceed inland rather than return to the *Sojourner* immediately.
 
 ---
 
@@ -569,9 +567,28 @@ If players mention modern gear:
 
 ---
 
+### Motivation to Proceed Inland (Player Hook)
+
+Before returning to the coast, Harrow gestures up the ridge toward a distant rise.
+> *“There’s something up there. Stone shapes, unnatural. I intended to investigate before you arrived. I think it may be important.”*
+
+He hesitates briefly, unusual for his calm demeanour.
+> *“Also… I’ve heard something stalking me these past two nights. Heavy footfalls. Low huffing. I thought I glimpsed orange fur once between the trees. I have no wish to meet whatever it is alone.”*
+
+Biele frowns as the stars and compass shift again subtly.
+
+Simultaneously, the players hear another distant, guttural growl from the trees.  
+The crew grip their weapons warily.
+
+**Optional Player Reasoning:**  
+Players may also reason that the elusive stalking creatures (Jagulars) must have lairs near the cliffs.  
+With Harrow’s goal and the chance of confronting a Jagular both ahead, it becomes the logical—and irresistible—next step.
+
+---
+
 ### Scene Conclusion
 
-Harrow agrees to accompany the party back toward the shore:
+Harrow agrees to accompany the party toward the cliffs:
 > *“It seems fate has delivered me new companions. I will not waste the opportunity. Lead on.”*
 
 The players have gained a new companion and a walking enigma:
