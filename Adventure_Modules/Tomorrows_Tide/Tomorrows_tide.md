@@ -941,55 +941,104 @@ Transition directly to **Scene 9: Post-Combat Investigation & Harrow Recognition
 **[End of Scene 8: Ambush of the Drowned + Jagular Rescue]**
 
 
-### Scene 7: Post-Combat Investigation
-- Players find matching Stormcaller symbols on Drowned tattoos and Saltwatch stones.
-- Biele detects deliberate interference woven into the site’s magic.
-- First concrete evidence of Stormcaller activity.
+## Scene 9: Post-Combat Investigation & Harrow Recognition
 
-### Scene 8: Harrow’s Historical Insight
-- Harrow recognises the symbols, visibly unsettled.
-- Recounts legends of sea-mages called "Saltwatches" who aided lost mariners.
-- Suggests internal corruption or schism within the Stormcallers.
+### Scene Purpose
+This is the fallout scene after the Drowned battle.  
+Players have time to breathe, explore, and finally get campaign-relevant clues—but no solid answers.  
+Harrow provides the first indisputable link between the site, the Drowned, and the old tales of sea-mages.  
+The Jagular mystery remains unanswered.
 
-### Scene 9: Departure and Reflection
-- Players complete coastal mapping and return to the *Sojourner*.
-- Harrow joins the crew, welcomed cautiously by Godfrey.
-- Players left to wonder if they have also shifted in time.
+---
 
-## Rewards & Outcomes
-- Players have mapped the island.
-- Biele gains deep insight into the cause of navigation confusion.
-- Players confirm the Stormcaller cult exists and is active.
-- The Jagular hostility reversal enriches future interaction.
-- Harrow becomes a major recurring NPC.
-- Adventure ends with:
-  - Concrete proof of Stormcaller existence.
-  - Biele’s validation and ongoing challenge.
-  - Campaign intrigue: Harrow’s history, Drowned attack, Jagular mystery.
+### Opening Scene: Calm After the Storm
 
-## Optional Details
+The stone circle is still.  
+The storm has passed.  
+Steam curls upward from the wet ground.  
+The cliffs still boom with distant surf.  
+The players are exhausted, soaked, and alone again.
 
-### Harrow’s Equipment
-- Antique naval sextant, outdated maps.
-- Carved matchlock pistol (ceremonial).
-- Personal journal with historic notations.
+> **Narration:**
+> 
+> The circle lies empty under the returning heat.  
+> 
+> Broken shells, weathered rope, driftwood fragments, and sea-polished bones litter the muddy grass.  
+> 
+> The bodies of the Drowned lie crumpled where they fell.  
+> 
+> Only the echoes of the battle remain.
 
-### Environmental Hazards (Saltwatch)
-- Severe wind gusts (DX or lose small items).
-- Slippery footing, risk of falling.
+---
 
-### Roleplaying Opportunities
-- Harrow reacts to modern gear with fascination.
-- Godfrey expresses concern over paradox risk.
-- Players may speculate about the Jagular behaviour.
+### Player Actions: Searching the Site
 
-### Additional Player Clues
-- Saltwatch symbols match Drowned tattoos. 
+Allow free investigation:
+- Players may examine the Drowned bodies:  
+    - Each bears crude wave/star tattoos burned or carved into dead flesh.  
+    - Symbols match motifs carved into the stones.  
+- If the players previously examined Enzo or Matteo (Varenza adventure), they immediately recognise the tattoos.  
+    - The crude spiral and wave designs burned into the Drowned match exactly.  
+    - This is the first clear confirmation that both encounters are linked to the same unknown cult.  
+- The stones themselves are heavily weathered, but distinct spiral and wave patterns remain.  
+- Biele can sense lingering traces of ritual weather magic:
+    - Twisted, corrupted, no longer functioning as intended.  
+    - Residual energy feels **similar to the interference she fought at sea**.
 
-## GM Tips & Notes
-- Don’t allow early Jagular combat: keep them elusive.
-- Time Drowned attack for maximum tension.
-- Reveal Jagulars as allies during combat via exclusive focus on Drowned.
-- Reinforce sense of Stormcaller interference but leave many unanswered mysteries.
- 
- 
+> Biele (quietly): *“They did this. They made the island change.”*
+
+---
+
+### Harrow’s Recognition: The Sea-Mage Connection
+
+As players piece clues together, Harrow frowns deeply and touches one of the carvings.
+
+> Harrow (quietly, frowning as he studies the markings):  
+> “I’ve seen magic. Any sailor with years at sea has.  
+> 
+> But this…  
+> 
+> There were old tales, whispered by the oldest hands.  
+> 
+> Of a group—sea-mages, they were called—who withdrew into the Reach. The place no ship returned from.  
+> They said these folk could guide the lost, calm storms, or doom ships that angered them.  
+> 
+> I always thought it just the usual dockside yarns.  
+> 
+> But these carvings… these marks burned into the dead…  
+> 
+> They match the stories.  
+> 
+> I remember.  
+> 
+> It’s them. There can be no doubt.”
+
+Harrow does not know their true name, purpose, or why they have become corrupted.  
+He offers no further answers.  
+The players are left with the first hard fact of the campaign: the Drowned are descended from the sea-mages of old legend.
+
+---
+
+### Optional Player Dialogue
+
+Encourage players to discuss:
+- How could such a benevolent group produce horrors like the Drowned?  
+- Was there a schism, corruption, or betrayal?  
+- Is someone or something twisting the old power for darker ends?  
+- Was Harrow simply wrong, or did something go terribly wrong?
+
+**Do not answer any of it.**  
+This scene exists purely to deliver the campaign’s first undeniable lore connection.
+
+---
+
+### Scene Conclusion
+
+When ready, players gather themselves and descend back toward the coast:
+> The sun burns down. The island returns to crushing, indifferent stillness. The *Sojourner* waits below.
+
+Transition to **Scene 10: Return to the Sojourner & Adventure Wrap-up**.
+
+---
+
+**[End of Scene 9: Post-Combat Investigation & Harrow Recognition]**
