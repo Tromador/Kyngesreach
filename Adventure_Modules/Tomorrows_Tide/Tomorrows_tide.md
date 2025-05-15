@@ -260,6 +260,100 @@ A successful showing here naturally sets the tone for Biele’s central role thr
 
 **[End of Scene 3: Charting the Coastline]**
 
+## Scene 3a: The Dead Calm
+
+### Scene Purpose
+Provide a tense, atmospheric encounter that both gives Biele a magical spotlight moment and allows the rest of the party to actively contribute.  
+The encounter also foreshadows that the players are being watched or interfered with by unseen forces, escalating the campaign mystery.
+
+This scene occurs between Scene 3 (charting the coastline) and Scene 4 (smoke signal).
+
+---
+
+### Setting: Midday, Offshore
+
+The *Sojourner* glides smoothly through calm seas under a leaden grey sky.  
+The jungle ridge is a dark smudge on the horizon. The sails snap once—and fall utterly limp.  
+The wind dies completely.  
+
+The water goes mirror-still.  
+An oppressive silence descends.
+
+---
+
+### Narration Box: The Sea Holds Its Breath
+
+> Without warning, the wind dies. Not fades. Dies. The sails sag like collapsed lungs.  
+> 
+> The wake behind the ship fades instantly to nothing. The surface of the water becomes glassy and motionless.  
+> 
+> No bird calls. No distant waves. Even the rigging stops creaking. The air itself feels thick and heavy, as though the entire ocean is holding its breath.  
+> 
+> Then, below deck, Ohaku the dog begins to whine. A long, low sound that rises into an uneasy, mournful howl.  
+> 
+> A heartbeat later, Nyxie hisses violently, tail puffing out like a bottlebrush. She bolts under a coil of rope, vanishing into shadow.  
+> 
+> Biele freezes mid-step as a violent, overwhelming sense of wrongness washes over her like ice water. Every instinct screams that something is terribly, impossibly wrong.  
+> 
+> The crew mutter nervously. Several cross themselves or tap the mast.  
+> 
+> Something is here.
+
+---
+
+### Event Sequence
+
+**1. Crew panic and indecision**
+- Godfrey stays calm, but crew and players feel growing unease.
+- No stars, no breeze, no sound.  
+- The ship drifts motionless.
+
+**2. Biele acts**
+- Biele declares she will cast **Favourable Wind**.
+- The spell works—but it feels *wrong*. As soon as she channels magic, she feels a hostile force pushing back.
+- The air crackles faintly, static arcs across rigging.  
+- Biele grits her teeth and *forces* the wind through sheer willpower, succeeding but at **double fatigue cost**.
+
+**GM Description:**  
+> *“The sails tremble, lurch, fall still… then with a snap they fill with ragged, choppy gusts. The ship begins to move, but sluggishly, as if some vast invisible hand reluctantly let go.”*
+
+---
+
+### Complication Events (Party Involvement)
+
+While Biele casts:
+- The ship becomes unstable, lines whip free, chaos erupts:
+    - A **rope suddenly snaps** → any player can grab and secure it (**DX or Seamanship roll**).  
+    - A sudden **lightning strike hits the mainsail** → small fire starts on rigging. Players must react fast (**DX, Seamanship, or improvised teamwork**).  
+        - *As the afterimage burns into your vision, you swear—just for an instant—you saw the twisted arc trace an impossible shape, something jagged yet disturbingly symmetrical, like a sigil or glyph… and then it’s gone.*  
+    - A heavy **spar swings loose toward Biele**, threatening to crush or sweep her overboard. Another player must act fast to shield her or pull her clear (**DX or ST check**).
+
+This makes the encounter a **full party teamwork scene**, not just “Biele casts and wins.”
+
+---
+
+### Outcome
+
+- The *Sojourner* painfully lurches back into motion.  
+- The unnatural stillness lifts, but leaves an eerie, oppressive feeling behind.  
+- The crew whispers about omens and cursed waters.  
+- Biele knows, with absolute certainty, that **someone or something opposed her spell**.  
+- Nyxie remains hidden for hours afterward.  
+- Ohaku stays pressed close to Morgan, tail tucked.
+
+> *“You moved the ship… but it feels as if something let you go only because it wanted you to see what’s ahead.”*
+
+---
+
+### Scene End
+
+The ship resumes her cautious progress.  
+Within a short time, a thin line of smoke is spotted on the horizon (**Scene 4 begins**).
+
+---
+
+**[End of Scene 3a: The Dead Calm]**
+
 ---
 
 ## Scene 4: Smoke Signal
