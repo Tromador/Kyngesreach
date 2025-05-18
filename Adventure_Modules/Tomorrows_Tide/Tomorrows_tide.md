@@ -994,23 +994,25 @@ Allow free investigation:
 As players piece clues together, Harrow frowns deeply and touches one of the carvings.
 
 > Harrow (quietly, frowning as he studies the markings):  
-> “I’ve seen magic. Any sailor with years at sea has.  
+> “I’ve seen magic. Any sailor with years at sea has.
+>
+> But this…
 > 
-> But this…  
+> There were old tales, whispered by the oldest hands.
 > 
-> There were old tales, whispered by the oldest hands.  
+> Of a group—sea-mages, they were called—who withdrew into the Reach, far from shipping lanes.
+> Not feared. Not cursed.
 > 
-> Of a group—sea-mages, they were called—who withdrew into the Reach. The place no ship returned from.  
-> They said these folk could guide the lost, calm storms, or doom ships that angered them.  
+> Said to guide lost ships to safety… to still storms when the rites were honoured
+> They were spoken of with reverence. Quiet respect.
 > 
-> I always thought it just the usual dockside yarns.  
+> I always thought it just the usual dockside yarns.
 > 
-> But these carvings… these marks burned into the dead…  
+> But these carvings… these marks burned into the dead…
+>
+> They match the stories.
 > 
-> They match the stories.  
-> 
-> I remember.  
-> 
+> I remember.
 > It’s them. There can be no doubt.”
 
 Harrow does not know their true name, purpose, or why they have become corrupted.  
