@@ -69,7 +69,19 @@ Both sides roll **Contested Seamanship** each round.
 
 - Multiply by operational guns.
 - Round down.
+## 📏 Ship Damage Resistance (DR) Table
 
+| Ship Class             | Hull DR |
+|-------------------------|---------|
+| Sloop/Brig              | 20      |
+| Frigate (Sojourner)     | 30      |
+| Fourth-Rate             | 40      |
+| Third-Rate              | 55      |
+| Second-Rate             | 70      |
+| First-Rate (e.g., Victory) | 80  |
+
+- **“Fourth-rate,” “Third-rate,” “Second-rate,” and “First-rate”** are standard designations in naval classification.
+- This table reflects escalating durability and hull thickness by ship class.
 ---
 
 ## 🏹 Aiming & Called Shots – Final Mechanics
