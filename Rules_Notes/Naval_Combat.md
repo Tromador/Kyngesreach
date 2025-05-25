@@ -86,8 +86,8 @@ Both sides roll **Contested Seamanship** each round.
 | Frigate (Sojourner)| 20          | 25          | 20            |
 | Ship-of-the-Line  | 25          | 30          | 25            |
 
-- Each penetrating hit inflicts damage; mast collapses after **3+ penetrating hits**.
-- All aimed shots require **Standard or Close range**.
+- Each penetrating hit inflicts damage; mast collapses after 3+ penetrating hits.
+- All aimed shots require Standard or Close range.
 
 ---
 
@@ -135,10 +135,9 @@ Both sides roll **Contested Seamanship** each round.
 
 ## 🚢 Internal Damage System – Hull Integrity Points (HIP)²
 
-### Concept
-Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**:  
-- PS = Damage Rolled – Ship DR  
-- HIP Loss = the smaller of PS or 50 (HIP Loss = min(PS, 50))
+- Each penetrating hull hit reduces HIP based on penetration strength (PS):
+  - PS = Damage Rolled minus Ship DR
+  - HIP Loss = smaller of PS or 50
 
 | Penetration Strength (PS) | HIP Loss |
 |----------------------------|----------|
@@ -148,14 +147,12 @@ Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**
 | 31–50                      | -40 |
 | >50                        | -50 |
 
-### Revised HIP Values (scaled ×2.5)
 | Ship Class        | HIP |
 |-------------------|-----|
 | Sloop/Brig        | 250 |
 | Frigate (Sojourner)| 500 |
 | Ship-of-the-Line  | 1000–1250 |
 
-### Sinking Thresholds
 | HIP Remaining | Status |
 |---------------|--------|
 | 75–100%      | Minor damage; cosmetic leaks |
@@ -167,18 +164,34 @@ Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**
 
 ---
 
+## 🧑‍✈️ CREW Readiness and Crew HP System
+
+- Each ship's total crew = Crew HP (1 crew = 1 HP).
+- Readiness % starts at 100% and drops as crew are lost.
+
+### Deck Crew Exposure
+- Maximum topside crew = 20% of total crew HP.
+- Actual topside crew = 20% of total crew HP × current Readiness %.
+- Grape shot damage cannot exceed this topside crew HP at the time of impact.
+
+| Gun Caliber | Crew HP Damage per Hit |
+|-------------|-------------------------|
+| 9-pounder   | 10 |
+| 18-pounder  | 20 |
+| 32-pounder  | 40 |
+
+| CREW Readiness | Effects |
+|----------------|---------|
+| 75–100%       | No penalties. |
+| 50–75%        | -1 to Gunner (Cannon), +1 reload, -1 to Seamanship. |
+| 25–50%        | -2 to Gunner (Cannon), +2 reloads, -2 to Seamanship, +1 morale checks. |
+| 0–25%         | -4 to Gunner (Cannon), +4 reloads, -4 to Seamanship, +4 morale checks. Ship may become inoperable; panic and surrender likely. |
+
+---
+
 ### Footnotes
-¹ **Margin of Success (MoS):** The difference between your effective skill and your actual die roll result. For example, if your modified skill is 12 and you roll a 9, your MoS is 3. The greater your MoS, the better your performance. Use the following hit rate table based on MoS:
-
-| MoS | Hit Rate |
-|-----|----------|
-| 0–1 | 10% |
-| 2–3 | 25% |
-| 4–5 | 50% |
-| 6–7 | 75% |
-| 8+  | 100% |
-
-² **Hull Integrity Points (HIP):** A numerical measure of a ship’s overall structural integrity, representing the cumulative effect of penetrating hits to the hull. When HIP is reduced to zero, the ship founders and sinks.
+¹ Margin of Success (MoS): The difference between your effective skill and your actual die roll result. For example, if your modified skill is 12 and you roll a 9, your MoS is 3. The greater your MoS, the better your performance.  
+² Hull Integrity Points (HIP): A numerical measure of a ship's overall structural integrity, representing the cumulative effect of penetrating hits. When HIP is reduced to zero, the ship founders and sinks.
 
 ---
 
@@ -191,5 +204,5 @@ Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**
 ---
 
 ## 🧙‍♂️ Magical Wind Effects (Conditional)
-- If one side uses a magical wind spell (e.g., Biele’s trailing wind), it gains **+2 Wind Gauge bonus**.  
+- If one side uses a magical wind spell (e.g., Biele’s trailing wind), it gains +2 Wind Gauge bonus.
 - If both sides use magic, compare effects: stronger effect wins; if equally matched, resolve with a Quick Contest of spellcasting or GM adjudication.
