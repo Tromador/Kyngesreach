@@ -56,7 +56,7 @@ Narrative positioning system with four abstract ranges.
 
 | Range     | Max Hit Rate | Gunner (Cannon) Modifier | Description |
 |-----------|--------------|--------------------------|-------------|
-| Extreme   | 25%          | -2                       | Beyond standard long gun range |
+| Extreme   | 25%          | -4                       | Beyond standard long gun range |
 | Long      | 50%          | -2                       | Cautious engagement range |
 | Standard  | 100%         | +0                       | Normal broadside exchange |
 | Close     | 100%         | +1                       | Grapeshot, raking fire, boarding possible |
