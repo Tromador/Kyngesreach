@@ -67,7 +67,7 @@ Both sides roll **Contested Seamanship** each round.
 | 6–7 | 75% |
 | 8+  | 100% |
 
-- Multiply by operational guns (12 per battery for Sojourner).
+- Multiply by operational guns.
 - Round down.
 
 ---
@@ -75,7 +75,7 @@ Both sides roll **Contested Seamanship** each round.
 ## 🏹 Aiming & Called Shots – Final Mechanics
 | Target          | Ammo      | Aiming Penalty | Range Restriction | DR |
 |-----------------|-----------|----------------|-------------------|----|
-| Rudder          | Round     | -3             | Standard/Close    | Ship DR |
+| Rudder          | Round     | -5             | Close             | Hull DR -10 |
 | Rigging/Sails   | Chain     | -3             | Standard/Close    | 10 |
 | Masts/Spars     | Bar       | -6             | Standard/Close    | See below |
 | Deck Crew       | Grape     | -3             | Standard/Close    | n/a |
@@ -117,7 +117,7 @@ Both sides roll **Contested Seamanship** each round.
 |---------------------------|--------|
 | 25%                       | -1 Wind Gauge |
 | 50%                       | -2 Wind Gauge |
-| 75%                       | -4 Wind Gauge (crippled but can still roll) |
+| 75%                       | -4 Wind Gauge |
 | 100%                      | Immobilised; jury rigging required |
 
 ---
@@ -155,26 +155,22 @@ Both sides roll **Contested Seamanship** each round.
 
 | HIP Remaining | Status |
 |---------------|--------|
-| 75–100%      | Minor damage; cosmetic leaks |
-| 50–75%       | Noticeable stress; limited system failures |
-| 25–50%       | Severe flooding; impaired movement and reduced firing capability |
-| 10–25%       | Critical flooding; uncontrollable flooding begins |
-| 0–10%        | Rapid sinking, inevitable loss |
+| 75–100%      | Minor damage |
+| 50–75%       | Noticeable stress |
+| 25–50%       | Severe flooding |
+| 10–25%       | Critical flooding |
+| 0–10%        | Rapid sinking |
 | 0            | Ship founders and sinks |
 
 ---
 
 ## 🧑‍✈️ CREW Readiness and Crew HP System
 
-- Each ship's total crew = Crew HP (1 crew = 1 HP).
-- Readiness % starts at 100% and drops as crew are lost.
+- Total crew complement = Crew HP (1 crew = 1 HP).
+- Max topside crew = 20% of total crew HP × current Readiness %.
+- Grape shot damage cannot exceed topside crew HP at time of impact.
 
-### Deck Crew Exposure
-- Maximum topside crew = 20% of total crew HP.
-- Actual topside crew = 20% of total crew HP × current Readiness %.
-- Grape shot damage cannot exceed this topside crew HP at the time of impact.
-
-| Gun Caliber | Crew HP Damage per Hit |
+| Gun Calibre | Crew HP Damage per Hit |
 |-------------|-------------------------|
 | 9-pounder   | 10 |
 | 18-pounder  | 20 |
@@ -183,15 +179,31 @@ Both sides roll **Contested Seamanship** each round.
 | CREW Readiness | Effects |
 |----------------|---------|
 | 75–100%       | No penalties. |
-| 50–75%        | -1 to Gunner (Cannon), +1 reload, -1 to Seamanship. |
-| 25–50%        | -2 to Gunner (Cannon), +2 reloads, -2 to Seamanship, +1 morale checks. |
-| 0–25%         | -4 to Gunner (Cannon), +4 reloads, -4 to Seamanship, +4 morale checks. Ship may become inoperable; panic and surrender likely. |
+| 50–75%        | -1 Gunner, +1 reload, -1 Seamanship. |
+| 25–50%        | -2 Gunner, +2 reloads, -2 Seamanship, +1 morale check. |
+| 0–25%         | -4 Gunner, +4 reloads, -4 Seamanship, +4 morale checks. Panic/surrender likely. |
+
+---
+
+## 🔥 Critical Hits System (Penetrating Hull Hits)
+
+- **Trigger:** 1 crit roll per 4 penetrating hull hits in an attack.
+- **Roll 1d6:** On a 6, roll on the Critical Hit Table.
+
+| Roll | Effect |
+|------|--------|
+| 1    | Fire below decks (severity scales with HIP damage). |
+| 2    | Steering damage: -1 Wind Gauge per half HIP damage. |
+| 3    | Splintering: Below deck crew casualties equal to HIP damage. |
+| 4    | Officer casualties: key crew injured, -10% Readiness. |
+| 5    | Severe flooding: double HIP damage. |
+| 6    | Catastrophic hit: GM chooses dramatic effect. |
 
 ---
 
 ### Footnotes
-¹ Margin of Success (MoS): The difference between your effective skill and your actual die roll result. For example, if your modified skill is 12 and you roll a 9, your MoS is 3. The greater your MoS, the better your performance.  
-² Hull Integrity Points (HIP): A numerical measure of a ship's overall structural integrity, representing the cumulative effect of penetrating hits. When HIP is reduced to zero, the ship founders and sinks.
+¹ Margin of Success (MoS): Difference between effective skill and roll result.  
+² Hull Integrity Points (HIP): Cumulative measure of hull structural integrity; 0 = ship sinks.
 
 ---
 
@@ -199,10 +211,9 @@ Both sides roll **Contested Seamanship** each round.
 - Broadside: 12 × 9-pounders per side
 - Total Guns: 24
 - Class: Mid-range fifth-rate frigate (~late 18th century)
-- Quick, maneuverable, but not suited for line battles against heavier ships
 
 ---
 
 ## 🧙‍♂️ Magical Wind Effects (Conditional)
-- If one side uses a magical wind spell (e.g., Biele’s trailing wind), it gains +2 Wind Gauge bonus.
-- If both sides use magic, compare effects: stronger effect wins; if equally matched, resolve with a Quick Contest of spellcasting or GM adjudication.
+- If one side uses a magical wind spell, gain +2 Wind Gauge.
+- If both sides use magic, stronger effect wins; ties resolved by GM or Quick Contest.
