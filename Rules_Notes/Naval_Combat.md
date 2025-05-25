@@ -1,6 +1,6 @@
-# ⚓ Kyngesreach Naval Combat Rules (WIP v0.9)
+# ⚓ Kyngesreach Naval Combat Rules (WIP v1.0)
 
-A streamlined tactical system for handling ship-to-ship cannon engagements in the Kyngesreach campaign. Designed for GURPS but broadly compatible with narrative play.
+A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, with a focus on realism, tactical engagement, and historical plausibility.
 
 ---
 
@@ -8,154 +8,140 @@ A streamlined tactical system for handling ship-to-ship cannon engagements in th
 
 ### 📅 Round 1: Reading the Weather
 
-- Each side nominates a character (PC/NPC) to roll **Weather Sense**.
-- This determines initial Wind Gauge advantage.
+- Each side nominates a PC/NPC to roll **Weather Sense**.
+- Determines initial Wind Gauge advantage.
 
-| Weather Sense Result | Modifier to Wind Gauge Contest |
-|----------------------|--------------------------------|
-| Success              | +1                             |
-| Critical Success     | +2                             |
-| Failure              | 0                              |
-| Critical Failure     | -1                             |
+| Weather Sense Result | Modifier to Wind Gauge |
+|----------------------|------------------------|
+| Success              | +1                     |
+| Critical Success     | +2                     |
+| Failure              | 0                      |
+| Critical Failure     | -1                     |
 
 ---
 
-### 🔁 Round 2 and Beyond: Contesting the Wind
+### 🔁 Round 2+: Contesting the Wind
 
-- Each round, both ships roll a **Contested Seamanship** check.
-- Only the following modifiers apply:
+- Both sides roll **Contested Seamanship** each round.
+- Only modifiers:
 
-| Modifier                              | Effect |
-|---------------------------------------|--------|
-| Each rigging hit                      | -1     |
-| Assisted by successful Tactics (Naval)| +1     |
-| *Trailing Wind* or similar spell      | +2     |
-| Magical wind contest (both sides)     | Quick Contest; winner gains +2, loser gains nothing |
+| Modifier                    | Effect |
+|-----------------------------|--------|
+| Rigging hit                | -1 per hit |
+| Successful Tactics (Naval) | +1 |
+| Trailing Wind/magic        | +2 |
+| Magical contest            | Quick Contest; winner applies +2 |
 
 #### Tie Result:
-- Both ships fire **simultaneously** at **-1** to accuracy.
-- **Neither** may switch batteries that round.
-- No side holds Wind Gauge going into the next round.
+- Both sides fire **simultaneously** at **-1** to accuracy.
+- Neither can switch battery.
+- Wind Gauge resets next round.
 
 ---
 
 ### 🎖️ Wind Gauge Benefits
-
-If your ship holds the Wind Gauge:
-
-- **Fires first** each round
-- **+1 to Gunner (Cannon)** rolls
-- **Chooses which battery is facing the enemy**
-- **May attempt to change range** (see below)
+- Fires first
+- +1 to Gunner (Cannon)
+- Chooses battery (port/starboard)
+- May attempt to change range
 
 ---
 
 ## 📏 Range Bands
 
-Narrative positioning system with four abstract ranges.
+| Range     | Max Hit Rate | Modifier | Description |
+|-----------|--------------|----------|-------------|
+| Extreme   | 25%          | -4       | Ranging shots |
+| Long      | 50%          | -2       | Standard engagement |
+| Standard  | 100%         | +0       | Effective naval combat |
+| Close     | 100%         | +1       | Grapeshot, boarding range |
 
-| Range     | Max Hit Rate | Gunner (Cannon) Modifier | Description |
-|-----------|--------------|--------------------------|-------------|
-| Extreme   | 25%          | -4                       | Beyond standard long gun range |
-| Long      | 50%          | -2                       | Cautious engagement range |
-| Standard  | 100%         | +0                       | Normal broadside exchange |
-| Close     | 100%         | +1                       | Grapeshot, raking fire, boarding possible |
-
----
-
-### 🔁 Changing Range
-
-- Only the ship **with Wind Gauge** may attempt to change range.
-- Requires a **Seamanship** roll.
-
-| Result            | Effect                          |
-|-------------------|---------------------------------|
-| Success           | Move one band closer/farther    |
-| Failure           | No change                       |
-| Critical Failure  | GM may rule broadside misaligns or Wind Gauge lost next round
+- Only the ship **with Wind Gauge** may change range.
+- Seamanship roll: Success = shift range by 1 band.
 
 ---
 
-## 🧮 Firing a Broadside
+## 🧮 Firing Resolution
 
 ### 1. Gunner (Cannon) Roll
-- Roll once per battery.
-- Use crew skill (default: 12).
-- Apply modifiers for Wind Gauge, range, damage, morale, etc.
+- Skill: 12 (crew average)
+- Modifiers: Wind Gauge, range, morale, damage
 
 ### 2. Determine Hit Percentage
 
-| MoS (Margin of Success) | Hit Rate |
-|-------------------------|----------|
-| 0–1                     | 10%      |
-| 2–3                     | 25%      |
-| 4–5                     | 50%      |
-| 6–7                     | 75%      |
-| 8+                      | 100%     |
+| MoS | Hit Rate |
+|-----|----------|
+| 0–1 | 10% |
+| 2–3 | 25% |
+| 4–5 | 50% |
+| 6–7 | 75% |
+| 8+  | 100% |
 
-- Multiply by the number of operational guns (default 12 per battery).
-- Round down for actual number of hits.
+- Multiply by operational guns (default: 12 per battery).
+- Round down for number of hits.
 
-### 3. Roll Hit Location (1d per hit)
+### 3. Hit Location (1d per hit)
 
-| Roll | Location        | Effect |
-|------|------------------|--------|
-| 1–2  | Hull             | 6d ×2 crushing to ship HP |
-| 3    | Rigging/Sails    | -1 to Wind Gauge (cumulative) |
-| 4    | Deck Crew        | -10% Readiness |
-| 5    | Cannons          | 1d destroyed, reload delays possible |
-| 6    | Critical         | Roll on Critical Hit Table
+| Roll | Location      | Effect |
+|------|---------------|--------|
+| 1–2  | Hull          | Roll damage vs DR |
+| 3    | Rigging/Sails | -1 Wind Gauge (cumulative) |
+| 4    | Deck Crew     | -10% Readiness |
+| 5    | Cannons       | 1d destroyed, reload delay |
+| 6    | Critical      | See revised table |
 
 ---
 
-## 💥 Critical Hit Table
+## 💥 Damage & Penetration Mechanics
+
+- Assign **DR** to target ships based on class:
+
+| Class          | DR |
+|----------------|----|
+| Sloop/Brig     | 10 |
+| Frigate        | 20 |
+| Ship of the Line| 40–50 (Victory: 50) |
+
+- Cannon damage per calibre:
+  - 9-pounder: **6d×2**
+  - 18-pounder: **6d×3**
+  - 32-pounder: **6d×4**
+
+- **If damage does not exceed DR**, hit causes superficial damage only (no critical).
+
+---
+
+## 💥 Revised Critical Table (Penetrating Hits Only)
 
 | Roll | Effect |
 |------|--------|
-| 1    | **Fire on Deck** – Damage Control required |
-| 2    | **Steering Damaged** – Cannot change battery; -2 Wind Gauge |
-| 3    | **Magazine Rattle** – +1 round to next reload |
-| 4    | **PC/NPC Injured** – Random or dramatic selection |
-| 5    | **Rigging Collapse** – -3 Wind Gauge now, +1 next round if repaired |
-| 6    | **Mystical Event** – Stormcaller influence, spiritual echo, or other supernatural effect
+| 1    | Fire on deck |
+| 2    | Steering damaged |
+| 3    | Magazine disruption (+1 reload round) |
+| 4    | PC/NPC injury |
+| 5    | Rigging collapse |
+| 6    | Major hit (GM-determined severe effect, but no magic) |
 
-**Odds of a mystical event per hit:** 1/36 (2.78%)
-
----
-
-## 🚢 Ship Crew Stat Block (Template)
-
-Example: *Sojourner*
-
-| Attribute         | Value  | Notes |
-|------------------|--------|-------|
-| Seamanship       | 12     | Used for Wind Gauge, repairs, rigging |
-| Gunner (Cannon)  | 12     | Used for broadside accuracy |
-| Morale           | 11     | Modified by events, PC influence, Nyxie, etc. |
-| Readiness        | 100%   | Operational efficiency; affects reload and morale |
-| Reload Rate      | 3 rounds | Modified by Readiness |
-| Cannon Count     | 24 (12 per battery) | Track per side |
+- **Criticals occur only on penetrating hits**.
+- **Scale with battery size** (1 critical roll per 10 guns firing, rounded up).
 
 ---
 
-## 🛠 Battery Use
-
-- Ship may fire **one battery per round** (port or starboard).
-- Switching batteries requires:
-  - Declaring intent
-  - Spending a round to **maneuver**
-  - Seamanship roll (success = battery switched next round)
-
-- Battery may not be switched:
-  - If Wind Gauge not held
-  - On a tied Wind Gauge round
-  - If rigging severely damaged
+## 🚢 Sojourner's Context
+- Broadside: 12 × 9-pounders per side
+- Total Guns: 24
+- Class: Mid-range fifth-rate frigate (~late 18th century)
+- Quick, maneuverable, not designed to engage ships larger than a fourth-rate
+- Effective against brigs, light frigates; outgunned by heavy frigates or ships-of-the-line
 
 ---
 
-**Next Sections (in progress):**
-- Readiness Loss & Recovery
-- Morale System
-- Damage Control Actions
-- Disengagement and Chases
+## 🏹 Aiming Mechanics (Planned)
+To be added:
+- Called shots (rigging, rudder, magazine)
+- Called shot penalties
+- Bonus effects for targeted hits
 
+---
+
+This document is a **complete snapshot** of the system to date.
