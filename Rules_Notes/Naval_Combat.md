@@ -21,15 +21,10 @@ This system strikes a balance between realism and playability, ensuring that the
 Each side nominates a PC/NPC to roll Weather Sense
 
 | Weather Sense Result | Modiﬁer |
-
 |--------------------|-------|
-
 | Success | +1 |
-
 | Critical Success | +2 |
-
 | Failure | 0 |
-
 | Critical Failure | -1 |
 
 ### 🔁 Round 2+: Contesting the Wind
@@ -37,33 +32,23 @@ Each side nominates a PC/NPC to roll Weather Sense
 Both sides roll Contested Seamanship each round.
 
 | Modiﬁer | Eﬀect |
-
 |-------|-----|
-
 | Rigging hit | -1 per hit |
-
 | Successful Tactics (Naval) | +1 |
-
 | Magic Effect (eg. Trailing Wind)3 | +2 |
-
 | Handling Rating (HR) | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
 
 #### Tie Result:
 
 - Both sides fire simultaneously at -1 accuracy.
-
 - Neither may switch battery.
-
 - Wind Gauge resets.
 
 ### 🎖️ Wind Gauge Benefits
 
 - Fires first
-
 - +1 to Gunner (Cannon)
-
 - Chooses battery (port/starboard)
-
 - May attempt to change range
 
 ## 🧮 Firing Resolution
@@ -71,29 +56,20 @@ Both sides roll Contested Seamanship each round.
 ### 1. Gunner (Cannon) Roll
 
 - Skill: Average crew 12, but can vary.
-
 - Apply modifiers: Wind Gauge, range, morale, damage
-
 - Margin of Success (MoS)¹ determines the hit rate.
 
 ### 2. Hit Percentage
 
 | MoS | Hit Rate |
-
 |---|--------|
-
 | 0–1 | 10% |
-
 | 2–3 | 25% |
-
 | 4–5 | 50% |
-
 | 6–7 | 75% |
-
 | 8+ | 100% |
 
 - Multiply by operational guns.
-
 - Round down.
 
 ### 3. Base Damage
@@ -101,21 +77,13 @@ Both sides roll Contested Seamanship each round.
 - The vast difference in firepower between ship classes makes it clear that engaging a larger opponent can be suicidal.
 
 | Gun Calibre (in lbs) | Damage (Crushing) |
-
 |--------------------|-----------------|
-
 | 4 | 4d+1 |
-
 | 6 | 5d-1 |
-
 | 9 (Sojourner) | 6d |
-
 | 12 | 7d+1 |
-
 | 18 | 8d+2 |
-
 | 24 | 9d+2 |
-
 | 32 | 10d+3 |
 
 ### 4. Penetrating Hits
@@ -123,19 +91,12 @@ Both sides roll Contested Seamanship each round.
 - In order to inflict significant damage, shots must penetrate hull armour:
 
 | Ship Class | Hull DR |
-
 |----------|-------|
-
 | Sloop/Brig | 10-20 |
-
 | Frigate (UPS Sojourner) | 30 |
-
 | 4th Rate | 40 |
-
 | 3rd Rate | 55 |
-
 | 2nd Rate | 70 |
-
 | 1st Rate (HMS Victory) | 80 |
 
 ### 5. Reloading
