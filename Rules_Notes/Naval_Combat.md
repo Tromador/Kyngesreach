@@ -203,6 +203,7 @@ Both sides roll Contested Seamanship each round.
 
 - Mast purposes have been much simplified, to make them distinctive.
 - 2 mast ships are considered to have a fore and main.
+  
 | Mast Lost | Eﬀect |
 |---------|-----|
 | Foremast | Cannot sail upwind; -2 Wind Gauge, +2 to hit for enemy |
