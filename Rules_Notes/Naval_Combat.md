@@ -124,7 +124,6 @@ Both sides roll **Contested Seamanship** each round.
 
 - Each penetrating hit inflicts damage; mast collapses after **3+ penetrating hits**.
 - All aimed shots require **Standard or Close range**.
-- Bar shot has **-6** aiming penalty to reflect extreme difficulty.
 
 ---
 
