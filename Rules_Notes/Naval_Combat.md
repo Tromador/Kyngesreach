@@ -97,7 +97,12 @@ Both sides roll **Contested Seamanship** each round.
 | Reload with current ammo             | 3 rounds |
 | Reload empty gun with new ammo type  | 4 rounds |
 | Reload loaded gun with new ammo type | 5 rounds |
+## 📦 Reload Time Modifiers (boxed rule)
 
+- PCs or NPCs may attempt a **Leadership (Naval)** or **Tactics (Naval)** check to coordinate faster reloads.
+- A **Margin of Success (MoS) of 4+** reduces **reload time by 1 round** for the next volley.
+- **Pre-battle readiness** (e.g., powder and shot prepped) may also grant a **-1 round reload bonus for the first volley only**.
+- This bonus **does not stack** with other modifiers and must be declared in advance.
 ---
 
 ## 🌬️ Rigging & Sails Damage – HP System
