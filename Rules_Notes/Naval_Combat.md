@@ -234,3 +234,37 @@ Both sides roll **Contested Seamanship** each round.
 ## 🧙‍♂️ Magical Wind Effects (Conditional)
 - If one side uses a magical wind spell, gain +2 Wind Gauge.
 - If both sides use magic, stronger effect wins; ties resolved by GM or Quick Contest.
+
+[START OF CONVERTED MARKDOWN]
+
+# 🌬️ Initiative & Position – Wind Gauge
+
+## 📅 Round 1: Reading the Weather
+Each side nominates a PC/NPC to roll **Weather Sense**.
+
+| Weather Sense Result | Modifier |
+|----------------------|----------|
+| Success              | +1 |
+| Critical Success     | +2 |
+| Failure              | 0 |
+| Critical Failure     | -1 |
+
+## 🔁 Round 2+: Contesting the Wind
+Both sides roll **Contested Seamanship** each round.
+
+| Modifier | Effect |
+|----------|--------|
+| Rigging hit | -1 per hit |
+| Successful Tactics (Naval) | +1 |
+| Trailing Wind/magic active | +2 |
+| Magical contest | GM adjudication or Quick Contest |
+| Handling Rating (HR) | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
+
+## 📖 Footnotes
+1. **MoS (Margin of Success)** – Difference between effective skill and roll result.
+2. **HIP (Hull Integrity Points)** – Cumulative measure of hull structural integrity; 0 = ship sinks.
+3. If one side uses a magical wind spell, gain +2 Wind Gauge.
+4. If both sides use magic, stronger effect wins; ties resolved by GM or Quick Contest.
+
+[END OF CONVERTED MARKDOWN]
+
