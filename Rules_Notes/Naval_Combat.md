@@ -56,7 +56,7 @@ Both sides roll **Contested Seamanship** each round.
 ### 1. Gunner (Cannon) Roll
 - Skill: 12 (crew average)
 - Apply modifiers: Wind Gauge, range, morale, damage
-- Margin of Success (MoS) determines the hit rate.
+- Margin of Success (MoS)¹ determines the hit rate.
 
 ### 2. Hit Percentage
 | MoS | Hit Rate |
@@ -133,17 +133,12 @@ Both sides roll **Contested Seamanship** each round.
 
 ---
 
-## 🚢 Internal Damage System – Hull Integrity Points (HIP)
+## 🚢 Internal Damage System – Hull Integrity Points (HIP)²
 
 ### Concept
-- Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**:  
-\[
-PS = \text{Damage Rolled} - \text{Ship DR}
-\]
-- HIP loss per hit:  
-\[
-\text{HIP Loss} = \min(\text{PS}, 50)
-\]
+Each penetrating hull hit reduces **HIP** based on **penetration strength (PS)**:  
+- PS = Damage Rolled – Ship DR  
+- HIP Loss = the smaller of PS or 50 (HIP Loss = min(PS, 50))
 
 | Penetration Strength (PS) | HIP Loss |
 |----------------------------|----------|
@@ -170,8 +165,20 @@ PS = \text{Damage Rolled} - \text{Ship DR}
 | 0–10%        | Rapid sinking, inevitable loss |
 | 0            | Ship founders and sinks |
 
-### Footnote
-¹ **Hull Integrity Points (HIP):** A numerical measure of a ship’s overall structural integrity, representing the cumulative effect of penetrating hits to the hull. When HIP is reduced to zero, the ship founders and sinks.
+---
+
+### Footnotes
+¹ **Margin of Success (MoS):** The difference between your effective skill and your actual die roll result. For example, if your modified skill is 12 and you roll a 9, your MoS is 3. The greater your MoS, the better your performance. Use the following hit rate table based on MoS:
+
+| MoS | Hit Rate |
+|-----|----------|
+| 0–1 | 10% |
+| 2–3 | 25% |
+| 4–5 | 50% |
+| 6–7 | 75% |
+| 8+  | 100% |
+
+² **Hull Integrity Points (HIP):** A numerical measure of a ship’s overall structural integrity, representing the cumulative effect of penetrating hits to the hull. When HIP is reduced to zero, the ship founders and sinks.
 
 ---
 
