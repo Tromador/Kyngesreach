@@ -1,4 +1,4 @@
-# ⚓ Kyngesreach Naval Combat Rules (v1.1)
+# ⚓ Kyngesreach Naval Combat Rules (v1.2)
 
 A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, focusing on realism, tactical engagement, and historical plausibility.
 
@@ -56,9 +56,10 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ### 1. Gunner (Cannon) Roll
 - Skill: 12 (crew average)
 - Apply modifiers: Wind Gauge, range, morale, damage
+- Margin of Success¹ determines the hit rate.
 
 ### 2. Hit Percentage
-| MoS | Hit Rate |
+| MoS¹ | Hit Rate |
 |-----|----------|
 | 0–1 | 10% |
 | 2–3 | 25% |
@@ -73,10 +74,10 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 | Roll | Location      | Effect |
 |------|---------------|--------|
 | 1–2  | Hull          | Damage vs DR |
-| 3    | Rigging/Sails | -1 Wind Gauge (stacking) |
+| 3    | Rigging/Sails | See Sail Damage |
 | 4    | Deck Crew     | -10% Readiness |
 | 5    | Cannons       | 1d destroyed, reload delay |
-| 6    | Critical      | See revised table |
+| 6    | Critical      | See Critical Table |
 
 ---
 
@@ -110,12 +111,12 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ## 🏹 Aiming & Ammunition
 
 ### Target Areas & Required Ammo
-| Target          | Ammo      | Modifier | Effect |
-|-----------------|-----------|----------|--------|
-| Rudder          | Round     | -2 | Steering disabled |
-| Rigging/Sails   | Chain     | -2 | -1 Wind Gauge per hit; immobilise at 3+ |
-| Masts/Spars     | Bar       | -3 | Mast/spar collapse |
-| Deck Crew       | Grape     | -3 | -10% Readiness per hit; chance of officer injury |
+| Target          | Ammo      | Penalty | Effect |
+|-----------------|-----------|---------|--------|
+| Rudder          | Round     | -3 | Steering disabled |
+| Rigging/Sails   | Chain     | -3 | See Sail Damage |
+| Masts/Spars     | Bar       | -6 | Mast/spar collapse |
+| Deck Crew       | Grape     | -3 | -10% Readiness per hit; officer injury chance |
 
 - **Magazine hits are not available as called shots**; catastrophic results occur only from exceptional criticals.
 
@@ -128,7 +129,45 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 | Reload empty gun with new ammo type  | 4 rounds |
 | Reload loaded gun with new ammo type | 5 rounds |
 
-- The powder charge remains for loaded guns; only the shot is swapped.
+---
+
+## 🌬️ Rigging & Sails Damage – HP System
+
+### 📘 Sail HP by Ship Class
+| Ship Class        | Sail HP |
+|-------------------|---------|
+| Sloop/Brig        | 100 |
+| Frigate (Sojourner)| 200 |
+| Ship-of-the-Line  | 400 |
+
+### 📏 Damage per Penetrating Hit
+| Cannon Calibre | Sail Damage |
+|----------------|-------------|
+| 9-pounder      | 10 HP |
+| 18-pounder     | 20 HP |
+| 32-pounder     | 40 HP |
+
+- Chain shot is required to target rigging/sails.
+- Standard -3 aiming penalty applies.
+
+### 🔥 Effects by Sail HP Loss
+| Sail HP Loss (% of Total) | Effect |
+|---------------------------|--------|
+| 25%                       | -1 Wind Gauge |
+| 50%                       | -2 Wind Gauge |
+| 75%                       | -4 Wind Gauge (crippled but can still roll) |
+| 100%                      | Immobilised; jury rigging required to move |
+
+---
+
+## 🌲 Dismasting Effects
+| Mast Lost    | Effect |
+|--------------|--------|
+| Foremast     | Cannot sail upwind; +2 to hit for enemy |
+| Mainmast     | Major sail loss; +3 to hit for enemy |
+| Mizzenmast   | Steering loss; +1 to hit for enemy |
+| Any 2 masts  | Auto-loss of Wind Gauge; +5 to hit |
+| All masts    | Total dismasting; sitting duck |
 
 ---
 
@@ -143,9 +182,17 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ## 🧙‍♂️ Magical Wind Effects (Conditional)
 - Magical Wind contests (e.g., Biele vs. Stormcaller) resolved via:
   - Quick Contest of spell skills, or
-  - GM adjudication if magic strength is clearly mismatched
+  - GM adjudication if magic strength is mismatched
 - Applied only if both sides field magical wind-control effects.
 
 ---
 
-This **complete snapshot** is ready for player distribution and integration into Kyngesreach sessions.
+¹ **Margin of Success (MoS)**: The difference between your effective skill and your actual die roll result. For example, if your modified skill is 12 and you roll a 9, your MoS is 3. The greater your MoS, the better your performance. Use the following hit rate table based on MoS:
+
+| MoS | Hit Rate |
+|-----|----------|
+| 0–1 | 10% |
+| 2–3 | 25% |
+| 4–5 | 50% |
+| 6–7 | 75% |
+| 8+  | 100% |
