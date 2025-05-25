@@ -1,43 +1,34 @@
-# ⚓ Kyngesreach Naval Combat Rules (WIP v1.0)
+# ⚓ Kyngesreach Naval Combat Rules (v1.1)
 
-A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, with a focus on realism, tactical engagement, and historical plausibility.
+A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, focusing on realism, tactical engagement, and historical plausibility.
 
 ---
 
 ## 🌬️ Wind Gauge – Initiative & Position
 
 ### 📅 Round 1: Reading the Weather
-
 - Each side nominates a PC/NPC to roll **Weather Sense**.
-- Determines initial Wind Gauge advantage.
-
-| Weather Sense Result | Modifier to Wind Gauge |
-|----------------------|------------------------|
-| Success              | +1                     |
-| Critical Success     | +2                     |
-| Failure              | 0                      |
-| Critical Failure     | -1                     |
-
----
+| Weather Sense Result | Modifier |
+|----------------------|----------|
+| Success              | +1 |
+| Critical Success     | +2 |
+| Failure              | 0 |
+| Critical Failure     | -1 |
 
 ### 🔁 Round 2+: Contesting the Wind
-
 - Both sides roll **Contested Seamanship** each round.
-- Only modifiers:
-
-| Modifier                    | Effect |
-|-----------------------------|--------|
-| Rigging hit                | -1 per hit |
-| Successful Tactics (Naval) | +1 |
-| Trailing Wind/magic        | +2 |
-| Magical contest            | Quick Contest; winner applies +2 |
+| Modifier                     | Effect |
+|------------------------------|--------|
+| Rigging hit                 | -1 per hit |
+| Successful Tactics (Naval)  | +1 |
+| Trailing Wind/magic active  | +2 |
+| Magical contest             | GM adjudication or Quick Contest |
+| Handling Rating (HR)        | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
 
 #### Tie Result:
 - Both sides fire **simultaneously** at **-1** to accuracy.
-- Neither can switch battery.
-- Wind Gauge resets next round.
-
----
+- Neither may switch battery.
+- Wind Gauge resets.
 
 ### 🎖️ Wind Gauge Benefits
 - Fires first
@@ -48,16 +39,15 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ---
 
 ## 📏 Range Bands
-
-| Range     | Max Hit Rate | Modifier | Description |
-|-----------|--------------|----------|-------------|
-| Extreme   | 25%          | -4       | Ranging shots |
-| Long      | 50%          | -2       | Standard engagement |
-| Standard  | 100%         | +0       | Effective naval combat |
-| Close     | 100%         | +1       | Grapeshot, boarding range |
+| Range     | Max Hit Rate | Modifier |
+|-----------|--------------|----------|
+| Extreme   | 25%          | -4 |
+| Long      | 50%          | -2 |
+| Standard  | 100%         | +0 |
+| Close     | 100%         | +1 |
 
 - Only the ship **with Wind Gauge** may change range.
-- Seamanship roll: Success = shift range by 1 band.
+- Seamanship roll: success = shift by 1 band.
 
 ---
 
@@ -65,10 +55,9 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 
 ### 1. Gunner (Cannon) Roll
 - Skill: 12 (crew average)
-- Modifiers: Wind Gauge, range, morale, damage
+- Apply modifiers: Wind Gauge, range, morale, damage
 
-### 2. Determine Hit Percentage
-
+### 2. Hit Percentage
 | MoS | Hit Rate |
 |-----|----------|
 | 0–1 | 10% |
@@ -77,15 +66,14 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 | 6–7 | 75% |
 | 8+  | 100% |
 
-- Multiply by operational guns (default: 12 per battery).
-- Round down for number of hits.
+- Multiply by operational guns (12 per battery for Sojourner).
+- Round down.
 
 ### 3. Hit Location (1d per hit)
-
 | Roll | Location      | Effect |
 |------|---------------|--------|
-| 1–2  | Hull          | Roll damage vs DR |
-| 3    | Rigging/Sails | -1 Wind Gauge (cumulative) |
+| 1–2  | Hull          | Damage vs DR |
+| 3    | Rigging/Sails | -1 Wind Gauge (stacking) |
 | 4    | Deck Crew     | -10% Readiness |
 | 5    | Cannons       | 1d destroyed, reload delay |
 | 6    | Critical      | See revised table |
@@ -93,37 +81,54 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ---
 
 ## 💥 Damage & Penetration Mechanics
-
-- Assign **DR** to target ships based on class:
-
 | Class          | DR |
 |----------------|----|
 | Sloop/Brig     | 10 |
 | Frigate        | 20 |
 | Ship of the Line| 40–50 (Victory: 50) |
 
-- Cannon damage per calibre:
-  - 9-pounder: **6d×2**
-  - 18-pounder: **6d×3**
-  - 32-pounder: **6d×4**
+| Calibre       | Damage |
+|---------------|--------|
+| 9-pounder     | 6d×2 |
+| 18-pounder    | 6d×3 |
+| 32-pounder    | 6d×4 |
 
-- **If damage does not exceed DR**, hit causes superficial damage only (no critical).
+- Only **penetrating hits** (damage > DR) can trigger criticals.
 
----
-
-## 💥 Revised Critical Table (Penetrating Hits Only)
-
+### Revised Critical Table
 | Roll | Effect |
 |------|--------|
 | 1    | Fire on deck |
 | 2    | Steering damaged |
-| 3    | Magazine disruption (+1 reload round) |
+| 3    | Magazine disruption |
 | 4    | PC/NPC injury |
 | 5    | Rigging collapse |
-| 6    | Major hit (GM-determined severe effect, but no magic) |
+| 6    | Major hit (GM-determined severe effect) |
 
-- **Criticals occur only on penetrating hits**.
-- **Scale with battery size** (1 critical roll per 10 guns firing, rounded up).
+---
+
+## 🏹 Aiming & Ammunition
+
+### Target Areas & Required Ammo
+| Target          | Ammo      | Modifier | Effect |
+|-----------------|-----------|----------|--------|
+| Rudder          | Round     | -2 | Steering disabled |
+| Rigging/Sails   | Chain     | -2 | -1 Wind Gauge per hit; immobilise at 3+ |
+| Masts/Spars     | Bar       | -3 | Mast/spar collapse |
+| Deck Crew       | Grape     | -3 | -10% Readiness per hit; chance of officer injury |
+
+- **Magazine hits are not available as called shots**; catastrophic results occur only from exceptional criticals.
+
+---
+
+### 🔄 Ammunition Switching – Simplified Timing
+| Action                               | Time |
+|--------------------------------------|------|
+| Reload with current ammo             | 3 rounds |
+| Reload empty gun with new ammo type  | 4 rounds |
+| Reload loaded gun with new ammo type | 5 rounds |
+
+- The powder charge remains for loaded guns; only the shot is swapped.
 
 ---
 
@@ -131,17 +136,16 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 - Broadside: 12 × 9-pounders per side
 - Total Guns: 24
 - Class: Mid-range fifth-rate frigate (~late 18th century)
-- Quick, maneuverable, not designed to engage ships larger than a fourth-rate
-- Effective against brigs, light frigates; outgunned by heavy frigates or ships-of-the-line
+- Quick, maneuverable, but not suited for line battles against heavier ships
 
 ---
 
-## 🏹 Aiming Mechanics (Planned)
-To be added:
-- Called shots (rigging, rudder, magazine)
-- Called shot penalties
-- Bonus effects for targeted hits
+## 🧙‍♂️ Magical Wind Effects (Conditional)
+- Magical Wind contests (e.g., Biele vs. Stormcaller) resolved via:
+  - Quick Contest of spell skills, or
+  - GM adjudication if magic strength is clearly mismatched
+- Applied only if both sides field magical wind-control effects.
 
 ---
 
-This document is a **complete snapshot** of the system to date.
+This **complete snapshot** is ready for player distribution and integration into Kyngesreach sessions.
