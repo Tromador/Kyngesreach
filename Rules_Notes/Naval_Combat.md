@@ -264,6 +264,9 @@ Both sides roll Contested Seamanship each round.
 ### Footnotes
 
 ¹ Margin of Success (MoS): Difference between effective skill and roll result.
+
 ² Hull Integrity Points (HIP): Cumulative measure of hull structural integrity; 0 = ship sinks.
+
 ³ If one side uses a magical wind spell, gain +2 Wind Gauge.
+
   If both sides use magic, stronger effect wins; ties resolved by GM or Quick Contest.
