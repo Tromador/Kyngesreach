@@ -1,4 +1,4 @@
-# ⚓ Kyngesreach Naval Combat Rules (v1.2)
+# ⚓ Kyngesreach Naval Combat Rules (v1.3)
 
 A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, focusing on realism, tactical engagement, and historical plausibility.
 
@@ -7,7 +7,7 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ## 🌬️ Wind Gauge – Initiative & Position
 
 ### 📅 Round 1: Reading the Weather
-- Each side nominates a PC/NPC to roll **Weather Sense**.
+Each side nominates a PC/NPC to roll **Weather Sense**.  
 | Weather Sense Result | Modifier |
 |----------------------|----------|
 | Success              | +1 |
@@ -16,17 +16,17 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 | Critical Failure     | -1 |
 
 ### 🔁 Round 2+: Contesting the Wind
-- Both sides roll **Contested Seamanship** each round.
-| Modifier                     | Effect |
-|------------------------------|--------|
-| Rigging hit                 | -1 per hit |
-| Successful Tactics (Naval)  | +1 |
-| Trailing Wind/magic active  | +2 |
-| Magical contest             | GM adjudication or Quick Contest |
-| Handling Rating (HR)        | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
+Both sides roll **Contested Seamanship** each round.  
+| Modifier | Effect |
+|----------|--------|
+| Rigging hit | -1 per hit |
+| Successful Tactics (Naval) | +1 |
+| Trailing Wind/magic active | +2 |
+| Magical contest | GM adjudication or Quick Contest |
+| Handling Rating (HR) | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
 
 #### Tie Result:
-- Both sides fire **simultaneously** at **-1** to accuracy.
+- Both sides fire **simultaneously** at **-1** accuracy.
 - Neither may switch battery.
 - Wind Gauge resets.
 
@@ -108,21 +108,27 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 
 ---
 
-## 🏹 Aiming & Ammunition
+## 🏹 Aiming & Called Shots – Final Mechanics
+| Target          | Ammo      | Aiming Penalty | Range Restriction | DR |
+|-----------------|-----------|----------------|-------------------|----|
+| Rudder          | Round     | -3             | Standard/Close    | Ship DR |
+| Rigging/Sails   | Chain     | -3             | Standard/Close    | 10 |
+| Masts/Spars     | Bar       | -6             | Standard/Close    | See below |
+| Deck Crew       | Grape     | -3             | Standard/Close    | n/a |
 
-### Target Areas & Required Ammo
-| Target          | Ammo      | Penalty | Effect |
-|-----------------|-----------|---------|--------|
-| Rudder          | Round     | -3 | Steering disabled |
-| Rigging/Sails   | Chain     | -3 | See Sail Damage |
-| Masts/Spars     | Bar       | -6 | Mast/spar collapse |
-| Deck Crew       | Grape     | -3 | -10% Readiness per hit; officer injury chance |
+| Ship Class        | Foremast DR | Mainmast DR | Mizzenmast DR |
+|-------------------|-------------|-------------|---------------|
+| Sloop/Brig        | 15          | 20          | 15            |
+| Frigate (Sojourner)| 20          | 25          | 20            |
+| Ship-of-the-Line  | 25          | 30          | 25            |
 
-- **Magazine hits are not available as called shots**; catastrophic results occur only from exceptional criticals.
+- Each penetrating hit inflicts damage; mast collapses after **3+ penetrating hits**.
+- All aimed shots require **Standard or Close range**.
+- Bar shot has **-6** aiming penalty to reflect extreme difficulty.
 
 ---
 
-### 🔄 Ammunition Switching – Simplified Timing
+### 🔄 Ammunition Switching
 | Action                               | Time |
 |--------------------------------------|------|
 | Reload with current ammo             | 3 rounds |
@@ -132,31 +138,24 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 ---
 
 ## 🌬️ Rigging & Sails Damage – HP System
-
-### 📘 Sail HP by Ship Class
 | Ship Class        | Sail HP |
 |-------------------|---------|
 | Sloop/Brig        | 100 |
 | Frigate (Sojourner)| 200 |
 | Ship-of-the-Line  | 400 |
 
-### 📏 Damage per Penetrating Hit
 | Cannon Calibre | Sail Damage |
 |----------------|-------------|
 | 9-pounder      | 10 HP |
 | 18-pounder     | 20 HP |
 | 32-pounder     | 40 HP |
 
-- Chain shot is required to target rigging/sails.
-- Standard -3 aiming penalty applies.
-
-### 🔥 Effects by Sail HP Loss
 | Sail HP Loss (% of Total) | Effect |
 |---------------------------|--------|
 | 25%                       | -1 Wind Gauge |
 | 50%                       | -2 Wind Gauge |
 | 75%                       | -4 Wind Gauge (crippled but can still roll) |
-| 100%                      | Immobilised; jury rigging required to move |
+| 100%                      | Immobilised; jury rigging required |
 
 ---
 
@@ -167,7 +166,7 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 | Mainmast     | Major sail loss; +3 to hit for enemy |
 | Mizzenmast   | Steering loss; +1 to hit for enemy |
 | Any 2 masts  | Auto-loss of Wind Gauge; +5 to hit |
-| All masts    | Total dismasting; sitting duck |
+| All masts    | Total dismasting; ship adrift |
 
 ---
 
