@@ -102,3 +102,22 @@ The Iron Tide serves as:
 They are not monsters. But they *are* predators—and the Reach is their feeding ground.
 
 ---
+# ⚑ Lore of the Iron Tide Colours
+
+## Origins
+The flag now feared throughout the **Kyngesreach Archipelago** first appeared some thirty years ago, though its exact origins are lost amid the shifting currents and silenced tongues of the Reach. Most say it was raised by **Captain Red Grelth**, an infamous figure whose ship *Severance* bore the first crimson kraken banner. Grelth’s design was a bold statement, declaring war not on any navy but on the very *order* of the archipelago—a defiant symbol meant to cow rival pirate bands, intimidate local traders, and mark the Iron Tide as rulers of the ungoverned sea.
+
+## Symbolism
+- The **red kraken** signifies the Iron Tide’s stranglehold over lesser crews. Its hooked tentacles are said to represent the entrapment of rival ships, while the skull-like visage warns that surrender is the only alternative to ruin.
+- The kraken also evokes whispered local legends of *Thalvash*, an ancient, unseen leviathan said to haunt the deeps of the Kyngesreach. Whether or not the Iron Tide actually reveres or fears this creature is unknown—but its presence on the flag is enough to unnerve sailors familiar with the tales.
+- The **black background** symbolizes the shadowy, lawless nature of the Iron Tide. It’s also practical, blending into the mist and nightfall of the archipelago’s dangerous waters.
+- The **red waves** at the flag’s base are a subtle nod to the bloodshed that accompanies the Iron Tide’s expansion. Some say they mark the boundaries of their claimed hunting grounds.
+
+## Meaning to Sailors (Kyngesreach Only)
+Within the archipelago, spotting the **Iron Tide flag** is akin to seeing a stormcloud brimming with lightning—it signals that death or surrender is imminent. Its appearance is whispered of among the smaller island communities and independent sailors as a dark omen. Few outside the Reach would recognize it, but within these waters, it’s a mark of fear.
+
+Old Reach sayings, carried from island to island by half-mad drifters and fugitive merchants, murmur:
+
+> *“When the kraken rises, the sea’s no longer yours.”*
+
+Among Iron Tide crews, the flag is a badge of honour and loyalty, proclaiming their dominion over uncharted waters and their independence from any law but their own. Some even believe the flag carries a subtle blessing—warding off the wrath of the deep or ensuring safe passage through treacherous channels.
