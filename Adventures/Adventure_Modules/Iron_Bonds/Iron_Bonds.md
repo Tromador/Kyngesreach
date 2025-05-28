@@ -5,6 +5,24 @@
 The Sojourner encounters the Iron Tide pirates for the first time when they come across an Iron Tide brig attacking a merchant ship. After a dangerous rescue operation, the crew unknowingly picks up disguised pirates among the survivors, setting the stage for mutiny. The adventure spotlights both naval combat and diplomatic skills, particularly giving Calloway opportunities to shine, while also introducing a young herbalist/alchemist NPC.
 
 ---
+## Introduction - Godfrey's Speech
+
+*(Godfrey stands at the quarterdeck, his steady gaze sweeping the crew as the morning light catches the sails. His voice, firm and measured, carries over the ship’s deck.)*
+
+“Crew of the Sojourner—listen.  
+We’ve faced more than most crews could endure, and we’ve come through—not by chance, but by resolve and discipline. 
+When shadows whispered below decks, it was unity that saw us through. 
+When strange lands tempted us to lose our way, we kept to our course and faced what lay beyond the reefs with clear eyes and steady hands.
+
+We’ve seen men stranded beyond the reach of time, and we’ve stood together when the sea itself seemed to rise against us. 
+We faced foes who knew no fear, and when the beasts of the land lent their strength to ours, it was not charity—it was respect for those who refused to bend.
+
+Today, I won’t tell you it will be easy, or certain. 
+But this ship is built not just of timber and sail—it’s made of the bond between each of us. 
+Keep to your duties. Stand firm in your trust of one another. That is how we sail. That is how we endure.”
+
+*(A final, resolute nod. Godfrey’s hand lifts, signaling the helmsman, and the ship begins to make way.)*
+
 
 ## Scene 1: Distress on the Horizon (Naval Engagement)
 
