@@ -196,11 +196,9 @@ Above, the groaning timbers warn of the brig’s imminent demise. The searchers 
 
 # 👧 Adwen – Alchemist Girl Backstory
 
-# 👧 Adwen – Alchemist Girl Expanded Backstory
-
 **Name:** Adwen  
 **Age:** 13  
-**Origin:** Native of the small, isolated village of **Tathryn's Cove**, a settlement hidden deep within the Kyngesreach. Raised amid dense jungle and coastal bluffs, Adwen learned the basics of herbalism and alchemy from the village healer, **Eris Tathryn**, a stern but knowledgeable woman with a knack for wild plants and simple remedies.
+**Origin:** Native of the small, isolated village of **Tathryn's Cove**, a settlement hidden deep within the Kyngesreach. Raised amid dense jungle and coastal bluffs, Adwen learned the basics of herbalism and alchemy from the village healer, **Eris Marthen**, a stern but knowledgeable woman with a knack for wild plants and simple remedies.
 
 Adwen’s talent with herbs and her careful, deliberate approach earned her an apprenticeship of sorts, but her education was cut short when she was abducted by the Iron Tide during a raid on her village. The pirates recognised her skills and forced her aboard the brig, where she was set to work brewing basic potions and maintaining the ship’s limited stores of healing herbs.
 
