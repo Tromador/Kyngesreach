@@ -6,7 +6,7 @@ The **UPS Sojourner** is a Union of Principalities Navy frigate, designed for ex
 ## Role and Mission
 - Commissioned by the **Union of Principalities Navy** for the **Archipelago Expedition**.
 - Tasked with charting unknown waters, establishing trade contacts, and handling potential threats.
-- Though an official UPN vessel, her crew is largely recruited from **Varenza**, giving her a distinct identity within the fleet.
+- Though an official UPS vessel, her crew is largely recruited from **Varenza**, giving her a distinct identity within the fleet.
 
 ## Notable Traits
 - Considered one of the most agile ships in the Union’s fleet, ideal for high-risk ventures.
