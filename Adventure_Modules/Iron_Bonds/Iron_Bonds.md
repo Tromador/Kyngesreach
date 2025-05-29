@@ -263,17 +263,77 @@ The Morningstar crew believes they’ve only been missing for days, but their sh
 
 ---
 
-## Scene 3: Hidden Agendas (Seeds of Mutiny)
+# Scene 3: Fractures Below Decks
 
-- **Setup:**  
-  In the following hours or days, the rescued Iron Tide infiltrators quietly observe and identify disaffected crew members (notably Torrin, and other pressed men or criminals).
+## Overview
+A sudden sabotage incident throws the ship into chaos. Torrin becomes the prime suspect, but his guilt—or innocence—is a pivot point shaped by player actions, particularly Morgan’s. Meanwhile, background suspicions mount as mutiny brews unseen.
 
-- **Event details:**  
-  - Iron Tide infiltrators subtly encourage discontent, seeding a potential mutiny against naval hierarchy aboard Sojourner.  
-  - Tensions grow gradually, initially unnoticed by most officers.
+"Why do you care what happens to me, Lieutenant? Men like me—if we get to stand tall, it’s only on a noose."
+---
 
-- **Diplomatic Spotlight (Calloway):**  
-  Calloway notices subtle shifts—uneasy crew members, whispered conversations, minor incidents. He uses diplomacy, careful observation, and interpersonal skill to investigate and manage growing tensions.
+## Scene Flow
+
+### 🔥 Inciting Incident – Sabotage in the Hold
+- **Setup**: Crew discovers smouldering slow fuse and sabotage in the powder hold (or key ship system).
+- **Response**: Players must:
+  - Extinguish threat (DX/Seamanship/Strength rolls).
+  - Secure the area and prevent panic.
+- **Immediate Consequences**:
+  - Rumours spread: “Who did it?”
+  - Torrin is seen nearby, either genuinely helping or coincidentally present.
+
+### 🎭 Torrin in the Spotlight
+- **Accusations**: Crew suspect Torrin due to his past flogging and rough reputation.
+- **Morgan’s Role**:  
+  - **Approach Options**:
+    - Direct confrontation (Leadership/Diplomacy, default to IQ+1).
+    - Subtle trust-building (Savoir-Faire, Observation).
+  - **Outcome**:
+    - **Success**: Torrin reveals someone is framing him or points toward a suspicious crew member.
+    - **Failure**: Torrin clams up, or lashes out, setting him on a path to mutiny.
+    - **Ignored**: Torrin becomes a likely figurehead for rebellion.
+- **Dialogue Prompts**:
+    - Morgan: "You’ve got steel in your spine, Torrin. Don’t waste it being their pawn. Talk to me."
+    - Torrin: "I’m no traitor. But if you think the danger’s over, you’re blind to the shadows on this deck."
+
+### 🕵️ Background Suspicion – Calloway’s Thread
+- **Subtle Clues**:
+  - Whispers of “fair shares,” coded gestures, shifting loyalties.
+  - Missing supplies, sabotaged lines, suspicious shipboard behavior.
+- **Skill Checks**:
+  - **Streetwise, Observation, Detect Lies, Savoir-Faire (High Society)**.
+  - **Successful checks increment the Suspicion Meter** (hidden to players).
+- **NPC Hints**:
+  - “That old dog Torrin’s been talking in quiet corners lately.”
+  - “Funny how that barrel vanished without a trace, eh?”
+
+### 🎲 Suspicion Meter Mechanics
+| Meter Level | Effect |
+|-------------|--------|
+| 0–1 | Background unease; crew edgy but no solid evidence. |
+| 2–3 | Strong hints of conspiracy; players can act early. |
+| 4–5 | Mutiny erupts in Scene 4, catching players off guard. |
+| **Torrin’s Role** | Determined by Morgan’s choices and rolls.|
+
+### ⚙️ Scene Resolution
+- **Players succeed**: Torrin swayed to loyalty; mutiny weakened or preempted.
+- **Players fail/ignore**: Torrin either becomes a leader for the mutiny or a pawn, and the rebellion gains strength.
+- **Transition to Scene 4**: The crisis escalates, and mutiny becomes inevitable or narrowly averted.
+
+---
+
+## GM Sidebar Notes
+- Keep the mutiny’s undercurrents subtle but mounting.
+- Reward player proactivity (Morgan’s engagement, Calloway’s observation).
+- Torrin should feel like a real, conflicted person—not a one-note traitor or scapegoat.
+- Build social tension naturally through NPC interactions and environmental cues.
+
+---
+
+## Summary
+This scene brings the powder keg to the brink. The players are not passive—they shape who will stand with them or against them when the mutiny explodes in Scene 4.
+
+
 
 ---
 
