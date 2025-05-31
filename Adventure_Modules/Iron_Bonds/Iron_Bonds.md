@@ -267,8 +267,8 @@ The Morningstar crew believes they’ve only been missing for days, but their sh
 
 ## Overview
 A sudden sabotage incident throws the ship into chaos. Torrin becomes the prime suspect, but his guilt—or innocence—is a pivot point shaped by player actions, particularly Morgan’s. Meanwhile, background suspicions mount as mutiny brews unseen.
-
 "Why do you care what happens to me, Lieutenant? Men like me—if we get to stand tall, it’s only on a noose."
+
 ---
 
 ## Scene Flow
@@ -295,17 +295,149 @@ A sudden sabotage incident throws the ship into chaos. Torrin becomes the prime 
 - **Dialogue Prompts**:
     - Morgan: "You’ve got steel in your spine, Torrin. Don’t waste it being their pawn. Talk to me."
     - Torrin: "I’m no traitor. But if you think the danger’s over, you’re blind to the shadows on this deck."
+	
+### 📜 Captain Godfrey – Authoritative Intervention
 
-### 🕵️ Background Suspicion – Calloway’s Thread
-- **Subtle Clues**:
-  - Whispers of “fair shares,” coded gestures, shifting loyalties.
-  - Missing supplies, sabotaged lines, suspicious shipboard behavior.
-- **Skill Checks**:
-  - **Streetwise, Observation, Detect Lies, Savoir-Faire (High Society)**.
-  - **Successful checks increment the Suspicion Meter** (hidden to players).
-- **NPC Hints**:
-  - “That old dog Torrin’s been talking in quiet corners lately.”
-  - “Funny how that barrel vanished without a trace, eh?”
+- “Belay that, you fools! No one swings from the yardarm without proof. Find me something solid—or I’ll have you all swabbing decks until your backs break.”
+
+- “I’ll not hang a man on smoke and whispers. Do your damned jobs and investigate properly. Or do I need to remind you what happens when we jump at shadows?”
+
+- (Low and steady, cutting through the murmurs) “A ship doesn’t survive on guesses. Show me proof. Until then, we sail as one.”
+
+---
+
+### 📜 Sample Crew Lines for Investigation Phase
+
+- (Suspiciously) “Funny how Torrin was seen near the hold right before it started smouldering, eh?”
+
+- (Dismissive) “Maybe it was an accident. Or maybe someone’s trying to cover their tracks...”
+
+- (Nervous) “Could be a curse. Bad luck follows the flogged ones.”
+
+- (Casual mutter) “Swear I saw someone slip away from the rigging last night. Can’t recall his name...”
+
+- (Alarmed whisper) “That emblem they found near the hold? Ain’t no accident—that’s Iron Tide work if I’ve ever seen it.”
+
+- (Half-joking, half-serious) “If we don’t get ahead of this, we’ll all be swabbing the hold with our blood.”
+
+
+
+## 🔍 Scene 3: Expanded Investigation Clues (with GURPS Modifiers & MoS)
+
+---
+
+### 📜 Starting Point: Powder Hold (Sabotage Scene)
+- **Clue**: Smouldering homemade fuse with tarred rope and faint footprints leading up the ladder.
+- **Skill**: Observation or Perception  
+- **Modifier**: 0 (normal)  
+- **MoS**: None  
+- **Outcome**: Fuse made from ship materials; footprints head toward the main deck, not Torrin’s usual route.
+
+---
+
+### 📜 Clue 1: Near the Hammocks (Crew Quarters)
+- **Clue**: Rough canvas ditty bag hidden near a stanchion, containing short lengths of charred rope, tar scrap, and a chipped bone-handled knife.
+- **Skill**: Observation or Streetwise  
+- **Modifier**: -2 (hard)  
+- **MoS**: None  
+- **Outcome**: Materials match the fuse; hidden but poorly. Raises suspicion.
+
+- **Clue 1b**: Faint scent of unfamiliar pipe tobacco clings to the bag—none of the regular crew are known smokers.
+- **Skill**: Observation or Savoir-Faire (Nautical)  
+- **Modifier**: -2 (hard)  
+- **MoS**: 2+ reveals a newcomer or outsider’s possible involvement.
+
+---
+
+### 📜 Clue 2: Main Deck – Rigging Area
+- **Clue**: Frayed line with subtle cut marks; unused coil of rope stashed oddly.
+- **Skill**: Seamanship or Rope Use  
+- **Modifier**: -2 (hard)  
+- **MoS**: 2+ shows deliberate sabotage, not wear and tear.
+
+- **Clue 2b**: Tiny wooden splinters near the coil—locker was pried open.
+- **Skill**: Observation or Perception  
+- **Modifier**: 0 (normal)  
+- **MoS**: None  
+- **Outcome**: Premeditated plan, not random mischief.
+
+---
+
+### 📜 Clue 3: Gundeck – Mess Area
+- **Clue**: Mutters about “fair shares” and “old scars don’t fade.”
+- **Skill**: Perception or Streetwise  
+- **Modifier**: +1 (easy)  
+- **MoS**: 3+ reveals coded gestures hinting at a wider plot.
+
+- **Clue 3b**: Crude drawing of a hangman’s noose and an initial “T” scratched into the table.
+- **Skill**: Observation  
+- **Modifier**: 0 (normal)  
+- **MoS**: None  
+- **Outcome**: Targeting of Torrin or an attempt to frame him.
+
+---
+
+### 📜 Clue 4: The “New Guy” Mystery
+- **Clue**: Multiple crew mention seeing a man near the powder hold—no one remembers his name. “One of the new lads, I think. Not seen him since.”
+- **Skill**: Inquiry or Leadership  
+- **Modifier**: 0 (normal)  
+- **MoS**: 2+ gains a rough description (e.g., tall, fair-haired, patched coat).
+
+- **Clue 4b**: Oilcloth with a crude Kraken sketch (Iron Tide colours), tucked into a crevice near the powder hold.
+- **Skill (Spot)**: Observation  
+- **Modifier**: -3 (hard)  
+- **Skill (Interpret)**: Seamanship (Naval), Savoir-Faire (Nautical), History (Naval)  
+- **Modifier**: -3 (hard)  
+- **MoS**: 1+ recognises it as a real but badly drawn Iron Tide emblem (red-on-black Kraken).  
+- **Outcome**: The symbol’s presence near the sabotage points to Iron Tide involvement or influence.
+
+---
+
+### 📜 Clue 5: Cookie/Grog Master’s Input
+- **Clue**: Missing grog or rations; barrels lighter than expected.
+- **Skill**: Inquiry (friendly)  
+- **Modifier**: 0 (normal)  
+- **MoS**: 1+ detailed inventory discrepancy; 3+ whispers about someone siphoning.
+
+- **Clue 5b**: Discovery of a makeshift siphon tube hidden in the stores.
+- **Skill**: Observation or Seamanship  
+- **Modifier**: -2 (hard)  
+- **MoS**: 2+ reveals tool marks or a concealed siphon setup.
+
+---
+
+### 📜 Clue 6: Forecastle Shadows
+- **Clue**: Powdery footprints and a faint trail of flour or biscuit meal toward a shadowed hatch.
+- **Skill**: Tracking or Observation  
+- **Modifier**: -3 (hard)  
+- **MoS**: 3+ leads to a conspirator’s stash or hideout.
+
+- **Clue 6b**: Scratched spiral or wave symbol near the forecastle.
+- **Skill**: Occultism or Navigation  
+- **Modifier**: -4 (very hard)  
+- **MoS**: 1+ recognises it as a warning or mark tied to hidden factions (e.g., Stormcallers).
+
+---
+
+### 🛠 GM Guidelines
+- **Apply modifiers directly to players’ skill levels** for each check.  
+- **Use MoS thresholds** to reward extra insights or connections.  
+- Let the players decide how suspicious they want their characters to be—don’t force suspicion or conclusions.  
+- If players don’t follow certain clues, shift the focus to those they do engage with.  
+- Keep the “new guy” mystery tantalising: no name, no clear sighting—just faint trails and rumors.
+
+
+
+---
+
+### ⚙️ Usage Instructions:
+1. Start with the powder hold scene (Clue 0).  
+2. Let players pick locations—offer paired clues per location for richness.  
+3. Present **clue, skill, and outcome together** for easy GMing.  
+4. If they stall, use NPCs or environmental prompts to nudge investigation.  
+5. “New guy” remains a mysterious thread—no one can pin a name, and his disappearance deepens the tension.
+
+
 
 ### 🎲 Suspicion Meter Mechanics
 | Meter Level | Effect |
