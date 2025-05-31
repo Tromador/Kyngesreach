@@ -439,17 +439,65 @@ A sudden sabotage incident throws the ship into chaos. Torrin becomes the prime 
 
 
 
-### 🎲 Suspicion Meter Mechanics
-| Meter Level | Effect |
-|-------------|--------|
-| 0–1 | Background unease; crew edgy but no solid evidence. |
-| 2–3 | Strong hints of conspiracy; players can act early. |
-| 4–5 | Mutiny erupts in Scene 4, catching players off guard. |
-| **Torrin’s Role** | Determined by Morgan’s choices and rolls.|
+## 🎲 Persuading Godfrey – Final Evidence Presentation & Roll
+
+### 📜 Setup
+When the players approach Godfrey with their suspicions:
+- Godfrey demands a full account: “Tell me everything you’ve found. No guesses. No ‘maybes’. I want the facts.”
+- Players must **present their findings clearly**—each clue counts only if they mention it.
+- **Remind players**: If they don’t say it, it doesn’t count!
+
+---
+
+### 📜 Evidence Modifier Table
+| Evidence Presented (Explicitly Stated) | Modifier |
+|---------------------------------------|----------|
+| Sabotage fuse (not Torrin’s fault) | +1 |
+| Hidden charred rope & tools | +1 |
+| Frayed rigging, locker break-in | +1 |
+| Missing/stolen supplies | +1 |
+| Oilcloth with Iron Tide Kraken emblem | +2 |
+| Description of “new guy” or mention of missing crew | +1 |
+| NPC corroboration (e.g., Cookie or Grog Master input) | +1 |
+| Calm, logical presentation | +1 |
+| Heated, accusatory approach | -2 |
+
+---
+
+### 📜 Roll Details
+- **Primary Skill**: Diplomacy, Leadership, or Savoir-Faire (Military)
+- **Total Modifier**: Sum of bonuses from presented evidence + roleplay modifier.
+- **Roll**: 3d6 under modified skill level.
+
+| MoS Result | Godfrey’s Decision |
+|------------|--------------------|
+| 0–1 | Increases patrols only—no weapons. |
+| 2–3 | Discreet arming of officers and marines. |
+| 4+ | Unlocks weapons locker for loyal crew and players.
+
+---
+
+### 📜 Godfrey’s Framing Line
+- (Low, steady) “You’ve made your case. Now, convince me.”  
+- (After roll) Varies based on outcome:  
+  - **Low MoS**: “You’ve done your duty. But it’s not enough to risk this ship on shadows.”  
+  - **Moderate MoS**: “We’ll arm the marines, but keep it quiet. If we’re wrong, we’ll answer for it.”  
+  - **High MoS**: “Unlock the locker. If there’s treachery aboard, we meet it with steel in hand.”
+
+---
+
+### 🛠 GM Tips
+- Prompt players: “What exactly do you tell Godfrey? Present your findings.”  
+- Let players present in any order; if they forget something, it’s not included.  
+- Keep tally of bonuses as they speak; apply to final roll.  
+- The roll is the **culmination of Scene 3**—success or failure sets the stage for Scene 4.
+
+
 
 ### ⚙️ Scene Resolution
-- **Players succeed**: Torrin swayed to loyalty; mutiny weakened or preempted.
-- **Players fail/ignore**: Torrin either becomes a leader for the mutiny or a pawn, and the rebellion gains strength.
+- **Morgan succeeds**: Torrin swayed to loyalty; mutiny weakened or preempted.
+- **Morgan fails/ignore**: Torrin either becomes a leader for the mutiny or a pawn, and the rebellion gains strength.
+- **Investiation outcome**: Level of readiness to take on the scene 4 mutiny depends on a decent job here.
 - **Transition to Scene 4**: The crisis escalates, and mutiny becomes inevitable or narrowly averted.
 
 ---
@@ -473,14 +521,191 @@ This scene brings the powder keg to the brink. The players are not passive—the
 
 - **Setup:**  
   After tensions reach a boiling point, the mutiny erupts—likely during a quiet watch, or an opportune moment chosen by Torrin and the infiltrators.
+  
+# ⚔️ Scene 4 – Mutiny Ignites and Torrin’s Reveal
 
-- **Event details:**  
-  - Shipboard combat: intense, brief, close-quarter fighting.  
-  - Crew and players forced to defend key points of the ship—helm, captain's cabin, powder magazine.
-  - Potential damage to sails, rigging, and hull from the skirmish.
+## 🎭 Scene Overview
+The mutineers strike, aiming to seize control of the Sojourner. But thanks to the players’ investigation and preparation, the loyalists have the upper hand—if they act fast and smart.
 
-- **Outcome:**  
-  Mutiny suppressed after challenging fight. Torrin and key mutineers subdued, morale shaken, and ship damaged further.
+---
+
+## 🔥 Mutiny Breakout
+- The mutineers surge toward the weapons locker.  
+- They break it open... only to find it empty. One of the crew (or an officer) may blow a whistle or shout, "They’ve taken the guns!" to cue the loyalists.  
+- A hidden stash of weapons is revealed nearby, arming the loyalists and players.  
+
+---
+
+## 🎲 Combat Setup
+- **Players face one key mutineer each**—named or semi-named NPCs with personality and tactics.  
+- **Marines and loyalists face 1–2 mutineers each**, handled with group rolls or Quick Contests.  
+- **Background combat is narrated**, with key results determined by player actions and occasional group rolls.  
+
+---
+
+## 🔨 Mini-Scene: Torrin’s Reveal
+
+As the clash echoes across the deck—shouted orders, the clash of steel, bodies grappling—your eye catches a figure emerging from the shadows near the quarterdeck. 
+
+Torrin. 
+
+He stands still for a heartbeat, the glint of a weapon in his hand. His stance is steady, gaze sharp, and for a moment, the world holds its breath.
+
+Then, with a wordless cry, he strikes—  
+- If loyal: his blade sweeps across the back of a mutineer lunging for a player, dropping the man in a heap. “To hell with your schemes! I stand with my ship!”  
+- If traitor: his weapon flashes toward the nearest loyalist, and he bellows: “They think they can stop us? Follow me—we’ll take this deck and the ship with it!”
+
+The tide of the battle shifts, hearts surge or sink, and the truth of Torrin’s choice is laid bare.
+
+---
+
+## 🎲 Torrin Statblock (Elite NPC)
+- **Name**: Torrin, Sea-Scarred Troublemaker
+- **Role**: Elite Mutineer Boss (if traitor) or Hardened Ally (if loyal)
+- **Appearance**: Scarred back, cold eyes, wiry strength
+- **Gear**: Cutlass (swiped from loyalist stash), improvised shield (wooden hatch, tar bucket lid), dagger at belt
+
+| Attribute | Value |
+|-----------|-------|
+| ST | 12 |
+| DX | 13 |
+| IQ | 10 |
+| HT | 12 |
+| HP | 13 |
+| FP | 12 |
+| Will | 11 |
+| Per | 12 |
+| Speed | 6 |
+| Move | 6 |
+| Dodge | 9 |
+
+| Skill | Level |
+|-------|-------|
+| Broadsword (Cutlass) | 14 |
+| Shield (Improvised) | 12 |
+| Brawling | 13 |
+| Wrestling | 12 |
+| Leadership (if traitor) | 11 |
+| Observation | 13 |
+| Stealth | 12 |
+
+| Advantages & Traits |
+- Tough (natural DR 1 from hard life)
+- High Pain Threshold
+- Fearlessness 1
+- Reputation: Known troublemaker (if mutineer)
+- Code of Honour (if loyal)
+- Overconfidence (if traitor)
+
+| Tactics |
+- If loyal: Stands with players, guards their backs, helps against dangerous foes.
+- If traitor: Targets key players or loyal NPCs, rallies mutineers with fierce attacks and intimidation.
+
+---
+
+## 🎭 Sample Lines for Torrin
+
+### 🎙️ If Loyal:
+- “I’ve done wrong, but I won’t stand by while cowards gut this ship.”
+- “They’ll have to cut me down before they take the Sojourner.”
+- “To hell with you mutineers! The captain’s a hard man, but he’s our man.”
+
+### 🎙️ If Traitor:
+- “You thought a few whispers could stop us? Time to see who stands and who falls.”
+- “They’ll never take me down again—I’ll take this ship and its gold myself!”
+- “They’ll hang us if we lose, so we make sure we win! Follow me!”
+
+---
+
+## 📚 Usage
+- **Torrin’s reveal** creates a natural narrative pivot: the tide of battle shifts based on his loyalty.  
+- **Statblock** lets you run him as a real threat (if mutineer) or sturdy ally (if loyal).  
+- **Lines** bring the scene to life with minimal prep—just choose loyalty, and off you go.
+
+---
+
+## 🎯 Objectives
+- Hold key positions (quarterdeck, helm, powder hold).
+- Prevent mutineers from regaining weapons or control.
+- Subdue or defeat Torrin and ringleaders.
+
+---
+
+# ⚔️ Scene 4 – Mutineer NPCs
+
+---
+
+## 🎲 Mutineer Profiles
+
+---
+
+### 📜 Mutineer Grunt (General Crew)
+- **Description**: Pressed sailor or discontented crew, following the ringleaders’ orders. 
+- **Weapon**: Belaying pin, makeshift club, or knife; might grab a boarding axe or cutlass if available.
+- **Stats**:
+  - ST 11, DX 11, IQ 9, HT 10
+  - Skills: Brawling 11, Knife 10, Club 10, Seamanship 10
+  - Traits: Low morale, Fearfulness 1, Overconfidence (if drunk), Loyalty to ringleaders
+- **Tactics**: Swarm, but break easily if leadership falters.
+
+---
+
+### 📜 Mutineer Ringleader
+- **Description**: Charismatic or dangerous crewmen; possible ex-Iron Tide or pirate.
+- **Weapon**: Club or knife by default; may grab cutlass or pistol from weapons locker.
+- **Stats**:
+  - ST 12, DX 12, IQ 10, HT 11
+  - Skills: Brawling 13, Broadsword (Cutlass) 12, Knife 12, Pistol 11 (if armed), Leadership 11, Fast-Talk 11
+  - Traits: Fearlessness 1, Overconfidence, Reputation (bully or agitator)
+- **Tactics**: Focused attacks on officers or players; rally grunts around them.
+
+---
+
+### 📜 Iron Tide Infiltrator
+- **Description**: Covert mutineer, formerly or secretly Iron Tide. Smart, ruthless, and better trained.
+- **Weapon**: Knife or sap initially; would prioritize pistols or cutlass if locker is accessed.
+- **Stats**:
+  - ST 12, DX 13, IQ 11, HT 11
+  - Skills: Knife 14, Broadsword 13, Pistol 12, Stealth 12, Leadership 12, Seamanship 12
+  - Traits: Fearlessness 2, High Pain Threshold, Reputation (Iron Tide), Overconfidence, Will 12
+- **Tactics**: Precision strikes; may aim for officers, loyalists’ weapons cache, or critical ship areas.
+
+---
+
+### 📜 Improvised Weapons Damage
+- **Belaying Pin/Club**: 1d+2 cr
+- **Knife**: sw-1 cut or thr-1 imp
+- **Pistol (if accessed)**: 2d pi, 1/2D 50, Max 150
+- **Cutlass (if accessed)**: sw+1 cut
+
+---
+
+### 📜 Morale & Behaviour
+- **Grunts**: Break and run if ringleaders fall or if the fight turns clearly against them.
+- **Ringleaders**: Fight until wounded or isolated.
+- **Iron Tide Infiltrator**: More determined; may attempt to escape or negotiate if cornered.
+
+---
+
+### 🗝️ Usage
+- Deploy **1 grunt per player** as standard.
+- Add **1 ringleader** for every marine/loyalist group or as a mini-boss.
+- Include **1–2 Iron Tide infiltrators** if you want a sharp, skilled threat.
+- Background NPC fights can be resolved narratively or with quick group rolls.
+
+---
+
+## 📜 Sample Mutiny Scene Lines
+- **Mutineer**: “They’ll hang us if we don’t win! Fight, damn you!”
+- **Torrin (loyal)**: “I might be a bastard, but I’m not a traitor. Let’s end this.”
+- **Torrin (traitor)**: “You think a locked locker can stop me? I’ll gut you where you stand!”
+
+---
+
+## 📚 Scene Conclusion
+- If loyalists win decisively and key mutineers fall (including Torrin if traitor), the remaining rebels **surrender**, throwing down weapons.
+- Godfrey or an officer might call for order: *“Enough! The fight’s over. Anyone still standing, drop your weapons and face judgment.”*
+- Some deaths or maimings occur; the ship is bloodied but afloat.
 
 ---
 
