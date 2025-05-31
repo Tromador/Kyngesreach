@@ -513,19 +513,39 @@ When the players approach Godfrey with their suspicions:
 ## Summary
 This scene brings the powder keg to the brink. The players are not passive—they shape who will stand with them or against them when the mutiny explodes in Scene 4.
 
-
-
 ---
 
-## Scene 4: Mutiny Erupts
-
-- **Setup:**  
-  After tensions reach a boiling point, the mutiny erupts—likely during a quiet watch, or an opportune moment chosen by Torrin and the infiltrators.
-  
 # ⚔️ Scene 4 – Mutiny Ignites and Torrin’s Reveal
 
 ## 🎭 Scene Overview
 The mutineers strike, aiming to seize control of the Sojourner. But thanks to the players’ investigation and preparation, the loyalists have the upper hand—if they act fast and smart.
+
+- **Setup:**  
+  After tensions reach a boiling point, the mutiny erupts—likely during a quiet watch, or an opportune moment chosen by Torrin and the infiltrators.
+  
+# ⚔️ Mutiny Breakout – Two Opening Narratives
+
+---
+
+### 📜 Option 1: Weapons Locker Full of Weapons (Players Fail or Skip Preparation)
+
+The crashing blow of a boarding axe shatters the lock on the weapons locker. Cheers erupt from the mutineers as cutlasses and pistols spill into waiting hands. The air fills with the hiss of steel drawn from sheaths and the sharp scent of gun oil.
+
+“Tear down the officers! The ship’s ours!” a mutineer bellows, brandishing a blade.
+
+In an instant, the balance shifts. Armed and emboldened, the mutineers surge forward, turning the Sojourner’s decks into a battleground. Panic ripples through the loyalists as the mutineers’ weapons flash in the dim lantern light.
+
+---
+
+### 📜 Option 2: Weapons Locker Empty (Players Prepared and Persuasive)
+
+The mutineers hammer open the weapons locker with a triumphant shout—only to freeze. The locker stands gaping and bare, save for a solitary crewman perched inside, idly playing a mournful tune on a battered tin whistle.
+
+A heartbeat of silence falls. Then a mutineer snarls, “Where’s the damned guns?” Confusion spreads, sharp cries of panic rising.
+
+From nearby shadows, the players and loyal crew spring into action, weapons drawn from hidden stashes. The clash of steel fills the air as the loyalists seize the initiative, turning the mutineers’ moment of triumph into a rout.
+
+
 
 ---
 
@@ -709,25 +729,169 @@ The tide of the battle shifts, hearts surge or sink, and the truth of Torrin’s
 
 ---
 
+### 📜 Scene 4 – Closing Narrative: The Mutiny Crushed
+
+The last of the mutineers drop their weapons with clatters loud against the blood-slick deck. Those who remain standing raise their hands or sink to their knees, panting, defeated. The sharp tang of blood and gunpowder lingers in the air, and the dim lantern light casts long shadows across the carnage.
+
+Godfrey’s voice, low and iron-hard, cuts through the silence.  
+*"Round them up. Secure them below. If the brig can’t hold them, we’ll lash them to the gunwales and keep them under watch."*
+
+The loyal crew move grimly, binding wrists, hauling the ringleaders to their feet. Torrin, whether defiant or quietly shamed, stands apart—his fate now tangled in the choices made by Morgan and the others.
+
+The Sojourner rocks gently beneath the crew’s heavy breathing, her decks littered with signs of the brutal fight. Somewhere, a lone gull’s cry pierces the gloom.
+
+As the last of the prisoners are secured, Godfrey turns to the players, his expression unreadable.  
+*"This isn’t over. We have a ship to sail, a crew to mend, and decisions to make. See to it."*
+
+
+
 ## Scene 5: Diplomatic Encounter (The Iron Tide Greeting)
 
-- **Setup:**  
-  Shortly after the mutiny is settled, another Iron Tide vessel arrives—better armed, yet displaying diplomatic neutrality. They signal the Sojourner, clearly wanting to talk.
+### 📜 Scene 5 – Opening Narrative: Calm and Complication
 
-- **Event details:**  
-  - Iron Tide captain comes aboard or arranges a parley under cautious, guarded conditions.  
-  - They offer a deal: surviving mutineers (including Torrin) may peacefully transfer to Iron Tide custody in exchange for an uneasy truce.  
-  - Conversation is filled with veiled threats and unsettling promises of future encounters.
+The Sojourner sails on under a sky bruised with late-morning light. The air is thick with exhaustion and the smell of salt and blood. Below decks, the murmurs of subdued mutineers echo from makeshift holding areas—tied, chained, and cowed, some groaning in pain, others whispering bitter curses.
 
-- **Diplomatic Spotlight (Calloway):**  
-  - Calloway carefully handles delicate negotiations, balancing pride, pragmatism, and crew safety.  
-  - This scene emphasizes verbal sparring and subtle diplomatic manoeuvring rather than outright intimidation or force.
+The crew move in hushed tones, tending to rigging and patching sails. The ship lists slightly, bruised from the earlier battle and the mutiny’s chaos. Captain Godfrey stands at the quarterdeck, eyes distant, hands clasped tight behind his back. His voice, when it comes, is low and iron-edged.  
+*"We’ve survived the night, and we’ll count the cost soon enough. For now, we sail on."*
+
+Then the call from the masthead:  
+*"Sail ho! Off the starboard quarter!"*
+
+The lookout’s voice trembles—not with excitement, but with dread. Godfrey stiffens, the tension rippling down the ranks. You follow his gaze, and there, rising from the haze of the horizon, is a dark shape—sleek, sharp-prowed, her rigging taut as a coiled snake.
+
+An Iron Tide ship.
+
+She’s no mere sloop or patrol craft. She matches the Sojourner’s size—perhaps even slightly heavier, her decks bristling with guns that glint ominously in the sunlight. Yet she flies a flag of truce, its white cloth contrasting with the black and red of the Iron Tide Kraken beside it.
+
+The crew murmurs uneasily. Someone near you mutters, “They’ve been shadowing us, haven’t they? Saw the fight... saw the blood...”
+
+Godfrey’s jaw tightens, but his voice remains calm:  
+*"They know we’re wounded. They know we have their men. And they’re here to bargain—not fight."*
+
+The Iron Tide ship continues its measured approach, cutting the waves like a predator drawing near a wounded rival, patient and waiting.
+
+---
+
+### 📜 Iron Tide Approach
+
+The Iron Tide ship continues her slow, measured approach, flag of truce raised high alongside the black and red Kraken emblem. As she draws nearer, her gun ports remain closed but ready—a silent reminder of her strength.
+
+A longboat is lowered, crewed by a small, disciplined team of sailors in dark garb, a single officer seated sternly at the bow. They row with steady strokes, approaching the Sojourner’s side with the assurance of those who know they hold the stronger hand.
+
+As the boat draws alongside, the officer rises. He’s a lean man in his middle years, wearing a dark coat with crimson trim and a cutlass at his hip. His voice carries clearly over the water:  
+*"I am First Mate Rannock of the Iron Tide brig Sable Reaver. We come under a flag of truce to discuss terms for the return of our men."*
+
+---
+
+### 📜 Rannock’s Formal Opening Statement
+
+The longboat glides alongside, oars flashing in disciplined rhythm. Rannock rises from his seat, his dark coat flaring slightly in the breeze. His voice is clear, measured, and carries easily across the still water.
+
+*"I am First Mate Rannock of the Sable Reaver, proud ship of the Iron Tide fleet. We sail not as pirates or vagabonds, but as a cooperative of free captains and able crews, united in purpose and strength. The Iron Tide is no mere fleet—it is a brotherhood, a shared enterprise of opportunity and prosperity."*
+
+He allows the words to settle, his tone smooth as oil on troubled waters.
+
+*"Newcomers to these seas—those of quality and spirit—are offered the chance to join our noble enterprise. To sail under the banner of freedom, commerce, and brotherhood. It is a partnership we extend with open hands... and firm expectations. Those who decline, or who prove unsuitable, often find the seas less hospitable than they imagined."*
+
+A faint smile tugs at the corner of his mouth, just a hint of teeth behind the diplomatic façade.
+
+*"However,"* he continues, his tone shifting to a touch more personal, *"we recognise the Sojourner’s valor, and the unfortunate events of recent days. It is not our wish to see her scuttled or her crew wasted."*
+
+*"Therefore, we offer this: return our captured men, and we will part ways without conflict. Consider it a mark of respect for your ship and her captain. No conscription, no demands beyond the safe return of our own. This offer is extended today, and today only. The decision, of course, is yours."*
+
+Godfrey stands at the quarterdeck, hands behind his back, his expression unreadable. His eyes flick briefly to the players—the master—then back to the approaching longboat. When he speaks, it’s low and level, for the players’ ears alone.  
+*"Your call. The ship stands ready to follow your lead."*
+
+---
+
+### 📜 GM Framing Note
+
+Present the scene with a **cool head**, laying out the Iron Tide’s terms as a clear, calm offer—but let the sheer weight of circumstances speak for itself.
+
+Remind players (through NPC murmurs or Godfrey’s aside) of the **current situation**:
+- A **damaged ship** recovering from mutiny.
+- A **hold full of prisoners**—mutineers, some potentially loyal, many dangerous.
+- The **Sable Reaver**: a powerful Iron Tide ship capable of forcing a confrontation, but choosing to offer terms.
+
+---
+
+### 📜 Player Awareness & Subtext
+
+- Even without saying it aloud, the players should sense:
+  - The **Iron Tide’s offer is a rare reprieve**—offered because they’ve proven themselves worthy, but also because the Iron Tide sees them as a valuable future target.
+  - **Refusal would be madness**: they’d be trying to escape a stronger ship with prisoners aboard, while their own crew is battered and morale uncertain.
+  - The **true “choice” is between disaster now or a temporary stay of execution**.
+
+---
+
+### 📜 Rannock’s Final Nudge
+
+If the players hesitate, Rannock can lean in, voice low but carrying an edge:  
+*"You’ve proved your mettle, no question. But think carefully. Refuse, and we’ll be forced to act. Take the deal, and you’ll live to sail another day. Perhaps many days. The choice, as always, is yours."*
+
+---
+
+### 📜 Optional Godfrey Cue
+
+(Soft, to the players)  
+*"You don’t have to like it, but this is the best deal we’ll get today. Decide fast—we’re all watching."*
+
+---
+
+### 📜 Player Grumbling & Negotiation Attempt
+
+As Rannock lays out the terms, the players exchange glances. A murmur stirs—questions about guarantees, demands for specifics, grumbling about handing over prisoners. One of them (perhaps the boldest) calls across the gap.
+
+*"And what guarantees do we have that you won’t come after us the moment we part ways?"*
+
+Rannock’s faint smile returns, but it doesn’t reach his eyes. His tone is as smooth as ever, but edged with finality.
+
+*"You have my word that we won’t trouble you today. Beyond that... who can say? The seas are wide and well... time and tide, my friends, time and tide."*
+
+If pressed further, he leans in just slightly, voice dropping.  
+*"Your ship’s fate isn’t written today. Take the deal—or don’t. But know this: we have no reason to chase you... so do try not to give us one."*
+
+His silence after this is absolute. Any further questions are met with a slight incline of the head and an unwavering gaze. The message is clear: **the offer stands as stated, and the rest is none of your business**.
+
+---
+
+### 📜 Godfrey’s Quiet Aside
+
+(Soft, to the players)  
+*"He’s not lying. Not today. But if we cross them, or if they change their minds... well, best we’re not here to see it."*
+
+---
+
+### 📜 Final Understanding
+
+Rannock’s gaze sweeps the deck one last time.  
+*"We sail as friends—for now. Think on that."*
+
+With a slight nod, he steps back, signaling his boat crew to pull away. The longboat glides smoothly back toward the waiting Sable Reaver, leaving the Sojourner crew and the players to absorb the weight of what’s just transpired.
+
+---
 
 - **Crew reshuffle:**  
   - Mutineers transfer peacefully, reducing immediate threat.  
   - Lost crew numbers balanced out by merchant crew replacements from rescued survivors.
 
 ---
+
+### 📜 Scene 5 – Closing Narrative: The Sweetener and Departure
+
+The transfer is smooth, if tense. The Sojourner’s prisoners are herded into the longboats, bound and bitter, watched closely by armed marines and crew. The Sable Reaver’s men receive them without comment, their faces blank masks of professional discipline. Not a weapon is drawn, not a word of defiance uttered. Just the quiet splash of oars and the heavy tension of unspoken understanding.
+
+As the final boat draws away, Rannock stands at its prow. He raises his voice one last time, pitched to carry across the water to the players and the Sojourner’s crew.
+
+*"For the next few days, there’s a port you can put into some ways northwest of here. Best get moving though, this cycle’s nearly done."*
+
+### Players ask about cycles
+
+Rannock’s only reply is a burst of coarse laughter that echoes across the waves. He sweeps his hat from his head in a mocking salute, then turns away. The longboat pivots, oars flashing, and rows steadily back to the waiting Sable Reaver.
+
+The Iron Tide ship lingers for a moment longer, her dark profile sharp against the morning light. Then her sails fill, and she turns, slipping back into the haze of the horizon.
+
+Behind her, the Sojourner is left in tense silence—bloodied, battered, but free. And now with a new destination... and a fresh mystery.
 
 ## Adventure Epilogue: Aftermath and Setup for Next Session
 

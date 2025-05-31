@@ -109,6 +109,7 @@ Both sides roll Contested Seamanship each round.
 - Reloading a naval cannon takes time. 
   - You can’t keep all kinds of ammo to hand, hence switching takes longer.
   - If you have to unload before reloading, longer again.
+  
 | Action | Time |
 |------|----|
 | Reload with current ammo | 3 rounds |
