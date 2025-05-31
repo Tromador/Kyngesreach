@@ -45,12 +45,12 @@ Disadvantages:
 
 Skills:
 - Sailing (14)
-- Tactics (14)
+- Tactics (12)
 - Leadership (15)
 - Navigation (12)
 - Streetwise (12)
 - Survival (12)
-- Strategy (12)
+- Strategy(Naval) (14)
 - Shiphandling (12)
 
 ---

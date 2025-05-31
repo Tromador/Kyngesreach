@@ -6,7 +6,7 @@ A scalable, GURPS-compatible system for age-of-sail ship combat in Kyngesreach, 
 
 In naval combat, the ship functions as a cohesive unit rather than a collection of individual actions. Therefore, each vessel operates under a unified crew skill rating, representing the collective competence and training of the ship’s crew. This approach maintains simplicity and realism by avoiding excessive tracking of individual abilities.
 
-However, individual skill can still influence a ship’s performance. Players and key NPCs, such as officers or veteran gunners, may leverage their personal skills to confer advantages in critical moments. For example, a Leadership (Naval) or Tactics (Naval) roll with a high margin of success may accelerate gun reloading, or a decisive action by a skilled character might sway a morale check. These individual contributions are outlined in the relevant sections of the rules.
+However, individual skill can still influence a ship’s performance. Players and key NPCs, such as officers or veteran gunners, may leverage their personal skills to confer advantages in critical moments. For example, a Leadership or Strategy (Naval) roll with a high margin of success may accelerate gun reloading, or a decisive action by a skilled character might sway a morale check. These individual contributions are outlined in the relevant sections of the rules.
 
 This system strikes a balance between realism and playability, ensuring that the ship remains the primary unit of action while still allowing for heroic moments and tactical decisions by characters.This system is designed for straightforward, engaging play without the need for detailed hex paper, miniatures, or exhaustive measurement tools. The focus is on cinematic, narrative-driven naval combat rather than complex tactical wargaming. Players can immerse themselves in the action without spending the entire session on granular movement and firing calculations. This necessarily causes some realism to be lost at the expense of balance, compactness and speed. Some possibilities have been fudged or even ignored completely.
 
@@ -34,7 +34,7 @@ Both sides roll Contested Seamanship each round.
 | Modiﬁer | Eﬀect |
 |-------|-----|
 | Rigging hit | -1 per hit |
-| Successful Tactics (Naval) | +1 |
+| Successful Strategy (Naval) | +1 |
 | Magic Effect (eg. Trailing Wind)3 | +2 |
 | Handling Rating (HR) | +2 sloop/brig, +1 frigate, 0 fourth-rate, -1 ship-of-the-line |
 
@@ -118,7 +118,7 @@ Both sides roll Contested Seamanship each round.
 
 ### Reload Time Modifiers 
 
-- PCs or NPCs may attempt a Leadership (Naval) or Tactics (Naval) check to coordinate faster reloads.
+- PCs or NPCs may attempt a Leadership or Strategy (Naval) check to coordinate faster reloads.
 - A Margin of Success (MoS) of 4+ reduces reload time by 1 round for the next volley.
 - Pre-battle readiness (e.g., powder and shot prepped) may also grant a -1 round reload bonus for the first volley only.
   - This bonus does not stack with other modifiers and must be declared in advance.
