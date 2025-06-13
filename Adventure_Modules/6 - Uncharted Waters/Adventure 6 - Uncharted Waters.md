@@ -47,23 +47,124 @@ Successful mediation leads to unified Aldshore support and insights about the cy
 
 ## Side Quests (Reputation Building)
 
-### 1. "Lost at Sea"
+### 🧭 Side Quest 1: "Lost at Sea"
 
 **Objective:**  
-Rescue fisherman Arlen Mallen, missing near Raven's Teeth.
+Rescue fisherman Arlen Mallen, missing near the Raven’s Teeth—against all better judgement.
 
-**NPCs:**  
-- Kira Mallen (worried spouse)  
-- Arlen Mallen (lost fisherman)
+---
 
-**Encounter:**  
-- Travel to Raven's Teeth  
-- Navigate dangerous waves and rocky shallows (Seamanship/Agility checks)  
-- Save Arlen and his vessel from sinking
+**Hook / Discovery:**
 
-**Rewards:**  
-- Fishermen community trust  
-- Valuable local knowledge about fishing areas and tidal patterns
+At the fishmarket, the party overhears a tense exchange. Kira Mallen is confronting Harbourmaster Willem Toller, her voice sharp with grief and anger.
+
+> **Kira Mallen (to Toller):**  
+> “Don’t feed me tales of tides and curses. He said he was laying tribute nets—not heading into the Teeth! And now you say no one’s seen him? Then *someone* should be out there looking!”
+
+Toller, trying to keep calm:
+
+> **Toller:**  
+> “If he’s out past the black rock, it’s his own damn fault. You know as well as I do—Raven’s Teeth don’t let go.”
+
+If approached, Kira explains:
+
+- Arlen’s nephew drowned in the Teeth during the last cycle.
+- Arlen has quietly returned each year to lay tribute nets in his memory.
+- This year, he promised Kira he wouldn’t go. Now he’s missing.
+- His small boat was last seen heading southeast. Weather is worsening.
+
+> **Kira (quietly):**  
+> “He lied. Or maybe he thought I’d stop him. Either way, he’s out there—and if he’s not dead, he’s clinging to something that won’t last the tide.”
+
+---
+
+**Setting: Raven’s Teeth**
+
+- Jagged rock formation southeast of Aldshore.
+- Sharp reefs and unpredictable currents.
+- Locals avoid it—said to be cursed or unstable.
+- Tides here change rapidly, with minimal warning.
+
+---
+
+**Approach & Travel:**
+
+- Players must borrow or hire a vessel (small skiff or local cutter).
+- Navigation, Boating, and Observation rolls required.
+- Encourage teamwork: one navigates, one watches for hazards, one manages sails/rigging.
+
+**Key Skill Challenges:**
+
+- **Navigation (or Cartography):** Chart safe approach route.  
+- **Boating (Sailing):** Handle shifting tides, avoid hull damage.  
+- **Observation / Perception:** Spot signs of wreckage, gulls, netting, or movement.  
+- **Weather Sense (optional):** Read if another tidal shift is imminent.
+
+---
+
+**Complications (choose one or roll randomly):**
+
+| Situation        | Description |
+|------------------|-------------|
+| Hidden Shallows  | Unexpected surge nearly capsizes the skiff. Dex roll or capsize risk. |
+| Sea Predator     | Reef-serpent (or territorial sea lion) circles the boat. Handle with Intimidation or Animal Handling. |
+| Tidal Shift      | Water level begins to rise—forces a timed retreat or flooding risk. |
+| Magnetic Pull    | Compasses and bearings spin—forces repeat Navigation checks. |
+
+---
+
+**Encounter:**
+
+- Arlen’s skiff is wedged in a gully between rock spines, cracked but afloat.
+- Arlen is barely conscious, sunburnt, and badly dehydrated.
+- His net is still out—full of silver fish. Unnatural catch density may feel eerie.
+
+> **Arlen (weakly):**  
+> “The fish… they were waiting. Never seen the sea offer so much. I—I thought maybe it was a gift. For him.”
+
+- Optional minor hazard:
+  - Giant barnacle latch, waterlogged sea-ghoul arm reaching from below, etc.
+  - Not meant as full combat—just tension.
+
+**Rescue Tasks:**
+
+- **Swimming / Climbing / Acrobatics:** Reach Arlen without capsizing.  
+- **First Aid or Survival:** Stabilise him before movement.  
+- **Rope Use / Coordination:** Haul both man and gear back to vessel.  
+- **Teamwork Bonus:** Reduce penalties if roles are well divided.
+
+---
+
+**Return & Outcome:**
+
+- Arlen survives but is weak; deeply shaken by the experience.
+- Kira embraces him, then slaps him, then cries.
+
+> **Kira (to PCs):**  
+> “You brought him back. That’s more than I thought I’d see again. I owe you.”
+
+- Harbourmaster Toller acknowledges the rescue with quiet respect.  
+- Fisherfolk begin treating the party as trustworthy outsiders.
+
+---
+
+**Rewards & Reputation:**
+
+- Minor token from Kira (e.g. charm, family keepsake).  
+- Possible fresh fish supplies if requested.  
+- +1 **Faction Trust: Fisherfolk**  
+- **Toller’s stance shifts to neutral or cautious ally.**
+
+---
+
+**Foreshadowing (optional):**
+
+If desired, Arlen can mention subtle oddities:
+
+> **Arlen (murmuring):**  
+> “The tide… it turned *wrong*. Like the sea was waiting for something. I know those rocks. They weren’t where they should be.”
+
+This lays groundwork for Tidecaller Compass-related anomalies without dominating the moment.
 
 ---
 
