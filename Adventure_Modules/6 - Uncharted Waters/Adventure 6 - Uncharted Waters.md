@@ -520,44 +520,166 @@ If players dig or question Clem:
 
 ---
 
-### 3. "Missing Navigator"
+### 🧭 Side Quest 3: "Missing Navigator"
 
 **Objective:**  
-Find Merric Halden, a talented Arkwright navigator who disappeared under suspicious circumstances.
-
-**NPCs:**  
-- Rowena Arkwright (family head, concerned)  
-- Serena Halden (Merric’s worried spouse)
-
-**Encounter:**  
-- Investigate Merric’s residence for clues (letters, maps, correspondence)  
-- Discover Merric's attempts to escape cycles and secret dealings with Iron Tide  
-- Track Merric’s trail leading toward Smuggler’s Rest
-
-**Rewards:**  
-- Arkwright family trust  
-- Critical clues about Iron Tide objectives and Tidecaller Compass lore
+Investigate the mysterious disappearance of Merric Halden, a respected Arkwright navigator—last seen behaving strangely, then vanishing without explanation.
 
 ---
 
-### 4. "Smuggler’s Rest"
+**Hook / Initial Contact:**
+
+After gaining some local trust, the party is granted an audience with **Rowena Arkwright**, who remains reserved but practical. She sets them a task:
+
+> **Rowena (coolly):**  
+> “You want to prove your usefulness? Find my nephew. He left without word, without charts, and with more confidence than caution. That’s not like him.”
+
+---
+
+**Key NPCs:**
+
+- **Rowena Arkwright** – Navigator matriarch. Allows the party to investigate, reluctantly.  
+- **Serena Halden** – Merric’s wife. Kind but exhausted. She knew he was anxious about the coming cycle, but didn’t expect him to act without telling her.  
+- **Dockworkers & neighbours** – Some saw signs of Merric preparing to slip away.
+
+---
+
+**Investigation Phase (Brief):**
+
+The players visit **Merric’s cottage**. Serena is present and cooperative if treated gently. She gives them access to Merric’s notes and workspace.
+
+Key Discoveries:
+
+1. **Private notes and charts** (Navigation or Occultism check to interpret):
+   - Detailed attempts to **predict cycle timing**, with annotations like:
+     > *“Pattern not holding. Drift compression increasing.”*  
+     > *“This place will shift soon. Must be beyond sight when it happens.”*
+
+2. **A folded letter with no signature**, suggesting:
+   - A rendezvous “beyond the southern bluff.”
+   - Reference to “an alternate route out—not by map, but by timing.”
+
+3. **Marked chart** showing a cove near **Smuggler’s Rest**, annotated:
+   > *“Wait for third pull of the ebb. Passage only holds at slack.”*
+
+A **dockhand** (with minimal persuasion) admits Merric left in the early hours, travelling light, “like he had something to prove.”
+
+---
+
+**Lore Clarification:**
+
+- Everyone in Aldshore knows **cycle shifts** are real—ships that vanish, islands that move, routes that don’t stay fixed.
+- That’s why **inshore navigation is standard practice**, especially when signs point to an imminent shift.
+- Merric’s actions were reckless *because* he stopped following those norms. He believed he could **escape the timing** if he understood it deeply enough.
+
+This puts the first concrete question in the party’s hands:
+> “Can the cycles be predicted? Or even outrun?”
+
+---
+
+**Outcome & Reward:**
+
+- The party earns **Rowena’s cautious respect**—they’ve shown discretion and competence.
+- Serena quietly thanks them, but worries the truth won’t be something she wants to hear.
+- The cove near **Smuggler’s Rest** becomes the next destination.
+
+---
+
+**Faction Trust: Arkwright Family +1**
+
+**New Thread Unlocked:**  
+→ Begin *Side Quest 4: Smuggler’s Rest*
+
+
+---
+
+### 🛶 Side Quest 4: "Smuggler’s Rest"
 
 **Objective:**  
-Rescue Merric Halden from Iron Tide scouts, recover stolen Grayson shipwright tools.
+Track down Merric Halden’s last known location at a remote cove, recover stolen Grayson shipwright tools, and confront Iron Tide agents operating near Aldshore.
 
-**NPCs:**  
-- Merric Halden (captive navigator)  
-- Quinn Darrow (Iron Tide scout leader)
+---
 
-**Encounter:**  
-- Confrontation with Iron Tide scouts at hidden cove (diplomacy/combat)  
-- Possible negotiation: deceive or bribe Iron Tide to free Merric and recover Grayson tools  
-- Merric provides crucial details about Iron Tide intentions regarding cycles
+**Setup:**
 
-**Rewards:**  
-- Grayson family trust (recovering stolen tools)  
-- Deepened Arkwright gratitude (saving Merric)  
-- Revealing the existence and significance of the Tidecaller Compass explicitly
+Using Merric’s marked charts and notes from *“Missing Navigator”*, the party sails or hikes to a narrow cove south of Aldshore—known locally as **Smuggler’s Rest**.
+
+It’s a half-forgotten inlet used by fringe traders, castoffs, and sometimes worse. Locals avoid it—especially near a cycle change.
+
+---
+
+**Key NPCs:**
+
+- **Merric Halden** – The missing navigator. Found held under loose guard in a tide-carved shelter. He’s unharmed, but rattled and sleepless.  
+- **Quinn Darrow** – Iron Tide scout leader. Smooth, mercenary, not fanatical. Prefers advantage to bloodshed.  
+- **Two Iron Tide operatives** – Alert, lightly armed. Will escalate only if provoked.
+
+---
+
+**The Encounter:**
+
+The players find a **makeshift Iron Tide camp**, hidden under a jutting bluff above the cove. A skiff is tethered offshore. Crates nearby bear Grayson marking stamps—some pried off, others half-burned.
+
+**Merric is alive**, inside a shelter, speaking calmly with Quinn when the party arrives.
+
+The players can approach in several ways:
+
+---
+
+### 🗣️ Resolution Options:
+
+**1. Stealth & Overwhelm**  
+- Players ambush the camp. Fight is short and sharp.
+- Merric survives but is shaken. Some tools may be damaged.
+
+**2. Parley / Negotiation**  
+- Quinn is open to a deal:
+  - Let them go with one crate (tools or a decoy),
+  - And they leave Merric and the rest untouched.
+  - Or: small bribe, misinformation, or bluff can turn the encounter.
+
+> **Quinn (casually):**  
+> “This place won’t last the season. We’re just looking for leverage—he had theories. You want him, take him. But be quick about it.”
+
+**3. Deception**  
+- Players pretend to be neutral smugglers or Tide sympathisers.
+- Can extract Merric and slip away without combat.
+
+---
+
+### 🧠 Lore Unlock (from Merric or Quinn):  
+
+#### What Merric reveals:
+
+> “I thought it was just drift theory, but the patterns held. Ships moving *before* the change. Navigating through it. That’s not luck. That’s something else.  
+> They found me just as I was getting close. I think… I think they don’t want people knowing the timing can be *beaten*.”
+
+He doesn’t know what a **Tidecaller Compass** is—but he knows someone is navigating cycles on purpose. And it scared him.
+
+#### What Quinn might say, if pressured:
+
+> “He wasn’t a threat. Just inconvenient. Some knowledge ought to stay proprietary.”
+
+---
+
+### 🧾 Outcome:
+
+- Merric is returned to Rowena, who is quietly stunned—and grateful.
+- The stolen **Grayson tools** are recovered intact or mostly intact.
+- If players handled it without bloodshed, both sides remark on their restraint and competence.
+
+---
+
+**Faction Trust:**
+- **Arkwright Family +1** (rescuing Merric)
+- **Grayson Family +1** (returning tools)
+
+---
+
+**Unlocks:**
+- **Main quest resolution now possible**: both factions will talk.
+- **Tidecaller Compass** is now a concrete lead—not named, but strongly implied.
+
 
 ---
 
@@ -618,6 +740,34 @@ Make a crucial decision when signs of an impending cycle threaten Aldshore’s s
 
 ---
 
+## 🌊 Lore Unfold Table – Session 6: "Uncharted Waters"
+
+| Trigger Moment                     | Source NPC / Object        | Info Dropped                                                                                      | Delivery Style                 |
+|-----------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------|--------------------------------|
+| Early tavern/local scenes         | Dockworkers, Kira, Toller   | “Aldshore’s safe *this* cycle.” / “Stick to inshore routes. Don’t risk a shift.”                 | Casual superstition            |
+| During “Missing Navigator”        | Serena, notes, Rowena       | Merric believed the **cycles could be predicted**. Thought he could find a way to “step out.”     | Emotional concern / suspicion  |
+| Mid-investigation notes           | Merric’s charts             | Diagrams and notations that suggest **non-random pattern detection**                             | Navigation skill/occultism     |
+| “Smuggler’s Rest” (camp found)    | Quinn Darrow or Merric      | Iron Tide **uses something** to predict or survive cycles. Merric noticed this.                  | Verbal interrogation           |
+| “Smuggler’s Rest” (Merric reveals)| Merric Halden               | “They didn’t want me to talk. They’re *using* something. A device. It stabilises the route.”     | Nervous, but lucid             |
+| If players push further           | Merric (follow-up)          | “They didn’t make it. The **Stormcallers** did. That’s the name I heard. A cult—or a sect.”       | Quiet drop, first naming       |
+| Optional item find (camp loot)    | Iron Tide crate or mapcase  | Labelled “S.C. Driftlock—return to Coilbase before tide shift.”                                  | Physical clue                  |
+| Post-resolution debrief (optional)| Toller, Rowena (if asked)   | “Stormcallers... I’ve heard the name. Always just before trouble. Always near a shift.”          | Suspicious, but indirect       |
+
+---
+
+**GM Notes:**
+
+- The **name “Stormcaller”** should drop **once only**—preferably from Merric, in a moment of low-key delivery.
+- The **players should realise its weight** through context, not exposition. Merric knows they’re real. Rowena suspects. Quinn doesn’t care—he just uses their tools.
+- Later adventures will deepen this: the cult’s purpose, methods, and origin can unfold slowly.
+
+---
+
+**Pacing Suggestion:**
+
+Don’t confirm everything. Drop the pieces. Let players start the theorising.
+
+---
 
 ## Adventure Flow & Suggested Timing (4–5 hours total)
 
