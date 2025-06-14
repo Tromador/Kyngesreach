@@ -34,18 +34,90 @@ Aldshore, a practical coastal settlement in the Kyngesreach Archipelago, is caug
 
 ---
 
-
-
-## Main Quest: Resolving the Feud
+## ⚖️ Main Quest: Calming the Waters
 
 **Goal:**  
-Mediate and resolve the dispute between Eldric Grayson (Shipwrights) and Rowena Arkwright (Navigators), ultimately uncovering Iron Tide interference and the truth behind the missing navigator, Merric Halden.
+Gain the trust of Aldshore’s two rival power groups—Graysons (shipwrights) and Arkwrights (navigators)—to resolve a leadership dispute that’s stalled trade and locked down vital information.
 
-**Preconditions:**  
-Initially, both families distrust the players. Trust must be earned by completing side quests.
+---
 
-**Final Outcome:**  
-Successful mediation leads to unified Aldshore support and insights about the cycles, the Iron Tide, and the Tidecaller Compass.
+### 🎯 Why the Party Gets Involved
+
+- The party arrives with **cargo to sell** (textiles, herbs from the *Morningstar*).
+- They expect to offload it, resupply, and maybe gather information before Aldshore slips out of reach.
+- But they find the docks in **practical gridlock**—vessels idle, manifests disputed, no one signing off.
+
+> “We’ve got goods. They’ve got coin. But no one’s moving until someone breaks this standoff.”
+
+- Dockmaster Willem Toller makes it clear:
+  - **No outsider trades** are being processed.
+  - **Neither the Graysons nor Arkwrights** will authorise cargo clearance.
+  - If the party wants to do business—or get real answers—they’ll need to make themselves useful.
+
+> “Don’t care what flag you fly—if you want into Aldshore’s ledger, start by making some friends.”
+
+---
+
+### 🔥 Context: A Leadership Dispute
+
+- The **Graysons** blame the **Arkwrights** for navigational misjudgements that caused damage, losses, and possibly sabotage.
+- The **Arkwrights** accuse the **Graysons** of withholding repairs and stoking internal division.
+- Both sides are **too proud to back down**, and too suspicious to cooperate.
+- Outsiders are seen as **potential pawns**—but also as convenient neutral ground.
+
+---
+
+### 🧍‍♀️ Faction Positions
+
+- **Rowena Arkwright**  
+  - Analytical, respected, under pressure.  
+  - Concerned about her missing nephew Merric, who vanished pursuing a theory about cycle behaviour.  
+  - Suspects foul play—or external manipulation.
+
+- **Eldric Grayson**  
+  - Hard-bitten, proud, and no longer patient.  
+  - Furious over missing tools and wrecked gear.  
+  - Believes the Arkwrights are hiding something—or covering incompetence.
+
+---
+
+### 🧭 How the Party Gains Influence
+
+The families don’t respond to talk—they respond to **proof**.  
+Each side has real problems that aren’t being addressed because of the dispute.
+
+By helping local citizens through **side quests**, the players build visible trust:
+
+- “Lost at Sea” = community goodwill, stabilises dock morale.
+- “The Quiet Dockhand” = earns Toller’s respect, exposes outside interference.
+- “Missing Navigator” = breaks Arkwright silence.
+- “Smuggler’s Rest” = restores Grayson standing and reveals shared enemy.
+
+Once enough side quests are complete, the party has:
+- **Trust to speak with both families**, and
+- **Leverage to push them into dialogue**.
+
+---
+
+### 🤝 Resolution Scene
+
+A final scene sees the players:
+- Present what they’ve uncovered (Iron Tide signs, Merric’s message, sabotage details).
+- Push for practical cooperation—**not peace, just function**.
+
+They don’t make allies. They make **commerce and conversation possible again**.
+
+---
+
+### 🧾 Outcome:
+
+- The docks reopen to Sojourner trade.  
+- Rowena or Eldric share crucial information—about **cycles**, **Merric’s research**, and eventually the **Tidecaller Compass**.  
+- Town returns to uneasy function just long enough for the players to get what they need.
+
+**Note:** The crew can still enjoy tavern time throughout.  
+This conflict doesn’t lock the town—it just **locks access to useful high-level answers and trade routes** until resolved.
+
 
 ---
 ### 🧿 Recurring Vosk Gag: "Oh no! The sahuagin have found me!"
@@ -100,17 +172,15 @@ Use these interludes between quests or scenes. Vosk must see the sahuagin first 
 - He points at them, panic rising.  
 - There are no sahuagin in sight—until one **slowly surfaces**, salutes, and sinks again without a word.
 
-## 🎶 Encounter 6: Choral Murmurs
+---
+
+#### 🎶 Encounter 6: Choral Murmurs
 
 - While crossing town, the PCs hear **strange harmonic humming** echoing through an alley.  
 - Vosk is backing out slowly.  
 > “Oh no! The sahuagin have found me!”  
 - Three sahuagin are standing in perfect unison, making low melodic clicks.  
 - One produces a **tiny harp made of fishbone**, strums a note, and walks away.
-
----
-
-##
 
 ---
 
@@ -358,23 +428,95 @@ This lays groundwork for Tidecaller Compass-related anomalies without dominating
 
 ---
 
-### 2. "The Quiet Dockhand"
+### ⚓ Side Quest 2: "The Quiet Dockhand"
 
 **Objective:**  
-Resolve the troubles of Finn, a nervous dockhand being blackmailed by an Iron Tide sympathizer.
+Discover why dockhand Finn is behaving strangely and resolve the blackmail situation discreetly.
 
-**NPCs:**  
-- Finn (dockhand)  
-- Harbourmaster Willem Toller (authority figure)
+---
 
-**Encounter:**  
-- Notice Finn's suspicious behaviour  
-- Investigate and confront blackmailer discreetly at docks  
-- Choose diplomacy or combat to resolve blackmail situation
+**Hook / Discovery:**
 
-**Rewards:**  
-- Trust from Harbourmaster Toller and dockworkers  
-- Information about dock security and Iron Tide interference
+While moving cargo or speaking with Willem Toller at the harbour, the party notices one of the younger dockhands—**Finn**—flinching, distracted, and nervously scanning the crowds.
+
+> **Toller (if asked):**  
+> “Finn’s been off lately. Jumpier than a cat in a storm hold. Still works hard, but something’s wrong. Doesn’t say a word about it.”
+
+A quick Observation or Human Behaviour check reveals Finn:
+- Avoids eye contact with authority.
+- Visibly reacts when a certain sailor or warehouse worker passes by.
+- Slips away during breaks to the far end of the docks.
+
+---
+
+**NPCs & Relationships:**
+
+- **Finn** – Young dockhand, anxious, not streetwise. Wants to escape his situation but doesn’t know how.
+- **Willem Toller** – Harbourmaster. Fair-minded, not cruel. Will support the PCs’ handling if it’s clean and doesn’t embarrass him.
+- **Clem Vatcher** – The blackmailer. A mid-level Iron Tide informant posing as a petty cargo handler. Greedy, arrogant, subtle.
+
+---
+
+**Investigation Phase (Brief):**
+
+Following Finn discreetly leads to:
+- Him meeting Clem in a shadowed corner behind warehouse #3.
+- Clem quietly **threatening to expose something** unless Finn keeps “finding space” in the manifests.
+
+If players confront Finn directly:
+> **Finn (panicked):**  
+> “I didn’t know who they were at first—I swear. Just said move crates, fudge the log. Then they said if I told anyone—if I *even looked wrong*—they’d drown me in the dark.”
+
+He won’t give up Clem’s name without reassurance or social pressure.
+
+---
+
+**Confrontation Options:**
+
+The party can now resolve the issue by choosing one of several methods:
+
+1. **Diplomacy / Persuasion:**
+   - Approach Clem discreetly. Offer a bribe, threaten exposure, or broker Finn’s withdrawal.
+   - Clem backs down if he thinks the Harbourmaster is watching.
+
+2. **Intimidation:**
+   - Corner Clem alone. A short, direct warning such as:
+> “Bad idea threatening dockhands while we’re in town. Makes us take an interest we wouldn’t otherwise have.”
+
+3. **Stealth / Subterfuge:**
+   - Catch Clem red-handed slipping Iron Tide markings or false cargo onto a manifest.
+   - Present this to Toller or threaten to expose it.
+
+---
+
+**Outcome & Resolution:**
+
+- Clem flees town or goes quiet, depending on approach.
+- Finn is grateful, shaken, and returns to work with renewed focus.
+- Toller quietly pulls the party aside:
+
+> **Toller:**  
+> “Don’t know what you did. Don’t want to know. But Finn’s back on his feet, and my docks are quieter for it. You’ve got my eye—and my thanks.”
+
+---
+
+**Rewards & Reputation:**
+
+- Quiet respect from Willem Toller.  
+- Trust among the **dockworkers**.  
+- Access to restricted dock areas or faster port operations later if relevant.  
+- +1 **Faction Trust: Dockworkers / Harbourmaster**
+
+---
+
+**Optional Clue:**
+
+If players dig or question Clem:
+- He mutters something about “the Tide having eyes everywhere.”
+- A crate nearby bears the spiral marking seen in previous Stormcaller dealings—hastily scratched off.
+
+> **Clem (bitterly):**  
+> “Tell your captain this port won’t last the cycle. You’re just renting time.”
 
 ---
 
