@@ -7,7 +7,6 @@ Aldshore, a practical coastal settlement in the Kyngesreach Archipelago, is caug
 
 --
 
-
 ## Introduction - 🎙️ Captain Elias Godfrey – Quarterdeck Address (Opening of *Adventure 6: Uncharted Waters*)
 
 *Setting: Early morning haze. Aldshore just breaking the horizon. Crew assembled, the *Sojourner* steady beneath them. Godfrey stands at the rail, voice quiet but carrying.*
@@ -34,6 +33,66 @@ Aldshore, a practical coastal settlement in the Kyngesreach Archipelago, is caug
 
 ---
 
+### 🎙️ *Arrival at Aldshore* – Cinematic Read-Aloud
+
+> The mist thins, sunlight spilling like stage light across the bay—and the town holds its breath.  
+>  
+> The town comes into focus in layers: salt-bleached rooftops, tar-streaked chimneys, lines of drying nets stretched like bunting across crooked streets. The harbour is alive with movement—crates hauled, fish gutted, ropes coiled. It’s a town used to mending what it can and doing without what it can’t.  
+>  
+> But then the bells start ringing. One, then two—not an alarm. A signal.  
+>  
+> And heads turn. Conversations falter. A fishwife pauses mid-gut, blade hovering. A child stops running, craning to see. On a rooftop, a rigger lowers his hammer, squinting toward the water.  
+>  
+> At first, it’s just a ship in the haze—broad of beam, low in the water, sails crisp and full. But then the brasswork catches light. The lines are clean, the rigging flawless. And from the stern, high and proud, a flag unfurls in the wind: **the Union of Principalities Naval Ensign**.
+
+---
+
+#### 🎬 *Shift to the Sojourner — full cinematic entrance*
+
+> Out of the mist she comes—black hull flawless, sails taut and crisp, brasswork catching the sun like fire.  
+> The *Sojourner*. A proper frigate, Union-built, naval blood in her bones.  
+>  
+> Her lines are clean, her motion precise. Crew stand taut at posts. Officers in smart coats move across the deck with unhurried efficiency. Signal flags flutter. Even the anchor gleams.  
+>  
+> Around her, the fishing fleet drifts like ghosts—sails patched with canvas and prayer, hulls held together with tar and time.
+
+---
+
+#### 🧍 *Back to shore — reactions build*
+
+> “Gods preserve me…” someone whispers.  
+> “That’s no merchantman.”  
+> “Blue and Celeste? That’s the UPS ensign.”  
+> “It’s active. That’s an active commission.”  
+> “Here? What the hell is a navy ship doing *here*?”  
+>  
+> From balconies, shop doors, and the edge of the jetties, people spill out to watch. Children are hoisted onto shoulders. A barge captain lowers his hat. On a rooftop, a man grips the rail and doesn’t move, watching like he’s not sure whether to cheer or run.
+>  
+> A boy drops his pail, water splashing across the stones. A group of workers abandon a crate mid-lift just to gawk. On a balcony, someone raises a spyglass—and lowers it again, wordless.
+
+---
+
+#### 🎬 *Return to the Sojourner — final motion*
+
+> The *Sojourner* cuts through the last of the mist like she’s parting a curtain.  
+>  
+> Her hull is dark, unmarred. Her rails gleam. The crew stand sharp at their posts, heads held high, eyes forward. Signal flags flutter their silent chorus.  
+>  
+> And from the quarterdeck, a commanding figure—**Godfrey**, coat perfectly buttoned, boots polished, eyes ahead—does not wave. He does not acknowledge. He simply *arrives*.
+
+---
+
+> The *Sojourner* glides in on a whisper of wind. Ropes cast, fenders deployed, sails trimmed in silence.  
+> She kisses the dock like she’s done it a hundred times before.  
+>  
+> Not a shout. Not a scramble. Just discipline—clean and confident.  
+>  
+> From the shore, Aldshore watches her arrive like a **storm in uniform**: silent, sharp-edged, inevitable.  
+>  
+> The *Sojourner* does not anchor.  
+> She **claims her berth**.
+
+
 ## ⚖️ Main Quest: Calming the Waters
 
 **Goal:**  
@@ -48,6 +107,33 @@ Gain the trust of Aldshore’s two rival power groups—Graysons (shipwrights) a
 - But they find the docks in **practical gridlock**—vessels idle, manifests disputed, no one signing off.
 
 > “We’ve got goods. They’ve got coin. But no one’s moving until someone breaks this standoff.”
+
+### 🎙️ *Toller, Harbourmaster of Aldshore – Read-Aloud Introduction*
+
+> A small knot of townsfolk has gathered on the dock, keeping a careful distance—close enough to gawk, far enough not to be mistaken for the welcoming committee.  
+>  
+> At the front stands a man in a battered oilskin coat and salt-flecked boots, clutching a leather-bound ledger like it might deflect cannon fire. He’s balding in a way that implies he gave up resisting years ago, and his expression suggests he’s already regretting *every* life choice that led to this moment.  
+>  
+> The crowd behind him whispers, nudges, and retreats by convenient degrees. No one else steps forward. This is clearly **his** job, whether he likes it or not.  
+
+---
+
+> As the gangplank drops and the first boots strike wood, he clears his throat, straightens his spine, and steps forward with the resigned dignity of a man addressing royalty in fish guts.  
+>  
+> “Right, well... welcome to Aldshore. You’ll be the, ah… Union ship.”  
+>  
+> *(He gestures vaguely at the Sojourner behind you.)*  
+>  
+> “Fine vessel. Very tidy. Very… large. I’m **Toller**. Harbourmaster, dockmaster, sometimes postmaster, and—” *(glances over his shoulder)* “—apparently head of the welcoming committee.”  
+>  
+> *(He cracks a polite, nervous smile.)*  
+>  
+> “We weren’t expecting visitors. Not… this sort, anyhow. Still, you’re here, you’ve made an entrance, and no one’s died, so I’d call that a strong start.”  
+>  
+> *(He fumbles with the ledger, flips a few pages, finds nothing useful, and snaps it shut.)*  
+>  
+> “So then. Who’s in charge?”
+
 
 - Dockmaster Willem Toller makes it clear:
   - **No outsider trades** are being processed.
@@ -318,23 +404,43 @@ Rescue fisherman Arlen Mallen, missing near the Raven’s Teeth—against all be
 
 At the fishmarket, the party overhears a tense exchange. Kira Mallen is confronting Harbourmaster Willem Toller, her voice sharp with grief and anger.
 
-> **Kira Mallen (to Toller):**  
+### 🎙️ *Kira and Toller’s Argument – Read-Aloud Narrative*
+
+> The salty air of the fishmarket is thick with gull cries and the slap of nets—until it’s pierced by a voice sharp with fury.  
+
+> **Kira Mallen**—fisherwoman, shoulders square, fists clenched—stands toe-to-toe with **Harbourmaster Toller**. Her voice cuts through the bustle like a gutting blade.
+
+> **Kira (furious):**  
 > “Don’t feed me tales of tides and curses. He said he was laying tribute nets—not heading into the Teeth! And now you say no one’s seen him? Then *someone* should be out there looking!”
 
-Toller, trying to keep calm:
-
-> **Toller:**  
+> **Toller (trying to keep calm):**  
 > “If he’s out past the black rock, it’s his own damn fault. You know as well as I do—Raven’s Teeth don’t let go.”
 
-If approached, Kira explains:
+> A few heads turn. Voices lower. You get the sense that this isn’t the first time Kira has fought this fight—and that Toller’s patience is starting to fray, too.
+
+---
+
+> If the players approach or intervene, Kira rounds on them without hesitation, eyes fierce and tired.
+
+> **Kira (quick, but quieting):**  
+> “He lied. Or maybe he thought I’d stop him. Either way, he’s out there—and if he’s not dead, he’s clinging to something that won’t last the tide.”
+
+Kira knows:
 
 - Arlen’s nephew drowned in the Teeth during the last cycle.
 - Arlen has quietly returned each year to lay tribute nets in his memory.
 - This year, he promised Kira he wouldn’t go. Now he’s missing.
 - His small boat was last seen heading southeast. Weather is worsening.
+---
 
-> **Kira (quietly):**  
-> “He lied. Or maybe he thought I’d stop him. Either way, he’s out there—and if he’s not dead, he’s clinging to something that won’t last the tide.”
+> Toller exhales, looks at the sky like it might give him a better answer, then mutters:
+
+> **Toller (grim):**  
+> “You’ll need a cutter. Small enough to thread the reef. And a damn sight more luck than sense.”
+
+> He scratches the back of his neck, eyeing the party.
+
+> “You lot brought a navy ship through the mist. Maybe you’re just reckless enough to try.”
 
 ---
 
@@ -362,18 +468,32 @@ If approached, Kira explains:
 
 ---
 
-**Complications (choose one or roll randomly):**
+**Encounter:**
 
-| Situation        | Description |
-|------------------|-------------|
-| Hidden Shallows  | Unexpected surge nearly capsizes the skiff. Dex roll or capsize risk. |
-| Sea Predator     | Reef-serpent (or territorial sea lion) circles the boat. Handle with Intimidation or Animal Handling. |
-| Tidal Shift      | Water level begins to rise—forces a timed retreat or flooding risk. |
-| Magnetic Pull    | Compasses and bearings spin—forces repeat Navigation checks. |
+### 🌊 *Approach to the Raven’s Teeth – Read-Aloud Narrative*
+
+> The sea grows quieter as you near the reef—but it’s not a peaceful silence.  
+> It’s the kind that holds its breath.  
+>  
+> The Raven’s Teeth rise from the water like the spine of some drowned leviathan—jagged black rocks slick with tide and age.  
+>  
+> The waves here don’t crash. They *twist*. Currents snag unexpectedly. More than once, the skiff yaws, rudder biting wrong despite the tiller.  
+>  
+> Even the gulls keep their distance.
 
 ---
 
-**Encounter:**
+> Navigation becomes guesswork. Every channel looks like the last.  
+> Strange eddies swirl where the charts say open water.  
+> And the tide shifts without warning—rising or falling in erratic pulses that make no sense.
+
+> A sudden cry—someone spots **netting**, draped across a narrow gully between two reef spines.  
+>  
+> As the boat edges closer, you see the shape of a small skiff—wedged hard into a natural gully, its hull cracked and half-swamped.  
+>  
+> A figure slumps in the prow, tangled in line, burned red by sun and salt.  
+>  
+> **Arlen.**
 
 - Arlen’s skiff is wedged in a gully between rock spines, cracked but afloat.
 - Arlen is barely conscious, sunburnt, and badly dehydrated.
@@ -381,10 +501,6 @@ If approached, Kira explains:
 
 > **Arlen (weakly):**  
 > “The fish… they were waiting. Never seen the sea offer so much. I—I thought maybe it was a gift. For him.”
-
-- Optional minor hazard:
-  - Giant barnacle latch, waterlogged sea-ghoul arm reaching from below, etc.
-  - Not meant as full combat—just tension.
 
 **Rescue Tasks:**
 
@@ -525,14 +641,57 @@ If players dig or question Clem:
 **Objective:**  
 Investigate the mysterious disappearance of Merric Halden, a respected Arkwright navigator—last seen behaving strangely, then vanishing without explanation.
 
+### 🧭 *Toller Approaches the Players – Read-Aloud Narrative*
+
+> Toller finds you later in the morning—hat in hand, expression unreadable, voice pitched lower than usual.  
+
+> **Toller (quietly):**  
+> “Right. So. This might be a bit delicate.”  
+>  
+> *(He scratches behind his ear, choosing words like they might explode.)*  
+>  
+> “Rowena Arkwright’s asked for a word. Personally.”  
+>  
+> *(He holds up a hand before anyone can reply.)*  
+>  
+> “Not an order. Not a summons. Just… an invitation. She’s heard you’ve been helping folk, and she’s got a concern she doesn’t trust to half the town.”  
+>  
+> *(Beat.)*  
+>  
+> “If you’re looking to help fix what’s broken at the docks… this wouldn’t be a bad place to start.”
+
+> *(He gives a shrug that’s somewhere between encouragement and resignation.)*  
+>  
+> “Her office is on the bluff, above the inner quay. Don’t be late. She hates late.”
+
 ---
 
 **Hook / Initial Contact:**
 
 After gaining some local trust, the party is granted an audience with **Rowena Arkwright**, who remains reserved but practical. She sets them a task:
 
-> **Rowena (coolly):**  
-> “You want to prove your usefulness? Find my nephew. He left without word, without charts, and with more confidence than caution. That’s not like him.”
+### 🎙️ *Meeting Rowena Arkwright*
+
+> The Arkwright office is quiet, precise, and expensive. Nautical tools rest like artifacts in lacquered inlays. A half-drawn tide map glows faintly under oil-lamp light.  
+>  
+> **Rowena Arkwright** stands by the window overlooking the quay, hands clasped behind her back. She speaks before turning.
+
+> **Rowena:**  
+> “I don’t waste time with strangers. But I’ve been told you’re not just passing through. That you’ve helped. Listened.”  
+>  
+> *(She finally turns to face you—expression unreadable.)*  
+>  
+> “So I’ll be plain. My nephew, **Merric Halden**, is missing. No word. No sign.  
+> He was working charts… not mine. His own.”  
+>  
+> *(She gestures to a bundle on her desk.)*  
+>  
+> “If you care about Aldshore—and you *should*, if you want those docks to open again—then help me understand what happened.  
+>  
+> His cottage is just outside town. You’ll want to speak to Serena.”
+
+> *(She says no more. The charts rustle in the silence, as if still shifting on their own.)*
+
 
 ---
 
@@ -558,6 +717,7 @@ Key Discoveries:
 2. **A folded letter with no signature**, suggesting:
    - A rendezvous “beyond the southern bluff.”
    - Reference to “an alternate route out—not by map, but by timing.”
+   - Iron Tide seal on letter
 
 3. **Marked chart** showing a cove near **Smuggler’s Rest**, annotated:
    > *“Wait for third pull of the ebb. Passage only holds at slack.”*
@@ -683,23 +843,85 @@ He doesn’t know what a **Tidecaller Compass** is—but he knows someone is nav
 
 ---
 
-
-## Optional Side Encounter: "The Old Salt’s Tale"
+### 🧓 Optional Encounter: "The Old Salt’s Tale"
 
 **Objective:**  
-Engage Old Gideon, a retired sailor, in storytelling to learn Stormcaller lore.
+Listen to Old Gideon’s strange recollection of a past sea encounter—part ghost story, part warning. A roleplay-focused reward for perceptive or respectful players.
 
-**NPC:**  
-- Old Gideon (retired sailor, storyteller)
+---
 
-**Encounter:**  
-- Roleplay encounter at tavern, detailed narrative from Gideon about his youthful Stormcaller encounter  
-- Players use Insight or Charisma skills to gather accurate information
+**Setting:**  
+- **Location:** The Bent Gull tavern, late evening.  
+- **Time:** After at least one major side quest has been completed.  
+- **Atmosphere:** Dim oil-lanterns, quiet fiddle music, salt and smoke in the air.  
+- **NPCs clear the room** subtly as Gideon begins his tale.
 
-**Rewards:**  
-- Atmospheric and narrative depth  
-- Partial clues to future quests involving Stormcallers and Tidecaller Compass  
-- Possible location of hidden cove or cache for future exploration
+---
+
+**NPC: Old Gideon**
+
+- Retired sailor. Widower. Missing two fingers and most of his sense of timing.
+- Drinks hard but speaks clearly when sober—or when the story hits a rhythm.
+- Doesn’t boast. Doesn’t lie. What he saw, he believes.
+
+---
+
+**Trigger:**
+
+The players buy him a drink, ask about strange tides, or mention **cycle shifts** near the end of the session.
+
+---
+
+**Gideon’s Tale (spoken slowly, softly):**
+
+> “We was off the chain reef, near Kessler’s Drift. Sky was wrong—stars slid like oil.  
+>  
+> Thought we’d sailed through a fogbank, but the sea was glass. Not calm—*waiting*.  
+>  
+> Then she came. A ship. Sleek. No rigging, no flag, no wake. Just there.  
+>  
+> A man stood on the prow. Or a woman. Hard to say. Robes like tide foam. Skin… grey? Blue? Changed when you looked away.  
+>  
+> They lifted a rod. Not a compass, not a wand. Just a length of stone and coral.  
+>  
+> And the sea obeyed it.”  
+>
+> *(long pause)*  
+>
+> “Tide turned against the wind. Our lookout screamed, then vanished.  
+> The crew panicked. We ran. Only three made it back.  
+>  
+> I still don’t know what I saw. But I heard the name, once.  
+>  
+> *Stormcallers.*”  
+>
+> *(long drink)*  
+>  
+> “If they still walk the water, I want no part of them. But if you're the curious sort... ask your compass which way is *wrong*.”
+
+---
+
+**Optional Skill Use:**
+
+- **Insight / Psychology:** Gideon believes every word. His voice falters when describing the ship—there’s fear behind the story.
+- **Occultism / Hidden Lore:** The description of the “rod” closely matches elements in Merric’s cycle sketches—but weaponised.
+
+---
+
+**Outcome / Reward:**
+
+- Adds rich atmosphere and foreshadowing.
+- Confirms the Stormcallers exist, or once did.
+- Links the term **Tidecaller Compass** with an act of direct environmental control—not just passive sensing.
+
+**No mechanical benefit. But the players will remember it.**
+
+---
+
+**Optional Follow-up:**
+
+> **Tavernkeeper (muttering after Gideon leaves):**  
+> “He only tells that story when the sea’s about to change. Never twice in one cycle.”
 
 ---
 
