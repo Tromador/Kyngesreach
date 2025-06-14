@@ -1,10 +1,12 @@
 # Adventure 6: "Uncharted Waters"
 
+
 ## Adventure Overview
 
 Aldshore, a practical coastal settlement in the Kyngesreach Archipelago, is caught in escalating tensions between two influential local families: the shipwright Graysons and the navigator Arkwrights. Outsiders are initially distrusted, so the party must first build trust with various town factions through completing side quests. Only after gaining trust can they effectively mediate the feud and uncover deeper plots involving the Iron Tide pirates and rumours of the mysterious "Tidecaller Compass."
 
 --
+
 
 ## Introduction - 🎙️ Captain Elias Godfrey – Quarterdeck Address (Opening of *Adventure 6: Uncharted Waters*)
 
@@ -32,6 +34,8 @@ Aldshore, a practical coastal settlement in the Kyngesreach Archipelago, is caug
 
 ---
 
+
+
 ## Main Quest: Resolving the Feud
 
 **Goal:**  
@@ -44,6 +48,192 @@ Initially, both families distrust the players. Trust must be earned by completin
 Successful mediation leads to unified Aldshore support and insights about the cycles, the Iron Tide, and the Tidecaller Compass.
 
 ---
+### 🧿 Recurring Vosk Gag: "Oh no! The sahuagin have found me!"
+
+Use these interludes between quests or scenes. Vosk must see the sahuagin first and deliver the exact same line every time. Players may intervene—pointlessly.
+
+---
+
+#### 🐟 Encounter 1: Fish Presentation
+
+- The party is passing the docks.  
+- Vosk drops a crate and stares toward the water.  
+> “Oh no! The sahuagin have found me!”  
+- Two sahuagin rise waist-deep from the sea, one holding a **single fish** on a polished plank.  
+- They gently **tilt the plank toward Vosk**, nod, and submerge.
+
+---
+
+#### 🐚 Encounter 2: Tavern Visitation
+
+- Inside the tavern, mid-meal.  
+- The door creaks open. Two dripping sahuagin step inside.  
+> “Oh no! The sahuagin have found me!”  
+- One walks up to Vosk and solemnly **places a seashell** on his table.  
+- They bow to the room and leave. No one else reacts.
+
+---
+
+#### 🌙 Encounter 3: Moonlit Chase
+
+- Party sees Vosk **sprinting past them** at night.  
+> “Oh no! The sahuagin have found me!”  
+- A single sahuagin is walking calmly down the street behind him, holding a **small lantern made of coral**.  
+- It does not speed up. It does not stop. It just watches.
+
+---
+
+#### 🪢 Encounter 4: Dockside Knotwork
+
+- PCs spot Vosk arguing with a rope vendor.  
+- Behind him, a sahuagin silently **ties a knot** in a coil of spare rope.  
+- The knot resembles a spiral.  
+> Vosk turns, freezes. “Oh no! The sahuagin have found me!”  
+- The sahuagin gives him a **thumbs-up**, then steps backward off the dock into the water.
+
+---
+
+#### 🪦 Encounter 5: Shell Arrangement
+
+- Party returns to the ship and finds **spiral shell patterns** arranged neatly on the deck near Vosk’s hammock.  
+> “Oh no! The sahuagin have found me!”  
+- He points at them, panic rising.  
+- There are no sahuagin in sight—until one **slowly surfaces**, salutes, and sinks again without a word.
+
+## 🎶 Encounter 6: Choral Murmurs
+
+- While crossing town, the PCs hear **strange harmonic humming** echoing through an alley.  
+- Vosk is backing out slowly.  
+> “Oh no! The sahuagin have found me!”  
+- Three sahuagin are standing in perfect unison, making low melodic clicks.  
+- One produces a **tiny harp made of fishbone**, strums a note, and walks away.
+
+---
+
+##
+
+---
+
+## 🐟 The Sahuagin Wedding of Larman Vosk
+
+**Trigger:**  
+This event occurs after the final side quest and before or during the “Imminent Cycle” main event. It should interrupt something important.
+
+---
+
+### 🎬 Setting:
+
+- **Location:** Low stone quay outside Aldshore.  
+- **Time:** High tide. Full moon.  
+- **Atmosphere:** The sea is glass-calm. The sky is cloudless. The air carries a faint tang of brine and ceremony.
+
+---
+
+### 🎭 The Procession:
+
+- Ten sahuagin emerge from the sea in ritual formation.
+- Each wears robes of woven kelp, crusted coral, and faded linen banners with spiral glyphs.
+- A slow, solemn music plays—reef-horns and hollow bone flutes in an unsettlingly irregular rhythm.
+- They carry no weapons. Only tradition.
+
+---
+
+### 🎩 The Ceremonial Hat:
+
+- Towering, ridiculous, and reverent.  
+- Constructed from lacquered crab shells.  
+- Fan coral antlers reach a metre wide, each dangling with live sea anemones.  
+- Salt-rimed netting trails over the face like a bridal veil, embedded with glass shards, fishbone, and a whole barnacled clam.  
+- From the crown dangles a driftwood plank etched in curling runes:
+  - *“Tide Claimed. Moon Witnessed. He is Taken.”*
+- The entire structure makes a quiet **gurgling** noise when worn, like a sponge thinking hard.
+
+---
+
+### 👰🏾 The Ceremony:
+
+- Vosk tries to flee. Two sahuagin step calmly to either side and wait. He freezes.
+- The music rises.
+- A pair of attendants place the hat on his head. It *sinks slightly*, as if tasting him.
+- The High Priestess raises her kelp-wrapped staff.
+
+She chants for several minutes—tones and clicks that have never been heard above water.
+
+Then, with slow solemnity, she taps Vosk **twice on the chest** with the staff.
+
+> **High Priestess Nalqua (translated, if attempted):**  
+> “The debt is satisfied. The reef releases its claim.”
+
+And just like that—  
+They turn.  
+And return to the sea.
+
+---
+
+### 🧘 Aftermath:
+
+- Vosk is left standing alone.
+- The hat remains. The music stops. The tide begins to recede.
+- No one speaks. Even the gulls are silent.
+- Only the faint **gurgle** of ceremonial dampness can be heard from the hat.
+
+The sahuagin do not return.
+
+---
+
+### 🎭 Final Epilogue (End of Session):
+
+- The party finds Vosk later, sitting at the edge of the quay.
+- He is still wearing the hat.
+
+If approached:
+
+> **Vosk (softly):**  
+> “Oh no... they’re gone.”  
+> *(pause)*  
+> “...I think I miss them.”
+
+---
+
+### 🪖 Post-Wedding Vosk Behaviour Protocol (Epilogue)
+
+- Vosk **wears the hat at all times**. It does not slip. It does not tilt. It is *resolute*.
+- When asked about it, he responds with total sincerity:
+
+> **Vosk:**  
+> “What hat?”
+
+- The hat emits occasional, unpredictable sounds:
+  - *flobber*
+  - *drup*
+  - *klik-kloonk*
+  - *grallll*
+  - *glurb*
+  - *enthusiastic bubbling*
+
+- If a player attempts to remove it:
+  - The moment their fingers touch it, it emits a defensive *squelch* and goes slightly warm.
+  - A **gentle but unrelenting suction** holds it in place.
+  - Strength rolls accomplish nothing. Magic slides off like oil on kelp.
+
+> **Optional GM Response (if they persist):**  
+> “You feel an ancient and unspoken pressure, as though a billion solemn fish are watching, disappointed.”
+
+- If Detect Magic or similar is used:
+  - The hat lights up like a beacon. Schools of nearby fish immediately change direction.
+  - Interpretation attempts yield only:
+    - “Conjuration.”  
+    - “Binding.”  
+    - And “Possibly ceremonial etiquette enforcement.”
+
+**Note:**  
+Under no circumstances is this hat to be stolen, removed, or repurposed. It is not loot. It is **a burden**.  
+One Vosk must carry.  
+With honour.  
+And *glurb*.
+
+
+
 
 ## Side Quests (Reputation Building)
 
@@ -229,6 +419,7 @@ Rescue Merric Halden from Iron Tide scouts, recover stolen Grayson shipwright to
 
 ---
 
+
 ## Optional Side Encounter: "The Old Salt’s Tale"
 
 **Objective:**  
@@ -248,6 +439,7 @@ Engage Old Gideon, a retired sailor, in storytelling to learn Stormcaller lore.
 
 ---
 
+
 ## Final Quest: "Imminent Cycle Decision"
 
 **Objective:**  
@@ -266,6 +458,7 @@ Make a crucial decision when signs of an impending cycle threaten Aldshore’s s
 
 ---
 
+
 ## NPC Reference Chart
 
 | NPC Name               | Role / Occupation                 | Motivation                           |
@@ -283,6 +476,7 @@ Make a crucial decision when signs of an impending cycle threaten Aldshore’s s
 
 ---
 
+
 ## Adventure Flow & Suggested Timing (4–5 hours total)
 
 | Scene / Quest                    | Duration   | Trust Earned              |
@@ -298,11 +492,13 @@ Make a crucial decision when signs of an impending cycle threaten Aldshore’s s
 
 ---
 
+
 ## Pitch to Players (Video-Game Style):
 
 > "You've arrived at Aldshore, a port town deeply suspicious of outsiders. To mediate the bitter rivalry between the Graysons and the Arkwrights, you'll first need to gain the locals’ trust by completing quests around town. Consider them classic RPG-style side quests: rescuing fishermen, resolving dockside intrigues, and investigating mysterious disappearances. Prove yourselves trustworthy, unravel hidden plots involving Iron Tide pirates and the enigmatic Tidecaller Compass, and ultimately guide Aldshore through an imminent, unpredictable cycle."
 
 ---
+
 
 ## GM Tips & Tone:
 
@@ -312,3 +508,4 @@ Make a crucial decision when signs of an impending cycle threaten Aldshore’s s
 - Maintain a video-game RPG tone familiar and appealing to players.
 
 This structured, RPG-inspired adventure format should be easy to reference during play, providing a clear progression and plenty of immersive roleplaying opportunities.
+
